@@ -10,7 +10,7 @@
   "kind": "漢文訓読体（漢字片仮名交じり）。序は漢文",
   "era": "",
   "author": "サミュエル・スマイルズ 著、中村正直 訳",
-  "desc": "全文。明治 27 年の活字版の全コマを画像と照らして起こした。第一編から第六編には原書の原文と、原文からの現代語訳を付けた（第六編は、文語訳に対応のない原書の段落を注に書いた）。迷った字の見直しと、第七編からあとの原文・現代語訳、中村自身の序の訳はこれから"
+  "desc": "全文。明治 27 年の活字版の全コマを画像と照らして起こした。第一編から第七編には原書の原文と、原文からの現代語訳を付けた（第六編からは、文語訳に対応のない原書の段落を注に書いた）。迷った字の見直しと、第八編からあとの原文・現代語訳、中村自身の序の訳はこれから"
  },
  "editions": [
   {
@@ -15950,7 +15950,8 @@
      "a": "搜",
      "r": "サグ"
     }
-   ]
+   ],
+   "genbun": "William Phipps, the founder of the Mulgrave or Normanby family, was a man quite as remarkable in his way as Richard Foley. His father was a gunsmith—a robust Englishman settled at Woolwich, in Maine, then forming part of our English colonies in America. He was born in 1651, one of a family of not fewer than twenty-six children (of whom twenty-one were sons), whose only fortune lay in their stout hearts and strong arms. William seems to have had a dash of the Danish-sea blood in his veins, and did not take kindly to the quiet life of a shepherd in which he spent his early years. By nature bold and adventurous, he longed to become a sailor and roam through the world. He sought to join some ship; but not being able to find one, he apprenticed himself to a shipbuilder, with whom he thoroughly learnt his trade, acquiring the arts of reading and writing during his leisure hours. Having completed his apprenticeship and removed to Boston, he wooed and married a widow of some means, after which he set up a little shipbuilding yard of his own, built a ship, and, putting to sea in her, he engaged in the lumber trade, which he carried on in a plodding and laborious way for the space of about ten years."
   },
   {
    "id": "saigoku-risshi-hen-000266",
@@ -15984,7 +15985,8 @@
      "a": "漁獵",
      "r": "スナドル"
     }
-   ]
+   ],
+   "genbun": "It happened that one day, whilst passing through the crooked streets of old Boston, he overheard some sailors talking to each other of a wreck which had just taken place off the Bahamas; that of a Spanish ship, supposed to have much money on board. His adventurous spirit was at once kindled, and getting together a likely crew without loss of time, he set sail for the Bahamas. The wreck being well in-shore, he easily found it, and succeeded in recovering a great deal of its cargo, but very little money; and the result was, that he barely defrayed his expenses. His success had been such, however, as to stimulate his enterprising spirit; and when he was told of another and far more richly laden vessel which had been wrecked near Port de la Plata more than half a century before, he forthwith formed the resolution of raising the wreck, or at all events of fishing up the treasure."
   },
   {
    "id": "saigoku-risshi-hen-000267",
@@ -16015,7 +16017,8 @@
      "r": "モウドウ",
      "l": "ワカリノアシキ"
     }
-   ]
+   ],
+   "genbun": "Being too poor, however, to undertake such an enterprise without powerful help, he set sail for England in the hope that he might there obtain it. The fame of his success in raising the wreck off the Bahamas had already preceded him. He applied direct to the Government. By his urgent enthusiasm, he succeeded in overcoming the usual inertia of official minds; and Charles II. eventually placed at his disposal the “Rose Algier,” a ship of eighteen guns and ninety-five men, appointing him to the chief command.\nPhipps then set sail to find the Spanish ship and fish up the treasure. He reached the coast of Hispaniola in safety; but how to find the sunken ship was the great difficulty. The fact of the wreck was more than fifty years old; and Phipps had only the traditionary rumours of the event to work upon. There was a wide coast to explore, and an outspread ocean without any trace whatever of the argosy which lay somewhere at its bottom. But the man was stout in heart and full of hope. He set his seamen to work to drag along the coast, and for weeks they went on fishing up sea-weed, shingle, and bits of rock. No occupation could be more trying to seamen, and they began to grumble one to another, and to whisper that the man in command had brought them on a fool’s errand."
   },
   {
    "id": "saigoku-risshi-hen-000268",
@@ -16058,7 +16061,8 @@
      "a": "費布士",
      "r": "フイツプス"
     }
-   ]
+   ],
+   "genbun": "At length the murmurers gained head, and the men broke into open mutiny. A body of them rushed one day on to the quarter-deck, and demanded that the voyage should be relinquished. Phipps, however, was not a man to be intimidated; he seized the ringleaders, and sent the others back to their duty. It became necessary to bring the ship to anchor close to a small island for the purpose of repairs; and, to lighten her, the chief part of the stores was landed. Discontent still increasing amongst the crew, a new plot was laid amongst the men on shore to seize the ship, throw Phipps overboard, and start on a piratical cruize against the Spaniards in the South Seas. But it was necessary to secure the services of the chief ship carpenter, who was consequently made privy to the pilot. This man proved faithful, and at once told the captain of his danger. Summoning about him those whom he knew to be loyal, Phipps had the ship’s guns loaded which commanded the shore, and ordered the bridge communicating with the vessel to be drawn up. When the mutineers made their appearance, the captain hailed them, and told the men he would fire upon them if they approached the stores (still on land),—when they drew back; on which Phipps had the stores reshipped under cover of his guns. The mutineers, fearful of being left upon the barren island, threw down their arms and implored to be permitted to return to their duty. The request was granted, and suitable precautions were taken against future mischief. Phipps, however, took the first opportunity of landing the mutinous part of the crew, and engaging other men in their places; but, by the time that he could again proceed actively with his explorations, he found it absolutely necessary to proceed to England for the purpose of repairing the ship."
   },
   {
    "id": "saigoku-risshi-hen-000269",
@@ -16080,7 +16084,8 @@
      "a": "險ヲ冐",
      "r": "アブナキヲヲカス"
     }
-   ]
+   ],
+   "genbun": "He had now, however, gained more precise information as to the spot where the Spanish treasure ship had sunk; and, though as yet baffled, he was more confident than ever of the eventual success of his enterprise."
   },
   {
    "id": "saigoku-risshi-hen-000270",
@@ -16109,6 +16114,13 @@
     {
      "a": "費布士",
      "r": "フイツプス"
+    }
+   ],
+   "genbun": "Returned to London, Phipps reported the result of his voyage to the Admiralty, who professed to be pleased with his exertions; but he had been unsuccessful, and they would not entrust him with another king’s ship. James II. was now on the throne, and the Government was in trouble; so Phipps and his golden project appealed to them in vain. He next tried to raise the requisite means by a public subscription. At first he was laughed at; but his ceaseless importunity at length prevailed, and after four years’ dinning of his project into the ears of the great and influential—during which time he lived in poverty—he at length succeeded. A company was formed in twenty shares, the Duke of Albermarle, son of General Monk, taking the chief interest in it, and subscribing the principal part of the necessary fund for the prosecution of the enterprise.",
+   "chu": [
+    {
+     "a": "元金ヲ出スモノ、二十人集リテ",
+     "n": "原文は、二十株の会社が作られ、モンク将軍の息子アルベマール公が主な出資者となって、資金の大部分を出した、とする。四年のあいだフィップスが貧しく暮らしたことも原文にある"
     }
    ]
   },
@@ -16175,6 +16187,17 @@
      "r": "",
      "l": "元祿八年"
     }
+   ],
+   "genbun": "Like Foley, Phipps proved more fortunate in his second voyage than in his first. The ship arrived without accident at Port de la Plata, in the neighbourhood of the reef of rocks supposed to have been the scene of the wreck. His first object was to build a stout boat capable of carrying eight or ten oars, in constructing which Phipps used the adze himself. It is also said that he constructed a machine for the purpose of exploring the bottom of the sea similar to what is now known as the Diving Bell. Such a machine was found referred to in books, but Phipps knew little of books, and may be said to have re-invented the apparatus for his own use. He also engaged Indian divers, whose feats of diving for pearls, and in submarine operations, were very remarkable. The tender and boat having been taken to the reef, the men were set to work, the diving bell was sunk, and the various modes of dragging the bottom of the sea were employed continuously for many weeks, but without any prospect of success. Phipps, however, held on valiantly, hoping almost against hope. At length, one day, a sailor, looking over the boat’s side down into the clear water, observed a curious sea-plant growing in what appeared to be a crevice of the rock; and he called upon an Indian diver to go down and fetch it for him. On the red man coming up with the weed, he reported that a number of ships guns were lying in the same place. The intelligence was at first received with incredulity, but on further investigation it proved to be correct. Search was made, and presently a diver came up with a solid bar of silver in his arms. When Phipps was shown it, he exclaimed, “Thanks be to God! we are all made men.” Diving bell and divers now went to work with a will, and in a few days, treasure was brought up to the value of about £300,000, with which Phipps set sail for England. On his arrival, it was urged upon the king that he should seize the ship and its cargo, under the pretence that Phipps, when soliciting his Majesty’s permission, had not given accurate information respecting the business. But the king replied, that he knew Phipps to be an honest man, and that he and his friends should divide the whole treasure amongst them, even though he had returned with double the value. Phipps’s share was about £20,000, and the king, to show his approval of his energy and honesty in conducting the enterprise, conferred upon him the honour of knighthood. He was also made High Sheriff of New England; and during the time he held the office, he did valiant service for the mother country and the colonists against the French, by expeditions against Port Royal and Quebec. He also held the post of Governor of Massachusetts, from which he returned to England, and died in London in 1695.",
+   "chu": [
+    {
+     "a": "三十萬金",
+     "n": "原文は約 30 万ポンド。フィップスの取り分は約 2 万ポンド"
+    },
+    {
+     "a": "時ニ一千六百九十五年ナリ",
+     "n": "原書はこのあとに四つの段落を置く（段落 16〜19）。フィップスが晩年も船大工の出であることを恥じなかった話、ランズダウン家の創始者ウィリアム・ペティの話、靴下編み機の改良で家を興したストラット家の話で、中村の訳にはない"
+    }
    ]
   },
   {
@@ -16225,7 +16248,8 @@
      "a": "表々",
      "r": "イチヂルシキ"
     }
-   ]
+   ],
+   "genbun": "No less industry and energy have been displayed by the many brave men, both in present and past times, who have earned the peerage by their valour on land and at sea. Not to mention the older feudal lords, whose tenure depended upon military service, and who so often led the van of the English armies in great national encounters, we may point to Nelson, St. Vincent, and Lyons—to Wellington, Hill, Hardinge, Clyde, and many more in recent times, who have nobly earned their rank by their distinguished services."
   },
   {
    "id": "saigoku-risshi-hen-000273",
@@ -16261,6 +16285,13 @@
     {
      "a": "陞",
      "r": "ノボ"
+    }
+   ],
+   "genbun": "But plodding industry has far oftener worked its way to the peerage by the honourable pursuit of the legal profession, than by any other. No fewer than seventy British peerages, including two dukedoms, have been founded by successful lawyers. Mansfield and Erskine were, it is true, of noble family; but the latter used to thank God that out of his own family he did not know a lord. The others were, for the most part, the sons of attorneys, grocers, clergymen, merchants, and hardworking members of the middle class. Out of this profession have sprung the peerages of Howard and Cavendish, the first peers of both families having been judges; those of Aylesford, Ellenborough, Guildford, Shaftesbury, Hardwicke, Cardigan, Clarendon, Camden, Ellesmere, Rosslyn; and others nearer our own day, such as Tenterden, Eldon, Brougham, Denman, Truro, Lyndhurst, St. Leonards, Cranworth, Campbell, and Chelmsford.",
+   "chu": [
+    {
+     "a": "眞ニ後人ノ表樣トナスベキナリ",
+     "n": "中村の訳はここで第七編を終える。原文は、法律家の出である貴族の家の名を続けて挙げる。原書はさらに七つの段落を置く（段落 21〜27）。肖像画家の息子リンドハースト卿、石炭商の息子ジョン・スコット（エルドン卿）、外科医の息子ヘンリー・ビッカーステス（ラングデール卿）など、大法官にまで昇った人々の話で、中村の訳にはない"
     }
    ]
   },
@@ -32694,7 +32725,7 @@
  ],
  "poems": [],
  "translation": {
-  "count": 218,
+  "count": 227,
   "note": "AI による現代語訳と書き下し"
  },
  "original": "Self-Help (1859)",
