@@ -14816,7 +14816,8 @@
      "a": "結親",
      "r": "コンレイ"
     }
-   ]
+   ],
+   "genbun": "At length, in the year 1782, when twenty-seven years of age, he quitted his father’s roof and rented a small house and studio in Wardour Street, Soho; and what was more, he married—Ann Denman was the name of his wife—and a cheerful, bright-souled, noble woman she was. He believed that in marrying her he should be able to work with an intenser spirit; for, like him, she had a taste for poetry and art; and besides was an enthusiastic admirer of her husband’s genius. Yet when Sir Joshua Reynolds—himself a bachelor—met Flaxman shortly after his marriage, he said to him, “So, Flaxman, I am told you are married; if so, sir, I tell you you are ruined for an artist.” Flaxman went straight home, sat down beside his wife, took her hand in his, and said, “Ann, I am ruined for an artist.” “How so, John? How has it happened? and who has done it?” “It happened,” he replied, “in the church, and Ann Denman has done it.” He then told her of Sir Joshua’s remark—whose opinion was well known, and had often been expressed, that if students would excel they must bring the whole powers of their mind to bear upon their art, from the moment they rose until they went to bed; and also, that no man could be a great artist unless he studied the grand works of Raffaelle, Michael Angelo, and others, at Rome and Florence. “And I,” said Flaxman, drawing up his little figure to its full height, “I would be a great artist.” “And a great artist you shall be,” said his wife, “and visit Rome too, if that be really necessary to make you great.” “But how?” asked Flaxman. “Work and economise,” rejoined the brave wife; “I will never have it said that Ann Denman ruined John Flaxman for an artist.” And so it was determined by the pair that the journey to Rome was to be made when their means would admit. “I will go to Rome,” said Flaxman, “and show the President that wedlock is for a man’s good rather than his harm; and you, Ann, shall accompany me.”"
   },
   {
    "id": "saigoku-risshi-hen-000245",
@@ -14866,6 +14867,13 @@
      "a": "亞答瑪斯",
      "r": "アダマス"
     }
+   ],
+   "genbun": "Patiently and happily the affectionate couple plodded on during five years in their humble little home in Wardour Street, always with the long journey to Rome before them. It was never lost sight of for a moment, and not a penny was uselessly spent that could be saved towards the necessary expenses. They said no word to any one about their project; solicited no aid from the Academy; but trusted only to their own patient labour and love to pursue and achieve their object. During this time Flaxman exhibited very few works. He could not afford marble to experiment in original designs; but he obtained frequent commissions for monuments, by the profits of which he maintained himself. He still worked for Wedgwood, who was a prompt paymaster; and, on the whole, he was thriving, happy, and hopeful. His local respectability was even such as to bring local honours and local work upon him; for he was elected by the ratepayers to collect the watch-rate for the Parish of St. Anne, when he might be seen going about with an ink-bottle suspended from his button-hole, collecting the money.\nAt length Flaxman and his wife having accumulated a sufficient store of savings, set out for Rome. Arrived there, he applied himself diligently to study, maintaining himself, like other poor artists, by making copies from the antique. English visitors sought his studio, and gave him commissions; and it was then that he composed his beautiful designs illustrative of Homer, Æschylus, and Dante. The price paid for them was moderate—only fifteen shillings a-piece; but Flaxman worked for art as well as money; and the beauty of the designs brought him other friends and patrons. He executed Cupid and Aurora for the munificent Thomas Hope, and the Fury of Athamas for the Earl of Bristol. He then prepared to return to England, his taste improved and cultivated by careful study; but before he left Italy, the Academies of Florence and Carrara recognised his merit by electing him a member.",
+   "chu": [
+    {
+     "a": "コノ後、五年ノ間",
+     "n": "原文には、この五年のあいだフラックスマンが教区の夜警税の集金人に選ばれ、ボタン穴にインク壺をつるして集めて回ったこと、帰国の前にフィレンツェとカッラーラの美術院の会員に選ばれたことがあるが、中村の訳にはない"
+    }
    ]
   },
   {
@@ -14897,6 +14905,13 @@
      "r": "",
      "l": "藝術ノ大學院"
     }
+   ],
+   "genbun": "His fame had preceded him to London, where he soon found abundant employment. While at Rome he had been commissioned to execute his famous monument in memory of Lord Mansfield, and it was erected in the north transept of Westminster Abbey shortly after his return. It stands there in majestic grandeur, a monument to the genius of Flaxman himself—calm, simple, and severe. No wonder that Banks, the sculptor, then in the heyday of his fame, exclaimed when he saw it, “This little man cuts us all out!”\nWhen the members of the Royal Academy heard of Flaxman’s return, and especially when they had an opportunity of seeing and admiring his portrait-statue of Mansfield, they were eager to have him enrolled among their number. He allowed his name to be proposed in the candidates’ list of associates, and was immediately elected.",
+   "chu": [
+    {
+     "a": "ローヤルアカデミーノ雕像ノ學師ニ任ゼラレタリ",
+     "n": "彫刻の教授に任じられたことは、原文では次の段落の初めに当たる。原文にある、当時名声の盛りにあった彫刻家バンクスの言葉（「この小さな男は、われわれみんなをしのいでいる」）は、中村の訳にはない"
+    }
    ]
   },
   {
@@ -14923,6 +14938,13 @@
     {
      "a": "傷",
      "r": "ヤブ"
+    }
+   ],
+   "genbun": "Shortly after, he appeared in an entirely new character. The little boy who had begun his studies behind the plaster-cast-seller’s shop-counter in New Street, Covent Garden, was now a man of high intellect and recognised supremacy in art, to instruct students, in the character of Professor of Sculpture to the Royal Academy! And no man better deserved to fill that distinguished office; for none is so able to instruct others as he who, for himself and by his own efforts, has learnt to grapple with and overcome difficulties.\nAfter a long, peaceful, and happy life, Flaxman found himself growing old. The loss which he sustained by the death of his affectionate wife Ann, was a severe shock to him; but he survived her several years, during which he executed his celebrated “Shield of Achilles,” and his noble “Archangel Michael vanquishing Satan,”—perhaps his two greatest works.",
+   "chu": [
+    {
+     "a": "一千八百二十六年沒セリ",
+     "n": "没年は中村が加えたもの（原書のこの段落にはない）。原文にある晩年の二つの大作（『アキレウスの盾』と『サタンを打ち負かす大天使ミカエル』）は、中村の訳にはない"
     }
    ]
   },
@@ -32583,7 +32605,7 @@
  ],
  "poems": [],
  "translation": {
-  "count": 197,
+  "count": 201,
   "note": "AI による現代語訳と書き下し"
  },
  "original": "Self-Help (1859)",
