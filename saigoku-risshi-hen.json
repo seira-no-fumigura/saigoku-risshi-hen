@@ -15616,7 +15616,8 @@
      "a": "創",
      "r": "オコシ"
     }
-   ]
+   ],
+   "genbun": "“He either fears his fate too much, Or his deserts are small, That dares not put it to the touch, To gain or lose it all.”—Marquis of Montrose.\n“He hath put down the mighty from their seats; and exalted them of low degree.”—St. Luke."
   },
   {
    "id": "saigoku-risshi-hen-000261",
@@ -15681,6 +15682,21 @@
     {
      "a": "阿力弗。格朗空",
      "r": "オリヴアークロンヱル"
+    }
+   ],
+   "genbun": "The blood of all men flows from equally remote sources; and though some are unable to trace their line directly beyond their grandfathers, all are nevertheless justified in placing at the head of their pedigree the great progenitors of the race, as Lord Chesterfield did when he wrote, “ADAM de Stanhope—EVE de Stanhope.” No class is ever long stationary. The mighty fall, and the humble are exalted. New families take the place of the old, who disappear among the ranks of the common people. Burke’s ‘Vicissitudes of Families’ strikingly exhibit this rise and fall of families, and show that the misfortunes which overtake the rich and noble are greater in proportion than those which overwhelm the poor. This author points out that of the twenty-five barons selected to enforce the observance of Magna Charta, there is not now in the House of Peers a single male descendant. Civil wars and rebellions ruined many of the old nobility and dispersed their families. Yet their descendants in many cases survive, and are to be found among the ranks of the people. Fuller wrote in his ‘Worthies,’ that “some who justly hold the surnames of Bohuns, Mortimers, and Plantagenets, are hid in the heap of common men.” Thus Burke shows that two of the lineal descendants of the Earl of Kent, sixth son of Edward I., were discovered in a butcher and a toll-gatherer; that the great grandson of Margaret Plantagenet, daughter of the Duke of Clarance, sank to the condition of a cobbler at Newport, in Shropshire; and that among the lineal descendants of the Duke of Gloucester, son of Edward III., was the late sexton of St. George’s, Hanover Square. It is understood that the lineal descendant of Simon de Montfort, England’s premier baron, is a saddler in Tooley Street. One of the descendants of the “Proud Percys,” a claimant of the title of Duke of Northumberland, was a Dublin trunk-maker; and not many years since one of the claimants for the title of Earl of Perth presented himself in the person of a labourer in a Northumberland coal-pit. Hugh Miller, when working as a stone-mason near Edinburgh, was served by a hodman, who was one of the numerous claimants for the earldom of Crauford—all that was wanted to establish his claim being a missing marriage certificate; and while the work was going on, the cry resounded from the walls many times in the day, of—“John, Yearl Crauford, bring us anither hod o’lime.” One of Oliver Cromwell’s great grandsons was a grocer on Snow Hill, and others of his descendants died in great poverty. Many barons of proud names and titles have perished, like the sloth, upon their family tree, after eating up all the leaves; while others have been overtaken by adversities which they have been unable to retrieve, and sunk at last into poverty and obscurity. Such are the mutabilities of rank and fortune.",
+   "chu": [
+    {
+     "a": "凡ソ人ノ血統",
+     "n": "原書はこの前に一つの段落を置く（段落 3）。イギリスの貴族が地位を保ってきたのは、国の最良の勤労の血をその時々に取り入れてきたからだ、という書き出しで、中村の訳にはない"
+    },
+    {
+     "a": "英王義德瓦第六ノ子ナリシ根的亞爾",
+     "n": "原文は「エドワード一世の第六子であるケント伯」。中村の訳は「英王エドワード第六の子」と読める"
+    },
+    {
+     "a": "昔シ英王約翰暴虐甚キニヨリテ",
+     "n": "マグナ・カルタの成り立ちの説明は中村が加えたもの。原文にある、ノーサンバーランド公の称号を求めたダブリンのかばん職人、パース伯の称号を求めた炭鉱の人夫、クローフォード伯の称号を求めた石運びの人夫の話は、中村の訳にはない"
     }
    ]
   },
@@ -15773,7 +15789,8 @@
      "a": "諾曼倍氏",
      "r": "ノーマンベイ"
     }
-   ]
+   ],
+   "genbun": "The great bulk of our peerage is comparatively modern, so far as the titles go; but it is not the less noble that it has been recruited to so large an extent from the ranks of honourable industry. In olden times, the wealth and commerce of London, conducted as it was by energetic and enterprising men, was a prolific source of peerages. Thus, the earldom of Cornwallis was founded by Thomas Cornwallis, the Cheapside merchant; that of Essex by William Capel, the draper; and that of Craven by William Craven, the merchant tailor. The modern Earl of Warwick is not descended from the “King-maker,” but from William Greville, the woolstapler; whilst the modern dukes of Northumberland find their head, not in the Percies, but in Hugh Smithson, a respectable London apothecary. The founders of the families of Dartmouth, Radnor, Ducie, and Pomfret, were respectively a skinner, a silk manufacturer, a merchant tailor, and a Calais merchant; whilst the founders of the peerages of Tankerville, Dormer, and Coventry, were mercers. The ancestors of Earl Romney, and Lord Dudley and Ward, were goldsmiths and jewellers; and Lord Dacres was a banker in the reign of Charles I., as Lord Overstone is in that of Queen Victoria. Edward Osborne, the founder of the Dukedom of Leeds, was apprentice to William Hewet, a rich clothworker on London Bridge, whose only daughter he courageously rescued from drowning, by leaping into the Thames after her, and eventually married. Among other peerages founded by trade are those of Fitzwilliam, Leigh, Petre, Cowper, Darnley, Hill, and Carrington. The founders of the houses of Foley and Normanby were remarkable men in many respects, and, as furnishing striking examples of energy of character, the story of their lives is worthy of preservation."
   },
   {
    "id": "saigoku-risshi-hen-000263",
@@ -15832,7 +15849,8 @@
      "a": "冐",
      "r": "ヲカ"
     }
-   ]
+   ],
+   "genbun": "The father of Richard Foley, the founder of the family, was a small yeoman living in the neighbourhood of Stourbridge in the time of Charles I. That place was then the centre of the iron manufacture of the midland districts, and Richard was brought up to work at one of the branches of the trade—that of nail-making. He was thus a daily observer of the great labour and loss of time caused by the clumsy process then adopted for dividing the rods of iron in the manufacture of nails. It appeared that the Stourbridge nailers were gradually losing their trade in consequence of the importation of nails from Sweden, by which they were undersold in the market. It became known that the Swedes were enabled to make their nails so much cheaper, by the use of splitting mills and machinery, which had completely superseded the laborious process of preparing the rods for nail-making then practised in England.\nRichard Foley, having ascertained this much, determined to make himself master of the new process. He suddenly disappeared from the neighbourhood of Stourbridge, and was not heard of for several years. No one knew whither he had gone, not even his own family; for he had not informed them of his intention, lest he should fail. He had little or no money in his pocket, but contrived to get to Hull, where he engaged himself on board a ship bound for a Swedish port, and worked his passage there. The only article of property which he possessed was his fiddle, and on landing in Sweden he begged and fiddled his way to the Dannemora mines, near Upsala. He was a capital musician, as well as a pleasant fellow, and soon ingratiated himself with the iron-workers. He was received into the works, to every part of which he had access; and he seized the opportunity thus afforded him of storing his mind with observations, and mastering, as he thought, the mechanism of iron splitting. After a continued stay for this purpose, he suddenly disappeared from amongst his kind friends the miners—no one knew whither."
   },
   {
    "id": "saigoku-risshi-hen-000264",
@@ -15873,6 +15891,13 @@
     {
      "a": "查爾斯",
      "r": "チヤールス"
+    }
+   ],
+   "genbun": "Returned to England, he communicated the results of his voyage to Mr. Knight and another person at Stourbridge, who had sufficient confidence in him to advance the requisite funds for the purpose of erecting buildings and machinery for splitting iron by the new process. But when set to work, to the great vexation and disappointment of all, and especially of Richard Foley, it was found that the machinery would not act—at all events it would not split the bars of iron. Again Foley disappeared. It was thought that shame and mortification at his failure had driven him away for ever. Not so! Foley had determined to master this secret of iron-splitting, and he would yet do it. He had again set out for Sweden, accompanied by his fiddle as before, and found his way to the iron works, where he was joyfully welcomed by the miners; and, to make sure of their fiddler, they this time lodged him in the very splitting-mill itself. There was such an apparent absence of intelligence about the man, except in fiddle-playing, that the miners entertained no suspicions as to the object of their minstrel, whom they thus enabled to attain the very end and aim of his life. He now carefully examined the works, and soon discovered the cause of his failure. He made drawings or tracings of the machinery as well as he could, though this was a branch of art quite new to him; and after remaining at the place long enough to enable him to verify his observations, and to impress the mechanical arrangements clearly and vividly on his mind, he again left the miners, reached a Swedish port, and took ship for England. A man of such purpose could not but succeed. Arrived amongst his surprised friends, he now completed his arrangements, and the results were entirely successful. By his skill and his industry he soon laid the foundations of a large fortune, at the same time that he restored the business of an extensive district. He himself continued, during his life, to carry on his trade, aiding and encouraging all works of benevolence in his neighbourhood. He founded and endowed a school at Stourbridge; and his son Thomas (a great benefactor of Kidderminster), who was High Sheriff of Worcestershire in the time of “The Rump,” founded and endowed an hospital, still in existence, for the free education of children at Old Swinford. All the early Foleys were Puritans. Richard Baxter seems to have been on familiar and intimate terms with various members of the family, and makes frequent mention of them in his ‘Life and Times.’ Thomas Foley, when appointed high sheriff of the county, requested Baxter to preach the customary sermon before him; and Baxter in his ‘Life’ speaks of him as “of so just and blameless dealing, that all men he ever had to do with magnified his great integrity and honesty, which were questioned by none.” The family was ennobled in the reign of Charles the Second.",
+   "chu": [
+    {
+     "a": "英王查爾斯第二ノ時",
+     "n": "原文には、初期のフォーリー家がみな清教徒だったこと、リチャード・バクスターがこの一族と親しく、州長官になったトマス・フォーリーの公正さをたたえていることがあるが、中村の訳にはない"
     }
    ]
   },
@@ -32669,7 +32694,7 @@
  ],
  "poems": [],
  "translation": {
-  "count": 213,
+  "count": 218,
   "note": "AI による現代語訳と書き下し"
  },
  "original": "Self-Help (1859)",
