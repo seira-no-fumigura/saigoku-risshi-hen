@@ -10731,6 +10731,17 @@
      "a": "禮亞德",
      "r": "レイアード"
     }
+   ],
+   "genbun": "But there are equally striking illustrations of perseverance to be found in every other branch of science, art, and industry. Perhaps one of the most interesting is that connected with the disentombment of the Nineveh marbles, and the discovery of the long-lost cuneiform or arrow-headed character in which the inscriptions on them are written—a kind of writing which had been lost to the world since the period of the Macedonian conquest of Persia.\nAn intelligent cadet of the East India Company, stationed at Kermanshah, in Persia, had observed the curious cuneiform inscriptions on the old monuments in the neighbourhood—so old that all historical traces of them had been lost,—and amongst the inscriptions which he copied was that on the celebrated rock of Behistun—a perpendicular rock rising abruptly some 1700 feet from the plain, the lower part bearing inscriptions for the space of about 300 feet in three languages—Persian, Scythian, and Assyrian. Comparison of the known with the unknown, of the language which survived with the language that had been lost, enabled this cadet to acquire some knowledge of the cuneiform character, and even to form an alphabet. Mr. (afterwards Sir Henry) Rawlinson sent his tracings home for examination. No professors in colleges as yet knew anything of the cuneiform character; but there was a ci-devant clerk of the East India House—a modest unknown man of the name of Norris—who had made this little-understood subject his study, to whom the tracings were submitted; and so accurate was his knowledge, that, though he had never seen the Behistun rock, he pronounced that the cadet had not copied the puzzling inscription with proper exactness. Rawlinson, who was still in the neighbourhood of the rock, compared his copy with the original, and found that Norris was right; and by further comparison and careful study the knowledge of the cuneiform writing was thus greatly advanced.\nBut to make the learning of these two self-taught men of avail, a third labourer was necessary in order to supply them with material for the exercise of their skill. Such a labourer presented himself in the person of Austen Layard, originally an articled clerk in the office of a London solicitor. One would scarcely have expected to find in these three men, a cadet, an India-House clerk, and a lawyer’s clerk, the discoverers of a forgotten language, and of the buried history of Babylon; yet it was so. Layard was a youth of only twenty-two, travelling in the East, when he was possessed with a desire to penetrate the regions beyond the Euphrates. Accompanied by a single companion, trusting to his arms for protection, and, what was better, to his cheerfulness, politeness, and chivalrous bearing, he passed safely amidst tribes at deadly war with each other; and, after the lapse of many years, with comparatively slender means at his command, but aided by application and perseverance, resolute will and purpose, and almost sublime patience,—borne up throughout by his passionate enthusiasm for discovery and research,—he succeeded in laying bare and digging up an amount of historical treasures, the like of which has probably never before been collected by the industry of any one man. Not less than two miles of bas-reliefs were thus brought to light by Mr. Layard. The selection of these valuable antiquities, now placed in the British Museum, was found so curiously corroborative of the scriptural records of events which occurred some three thousand years ago, that they burst upon the world almost like a new revelation. And the story of the disentombment of these remarkable works, as told by Mr. Layard himself in his ‘Monuments of Nineveh,’ will always be regarded as one of the most charming and unaffected records which we possess of individual enterprise, industry, and energy.",
+   "chu": [
+    {
+     "a": "羅林孫ハ、東印度公司ニ屬スル一ノ武童",
+     "n": "原文では、楔形文字の碑文を写した東インド会社の士官候補生がローリンソンその人である。中村の訳は、候補生と「会社の主司だったローリンソン」とを別の人のように書いている"
+    },
+    {
+     "a": "三千年以上ノ古蹟",
+     "n": "原文は、レヤードが掘り出した浮き彫りは二マイルを下らないこと、大英博物館に置かれた品々が約三千年前の出来事についての聖書の記録を裏づけたことを述べる。中村の訳は短くまとめている"
+    }
    ]
   },
   {
@@ -10776,7 +10787,8 @@
      "a": "矯",
      "r": "タメ"
     }
-   ]
+   ],
+   "genbun": "The career of the Comte de Buffon presents another remarkable illustration of the power of patient industry as well as of his own saying, that “Genius is patience.” Notwithstanding the great results achieved by him in natural history, Buffon, when a youth, was regarded as of mediocre talents. His mind was slow in forming itself, and slow in reproducing what it had acquired. He was also constitutionally indolent; and being born to good estate, it might be supposed that he would indulge his liking for ease and luxury. Instead of which, he early formed the resolution of denying himself pleasure, and devoting himself to study and self-culture. Regarding time as a treasure that was limited, and finding that he was losing many hours by lying a-bed in the mornings, he determined to break himself of the habit. He struggled hard against it for some time, but failed in being able to rise at the hour he had fixed. He then called his servant, Joseph, to his help, and promised him the reward of a crown every time that he succeeded in getting him up before six. At first, when called, Buffon declined to rise—pleaded that he was ill, or pretended anger at being disturbed; and on the Count at length getting up, Joseph found that he had earned nothing but reproaches for having permitted his master to lie a-bed contrary to his express orders. At length the valet determined to earn his crown; and again and again he forced Buffon to rise, notwithstanding his entreaties, expostulations, and threats of immediate discharge from his service. One morning Buffon was unusually obstinate, and Joseph found it necessary to resort to the extreme measure of dashing a basin of ice-cold water under the bed-clothes, the effect of which was instantaneous. By the persistent use of such means, Buffon at length conquered his habit; and he was accustomed to say that he owed to Joseph three or four volumes of his Natural History."
   },
   {
    "id": "saigoku-risshi-hen-000171",
@@ -10802,7 +10814,8 @@
      "a": "約瑟",
      "r": "ジヨセフ"
     }
-   ]
+   ],
+   "genbun": "For forty years of his life, Buffon worked every morning at his desk from nine till two, and again in the evening from five till nine. His diligence was so continuous and so regular that it became habitual. His biographer has said of him, “Work was his necessity; his studies were the charm of his life; and towards the last term of his glorious career he frequently said that he still hoped to be able to consecrate to them a few more years.” He was a most conscientious worker, always studying to give the reader his best thoughts, expressed in the very best manner. He was never wearied with touching and retouching his compositions, so that his style may be pronounced almost perfect. He wrote the ‘Epoques de la Nature’ not fewer than eleven times before he was satisfied with it; although he had thought over the work about fifty years."
   },
   {
    "id": "saigoku-risshi-hen-000172",
@@ -10823,6 +10836,13 @@
     {
      "a": "蒲豐",
      "r": "ビユフヲン"
+    }
+   ],
+   "genbun": "He was a thorough man of business, most orderly in everything; and he was accustomed to say that genius without order lost three-fourths of its power. His great success as a writer was the result mainly of his painstaking labour and diligent application. “Buffon,” observed Madame Necker, “strongly persuaded that genius is the result of a profound attention directed to a particular subject, said that he was thoroughly wearied out when composing his first writings, but compelled himself to return to them and go over them carefully again, even when he thought he had already brought them to a certain degree of perfection; and that at length he found pleasure instead of weariness in this long and elaborate correction.” It ought also to be added that Buffon wrote and published all his great works while afflicted by one of the most painful diseases to which the human frame is subject.",
+   "chu": [
+    {
+     "a": "ダムテソー",
+     "n": "原文はネッケル夫人（Madame Necker）。中村の訳の表記が起こしの誤りでないかは、本文の見直しのときに画像で確かめる"
     }
    ]
   },
@@ -10869,7 +10889,8 @@
      "a": "蔑",
      "r": "カロン"
     }
-   ]
+   ],
+   "genbun": "Literary life affords abundant illustrations of the same power of perseverance; and perhaps no career is more instructive, viewed in this light, than that of Sir Walter Scott. His admirable working qualities were trained in a lawyer’s office, where he pursued for many years a sort of drudgery scarcely above that of a copying clerk. His daily dull routine made his evenings, which were his own, all the more sweet; and he generally devoted them to reading and study. He himself attributed to his prosaic office discipline that habit of steady, sober diligence, in which mere literary men are so often found wanting. As a copying clerk he was allowed 3d. for every page containing a certain number of words; and he sometimes, by extra work, was able to copy as many as 120 pages in twenty-four hours, thus earning some 30s.; out of which he would occasionally purchase an odd volume, otherwise beyond his means."
   },
   {
    "id": "saigoku-risshi-hen-000174",
@@ -10899,7 +10920,8 @@
      "a": "洛加的",
      "r": "ロツカート"
     }
-   ]
+   ],
+   "genbun": "During his after-life Scott was wont to pride himself upon being a man of business, and he averred, in contradiction to what he called the cant of sonneteers, that there was no necessary connection between genius and an aversion or contempt for the common duties of life. On the contrary, he was of opinion that to spend some fair portion of every day in any matter-of-fact occupation was good for the higher faculties themselves in the upshot. While afterwards acting as clerk to the Court of Session in Edinburgh, he performed his literary work chiefly before breakfast, attending the court during the day, where he authenticated registered deeds and writings of various kinds. On the whole, says Lockhart, “it forms one of the most remarkable features in his history, that throughout the most active period of his literary career, he must have devoted a large proportion of his hours, during half at least of every year, to the conscientious discharge of professional duties.” It was a principle of action which he laid down for himself, that he must earn his living by business, and not by literature. On one occasion he said, “I determined that literature should be my staff, not my crutch, and that the profits of my literary labour, however convenient otherwise, should not, if I could help it, become necessary to my ordinary expenses.”"
   },
   {
    "id": "saigoku-risshi-hen-000175",
@@ -10921,7 +10943,8 @@
      "a": "斯格的",
      "r": "スコツト"
     }
-   ]
+   ],
+   "genbun": "His punctuality was one of the most carefully cultivated of his habits, otherwise it had not been possible for him to get through so enormous an amount of literary labour. He made it a rule to answer every letter received by him on the same day, except where inquiry and deliberation were requisite. Nothing else could have enabled him to keep abreast with the flood of communications that poured in upon him and sometimes put his good nature to the severest test. It was his practice to rise by five o’clock, and light his own fire. He shaved and dressed with deliberation, and was seated at his desk by six o’clock, with his papers arranged before him in the most accurate order, his works of reference marshalled round him on the floor, while at least one favourite dog lay watching his eye, outside the line of books. Thus by the time the family assembled for breakfast, between nine and ten, he had done enough—to use his own words—to break the neck of the day’s work. But with all his diligent and indefatigable industry, and his immense knowledge, the result of many years’ patient labour, Scott always spoke with the greatest diffidence of his own powers. On one occasion he said, “Throughout every part of my career I have felt pinched and hampered by my own ignorance.”"
   },
   {
    "id": "saigoku-risshi-hen-000176",
@@ -10943,7 +10966,8 @@
      "a": "斯格的",
      "r": "スコツト"
     }
-   ]
+   ],
+   "genbun": "Such is true wisdom and humility; for the more a man really knows, the less conceited he will be. The student at Trinity College who went up to his professor to take leave of him because he had “finished his education,” was wisely rebuked by the professor’s reply, “Indeed! I am only beginning mine.”"
   },
   {
    "id": "saigoku-risshi-hen-000177",
@@ -10969,7 +10993,8 @@
      "a": "矜",
      "r": "ホコル"
     }
-   ]
+   ],
+   "genbun": "The superficial person who has obtained a smattering of many things, but knows nothing well, may pride himself upon his gifts; but the sage humbly confesses that “all he knows is, that he knows nothing,” or like Newton, that he has been only engaged in picking shells by the sea shore, while the great ocean of truth lies all unexplored before him."
   },
   {
    "id": "saigoku-risshi-hen-000178",
@@ -11029,6 +11054,13 @@
      "a": "伯律敦",
      "r": "ブリツトン"
     }
+   ],
+   "genbun": "The lives of second-rate literary men furnish equally remarkable illustrations of the power of perseverance. The late John Britton, author of ‘The Beauties of England and Wales,’ and of many valuable architectural works, was born in a miserable cot in Kingston, Wiltshire. His father had been a baker and maltster, but was ruined in trade and became insane while Britton was yet a child. The boy received very little schooling, but a great deal of bad example, which happily did not corrupt him. He was early in life set to labour with an uncle, a tavern-keeper in Clerkenwell, under whom he bottled, corked, and binned wine for more than five years. His health failing him, his uncle turned him adrift in the world, with only two guineas, the fruits of his five years’ service, in his pocket. During the next seven years of his life he endured many vicissitudes and hardships. Yet he says, in his autobiography, “in my poor and obscure lodgings, at eighteenpence a week, I indulged in study, and often read in bed during the winter evenings, because I could not afford a fire.” Travelling on foot to Bath, he there obtained an engagement as a cellarman, but shortly after we find him back in the metropolis again almost penniless, shoeless, and shirtless. He succeeded, however, in obtaining employment as a cellarman at the London Tavern, where it was his duty to be in the cellar from seven in the morning until eleven at night. His health broke down under this confinement in the dark, added to the heavy work; and he then engaged himself, at fifteen shillings a week, to an attorney,—for he had been diligently cultivating the art of writing during the few spare minutes that he could call his own. While in this employment, he devoted his leisure principally to perambulating the bookstalls, where he read books by snatches which he could not buy, and thus picked up a good deal of odd knowledge. Then he shifted to another office, at the advanced wages of twenty shillings a week, still reading and studying. At twenty-eight he was able to write a book, which he published under the title of ‘The Enterprising Adventures of Pizarro;’ and from that time until his death, during a period of about fifty-five years, Britton was occupied in laborious literary occupation. The number of his published works is not fewer than eighty-seven; the most important being ‘The Cathedral Antiquities of England,’ in fourteen volumes, a truly magnificent work; itself the best monument of John Britton’s indefatigable industry.",
+   "chu": [
+    {
+     "a": "ソノ伯父ニ二奇尼ヲ與ヘテ",
+     "n": "原文は、五年余り酒蔵で働いたあと体をこわし、おじが、五年の奉公の実りである二ギニーだけを持たせて彼を世間に放り出した、と述べる（二ギニーを与えたのはおじのほう）。中村の訳文のこの箇所は、本文の見直しのときに画像で確かめる"
+    }
    ]
   },
   {
@@ -11076,6 +11108,13 @@
     {
      "a": "老同",
      "r": "ラウドン"
+    }
+   ],
+   "genbun": "London, the landscape gardener, was a man of somewhat similar character, possessed of an extraordinary working power. The son of a farmer near Edinburgh, he was early inured to work. His skill in drawing plans and making sketches of scenery induced his father to train him for a landscape gardener. During his apprenticeship he sat up two whole nights every week to study; yet he worked harder during the day than any labourer. In the course of his night studies he learnt French, and before he was eighteen he translated a life of Abelard for an Encyclopædia. He was so eager to make progress in life, that when only twenty, while working as a gardener in England, he wrote down in his note-book, “I am now twenty years of age, and perhaps a third part of my life has passed away, and yet what have I done to benefit my fellow men?” an unusual reflection for a youth of only twenty. From French he proceeded to learn German, and rapidly mastered that language. Having taken a large farm, for the purpose of introducing Scotch improvements in the art of agriculture, he shortly succeeded in realising a considerable income. The continent being thrown open at the end of the war, he travelled abroad for the purpose of inquiring into the system of gardening and agriculture in other countries. He twice repeated his journeys, and the results were published in his Encyclopædias, which are among the most remarkable works of their kind,—distinguished for the immense mass of useful matter which they contain, collected by an amount of industry and labour which has rarely been equalled.",
+   "chu": [
+    {
+     "a": "老同",
+     "n": "造園家のラウドン（John Claudius Loudon）。ここに使った原書の電子テキストは London と誤っている"
     }
    ]
   },
@@ -32322,7 +32361,7 @@
  ],
  "poems": [],
  "translation": {
-  "count": 124,
+  "count": 135,
   "note": "AI による現代語訳と書き下し"
  },
  "original": "Self-Help (1859)",
