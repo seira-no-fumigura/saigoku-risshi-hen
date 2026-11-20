@@ -10,7 +10,7 @@
   "kind": "漢文訓読体（漢字片仮名交じり）。序は漢文",
   "era": "",
   "author": "サミュエル・スマイルズ 著、中村正直 訳",
-  "desc": "全文。明治 27 年の活字版の全コマを画像と照らして起こした。第一編と第二編には原書の原文と、原文からの現代語訳を付けた。迷った字の見直しと、第三編からあとの原文・現代語訳はこれから"
+  "desc": "全文。明治 27 年の活字版の全コマを画像と照らして起こした。第一編から第三編には原書の原文と、原文からの現代語訳を付けた。迷った字の見直しと、第四編からあとの原文・現代語訳はこれから"
  },
  "editions": [
   {
@@ -9279,7 +9279,7 @@
    "chu": [
     {
      "a": "前年倫敦ニ於テ",
-     "n": "ロンドンでパリシーの小皿が 162 ポンドで売れたという話は、ここに使った原書の本文にはない。原書の脚注によるか、中村が加えたものと思われる（未確認）。原文にあるビュフォンの言葉と、パリシーが名のった肩書きは、中村の訳にはない"
+     "n": "ロンドンでパリシーの小皿（径 12 インチ、中央にとかげ）が 162 ポンドで売れたという話は、原書の脚注にある（数年前のバーナル氏の美術品の売り立て）。中村はそれを本文に入れている。原文にあるビュフォンの言葉と、パリシーが名のった肩書きは、中村の訳にはない"
     }
    ]
   },
@@ -9453,6 +9453,13 @@
      "a": "薄査",
      "r": "バッチャー"
     }
+   ],
+   "genbun": "The life of John Frederick Böttgher, the inventor of hard porcelain, presents a remarkable contrast to that of Palissy; though it also contains many points of singular and almost romantic interest. Böttgher was born at Schleiz, in the Voightland, in 1685, and at twelve years of age was placed apprentice with an apothecary at Berlin. He seems to have been early fascinated by chemistry, and occupied most of his leisure in making experiments. These for the most part tended in one direction—the art of converting common on metals into gold. At the end of several years, Böttgher pretended to have discovered the universal solvent of the alchemists, and professed that he had made gold by its means. He exhibited its powers before his master, the apothecary Zörn, and by some trick or other succeeded in making him and several other witnesses believe that he had actually converted copper into gold.\nThe news spread abroad that the apothecary’s apprentice had discovered the grand secret, and crowds collected about the shop to get a sight of the wonderful young “gold-cook.” The king himself expressed a wish to see and converse with him, and when Frederick I. was presented with a piece of the gold pretended to have been converted from copper, he was so dazzled with the prospect of securing an infinite quantity of it—Prussia being then in great straits for money—that he determined to secure Böttgher and employ him to make gold for him within the strong fortress of Spandau. But the young apothecary, suspecting the king’s intention, and probably fearing detection, at once resolved on flight, and he succeeded in getting across the frontier into Saxony.\nA reward of a thousand thalers was offered for Böttgher’s apprehension, but in vain. He arrived at Wittenberg, and appealed for protection to the Elector of Saxony, Frederick Augustus I. (King of Poland), surnamed “the Strong.” Frederick was himself very much in want of money at the time, and he was overjoyed at the prospect of obtaining gold in any quantity by the aid of the young alchemist. Böttgher was accordingly conveyed in secret to Dresden, accompanied by a royal escort. He had scarcely left Wittenberg when a battalion of Prussian grenadiers appeared before the gates demanding the gold-maker’s extradition. But it was too late: Böttgher had already arrived in Dresden, where he was lodged in the Golden House, and treated with every consideration, though strictly watched and kept under guard.",
+   "chu": [
+    {
+     "a": "懃ニ待遇シタリシガ",
+     "n": "原文は、ベトガーを捕らえた者に千ターラーの賞金が懸けられたこと、彼がヴィッテンベルクを出た直後にプロイセンの擲弾兵の一隊が引き渡しを求めて門の前に現れたことを述べるが、中村の訳にはない"
+    }
    ]
   },
   {
@@ -9544,6 +9551,21 @@
      "r": "ソウ",
      "l": "キンヲネル"
     }
+   ],
+   "genbun": "The Elector, however, must needs leave him there for a time, having to depart forthwith to Poland, then almost in a state of anarchy. But, impatient for gold, he wrote Böttgher from Warsaw, urging him to communicate the secret, so that he himself might practise the art of commutation. The young “gold-cook,” thus pressed, forwarded to Frederick a small phial containing “a reddish fluid,” which, it was asserted, changed all metals, when in a molten state, into gold. This important phial was taken in charge by the Prince Fürst von Fürstenburg, who, accompanied by a regiment of Guards, hurried with it to Warsaw. Arrived there, it was determined to make immediate trial of the process. The King and the Prince locked themselves up in a secret chamber of the palace, girt themselves about with leather aprons, and like true “gold-cooks” set to work melting copper in a crucible and afterwards applying to it the red fluid of Böttgher. But the result was unsatisfactory; for notwithstanding all that they could do, the copper obstinately remained copper. On referring to the alchemist’s instructions, however, the King found that, to succeed with the process, it was necessary that the fluid should be used “in great purity of heart;” and as his Majesty was conscious of having spent the evening in very bad company he attributed the failure of the experiment to that cause. A second trial was followed by no better results, and then the King became furious; for he had confessed and received absolution before beginning the second experiment.\nFrederick Augustus now resolved on forcing Böttgher to disclose the golden secret, as the only means of relief from his urgent pecuniary difficulties. The alchemist, hearing of the royal intention, again determined to fly. He succeeded in escaping his guard, and, after three days’ travel, arrived at Ens in Austria, where he thought himself safe. The agents of the Elector were, however, at his heels; they had tracked him to the “Golden Stag,” which they surrounded, and seizing him in his bed, notwithstanding his resistance and appeals to the Austrian authorities for help, they carried him by force to Dresden. From this time he was more strictly watched than ever, and he was shortly after transferred to the strong fortress of Köningstein. It was communicated to him that the royal exchequer was completely empty, and that ten regiments of Poles in arrears of pay were waiting for his gold. The King himself visited him, and told him in a severe tone that if he did not at once proceed to make gold, he would be hung! (“Thu mir zurecht, Böttgher, sonst lass ich dich hangen”).\nYears passed, and still Böttgher made no gold; but he was not hung. It was reserved for him to make a far more important discovery than the conversion of copper into gold, namely, the conversion of clay into porcelain. Some rare specimens of this ware had been brought by the Portuguese from China, which were sold for more than their weight in gold. Böttgher was first induced to turn his attention to the subject by Walter von Tschirnhaus, a maker of optical instruments, also an alchemist. Tschirnhaus was a man of education and distinction, and was held in much esteem by Prince Fürstenburg as well as by the Elector. He very sensibly said to Böttgher, still in fear of the gallows—“If you can’t make gold, try and do something else; make porcelain.”\nThe alchemist acted on the hint, and began his experiments, working night and day. He prosecuted his investigations for a long time with great assiduity, but without success. At length some red clay, brought to him for the purpose of making his crucibles, set him on the right track. He found that this clay, when submitted to a high temperature, became vitrified and retained its shape; and that its texture resembled that of porcelain, excepting in colour and opacity. He had in fact accidentally discovered red porcelain, and he proceeded to manufacture it and sell it as porcelain.\nBöttgher was, however, well aware that the white colour was an essential property of true porcelain; and he therefore prosecuted his experiments in the hope of discovering the secret. Several years thus passed, but without success; until again accident stood his friend, and helped him to a knowledge of the art of making white porcelain. One day, in the year 1707, he found his perruque unusually heavy, and asked of his valet the reason. The answer was, that it was owing to the powder with which the wig was dressed, which consisted of a kind of earth then much used for hair powder. Böttgher’s quick imagination immediately seized upon the idea. This white earthy powder might possibly be the very earth of which he was in search—at all events the opportunity must not be let slip of ascertaining what it really was. He was rewarded for his painstaking care and watchfulness; for he found, on experiment, that the principal ingredient of the hair-powder consisted of kaolin, the want of which had so long formed an insuperable difficulty in the way of his inquiries.\nThe discovery, in Böttgher’s intelligent hands, led to great results, and proved of far greater importance than the discovery of the philosopher’s stone would have been. In October, 1707, he presented his first piece of porcelain to the Elector, who was greatly pleased with it; and it was resolved that Böttgher should be furnished with the means necessary for perfecting his invention. Having obtained a skilled workman from Delft, he began to turn porcelain with great success. He now entirely abandoned alchemy for pottery, and inscribed over the door of his workshop this distich:—",
+   "chu": [
+    {
+     "a": "薄査惧テ逃出ケルガ",
+     "n": "原文は、ベトガーが三日の旅ののちオーストリアのエンスに着き、宿で寝ているところを捕らえられて、ケーニヒシュタインの要塞に移されたこと、給料の滞ったポーランド兵十連隊が金を待っていると告げられたことを述べるが、中村の訳は短くまとめている"
+    },
+    {
+     "a": "王コレヲ刑ニ行ハズシテ",
+     "n": "原文では、磁器を作ってみるよう勧めたのは、光学器械の作り手で錬金術師でもあったチルンハウスである（「金が作れないなら、何か別のことをやってみなさい。磁器を作りなさい」）。中村の訳は、王がそうさせようとしたように書き、チルンハウスの名を挙げていない"
+    },
+    {
+     "a": "一千七百零七年、始テ白色ノ磁器ヲ製シ出シ",
+     "n": "原文は、かつらの粉の話を 1707 年のこととし、同じ年の 10 月に最初の磁器を選帝侯に献上したとする。デルフトから腕のある職人を呼んだことは中村の訳にない"
+    }
    ]
   },
   {
@@ -9563,7 +9585,8 @@
    "lb": [
     12
    ],
-   "form": "shi"
+   "form": "shi",
+   "genbun": "“Es machte Gott, der grosse Schöpfer, Aus einem Goldmacher einen Töpfer.”"
   },
   {
    "id": "saigoku-risshi-hen-000146",
@@ -9615,6 +9638,17 @@
      "r": "",
      "l": "自由ノ事"
     }
+   ],
+   "genbun": "Böttgher, however, was still under strict surveillance, for fear lest he should communicate his secret to others or escape the Elector’s control. The new workshops and furnaces which were erected for him, were guarded by troops night and day, and six superior officers were made responsible for the personal security of the potter.\nBöttgher’s further experiments with his new furnaces proving very successful, and the porcelain which he manufactured being found to fetch large prices, it was next determined to establish a Royal Manufactory of porcelain. The manufacture of delft ware was known to have greatly enriched Holland. Why should not the manufacture of porcelain equally enrich the Elector? Accordingly, a decree went forth, dated the 23rd of January, 1710, for the establishment of “a large manufactory of porcelain” at the Albrechtsburg in Meissen. In this decree, which was translated into Latin, French, and Dutch, and distributed by the Ambassadors of the Elector at all the European Courts, Frederick Augustus set forth that to promote the welfare of Saxony, which had suffered much through the Swedish invasion, he had “directed his attention to the subterranean treasures (unterirdischen Schätze)” of the country, and having employed some able persons in the investigation, they had succeeded in manufacturing “a sort of red vessels (eine Art rother Gefässe) far superior to the Indian terra sigillata;” as also “coloured ware and plates (buntes Geschirr und Tafeln) which may be cut, ground, and polished, and are quite equal to Indian vessels,” and finally that “specimens of white porcelain (Proben von weissem Porzellan)” had already been obtained, and it was hoped that this quality, too, would soon be manufactured in considerable quantities. The royal decree concluded by inviting “foreign artists and handicraftmen” to come to Saxony and engage as assistants in the new factory, at high wages, and under the patronage of the King. This royal edict probably gives the best account of the actual state of Böttgher’s invention at the time.\nIt has been stated in German publications that Böttgher, for the great services rendered by him to the Elector and to Saxony, was made Manager of the Royal Porcelain Works, and further promoted to the dignity of Baron. Doubtless he deserved these honours; but his treatment was of an altogether different character, for it was shabby, cruel, and inhuman. Two royal officials, named Matthieu and Nehmitz, were put over his head as directors of the factory, while he himself only held the position of foreman of potters, and at the same time was detained the King’s prisoner. During the erection of the factory at Meissen, while his assistance was still indispensable, he was conducted by soldiers to and from Dresden; and even after the works were finished, he was locked up nightly in his room. All this preyed upon his mind, and in repeated letters to the King he sought to obtain mitigation of his fate. Some of these letters are very touching. “I will devote my whole soul to the art of making porcelain,” he writes on one occasion, “I will do more than any inventor ever did before; only give me liberty, liberty!”",
+   "chu": [
+    {
+     "a": "王コヽニ於テ、大工塲ヲ建テ",
+     "n": "原文は、1710 年 1 月 23 日付けでマイセンのアルブレヒト城に「大きな磁器工場」を設ける布告が出され、ラテン語・フランス語・オランダ語に訳されてヨーロッパの宮廷に配られたこと、その布告の文面を詳しく引くが、中村の訳は短くまとめている"
+    },
+    {
+     "a": "ベーロンノ爵ニ陞リ",
+     "n": "原文は、ドイツの刊行物にベトガーが工場の支配人となり男爵に進んだと書かれている、と伝えたうえで、実際の扱いはまったく違い、役人二人が上に置かれ、彼は陶工の職長にすぎず、王の囚人として留め置かれた、と述べる。中村の訳は男爵に昇ったことを事実として書いている"
+    }
    ]
   },
   {
@@ -9655,6 +9689,13 @@
      "a": "塞楯",
      "r": "サキソニー"
     }
+   ],
+   "genbun": "To these appeals, the King turned a deaf ear. He was ready to spend money and grant favours; but liberty he would not give. He regarded Böttgher as his slave. In this position, the persecuted man kept on working for some time, till, at the end of a year or two, he grew negligent. Disgusted with the world and with himself, he took to drinking. Such is the force of example, that it no sooner became known that Böttgher had betaken himself to this vice, than the greater number of the workmen at the Meissen factory became drunkards too. Quarrels and fightings without end were the consequence, so that the troops were frequently called upon to interfere and keep peace among the “Porzellanern,” as they were nicknamed. After a while, the whole of them, more than three hundred, were shut up in the Albrechtsburg, and treated as prisoners of state.\nBöttgher at last fell seriously ill, and in May, 1713, his dissolution was hourly expected. The King, alarmed at losing so valuable a slave, now gave him permission to take carriage exercise under a guard; and, having somewhat recovered, he was allowed occasionally to go to Dresden. In a letter written by the King in April, 1714, Böttgher was promised his full liberty; but the offer came too late. Broken in body and mind, alternately working and drinking, though with occasional gleams of nobler intention, and suffering under constant ill-health, the result of his enforced confinement, Böttgher lingered on for a few years more, until death freed him from his sufferings on the 13th March, 1719, in the thirty-fifth year of his age. He was buried at night—as if he had been a dog—in the Johannis Cemetery of Meissen. Such was the treatment and such the unhappy end, of one of Saxony’s greatest benefactors.",
+   "chu": [
+    {
+     "a": "一千七百十九年、薄査久病ノ後",
+     "n": "原文は、1713 年 5 月に重い病気になり、王が見張りつきで馬車に乗ることを許したこと、1714 年 4 月の王の手紙で完全な自由が約束されたが遅すぎたことを述べ、亡くなった日を 1719 年 3 月 13 日とする。中村の訳にはこれらがない"
+    }
    ]
   },
   {
@@ -9684,6 +9725,13 @@
     {
      "a": "法國",
      "r": "フランス"
+    }
+   ],
+   "genbun": "The porcelain manufacture immediately opened up an important source of public revenue, and it became so productive to the Elector of Saxony, that his example was shortly after followed by most European monarchs. Although soft porcelain had been made at St. Cloud fourteen years before Böttgher’s discovery, the superiority of the hard porcelain soon became generally recognised. Its manufacture was begun at Sèvres in 1770, and it has since almost entirely superseded the softer material. This is now one of the most thriving branches of French industry, of which the high quality of the articles produced is certainly indisputable.",
+   "chu": [
+    {
+     "a": "當今法國マタ",
+     "n": "原文は、ベトガーの発見の十四年前にサン・クルーで軟質磁器が作られていたこと、硬質磁器の製造が 1770 年にセーヴルで始まったことを述べるが、中村の訳にはない"
     }
    ]
   },
@@ -9784,6 +9832,17 @@
      "a": "乞地烏德",
      "r": "ウエヂウード"
     }
+   ],
+   "genbun": "The career of Josiah Wedgwood, the English potter, was less chequered and more prosperous than that of either Palissy or Böttgher, and his lot was cast in happier times. Down to the middle of last century England was behind most other nations of the first order in Europe in respect of skilled industry. Although there were many potters in Staffordshire—and Wedgwood himself belonged to a numerous clan of potters of the same name—their productions were of the rudest kind, for the most part only plain brown ware, with the patterns scratched in while the clay was wet. The principal supply of the better articles of earthenware came from Delft in Holland, and of drinking stone pots from Cologne. Two foreign potters, the brothers Elers from Nuremberg, settled for a time in Staffordshire, and introduced an improved manufacture, but they shortly after removed to Chelsea, where they confined themselves to the manufacture of ornamental pieces. No porcelain capable of resisting a scratch with a hard point had yet been made in England; and for a long time the “white ware” made in Staffordshire was not white, but of a dirty cream colour. Such, in a few words, was the condition of the pottery manufacture when Josiah Wedgwood was born at Burslem in 1730. By the time that he died, sixty-four years later, it had become completely changed. By his energy, skill, and genius, he established the trade upon a new and solid foundation; and, in the words of his epitaph, “converted a rude and inconsiderable manufacture into an elegant art and an important branch of national commerce.”\nJosiah Wedgwood was one of those indefatigable men who from time to time spring from the ranks of the common people, and by their energetic character not only practically educate the working population in habits of industry, but by the example of diligence and perseverance which they set before them, largely influence the public activity in all directions, and contribute in a great degree to form the national character. He was, like Arkwright, the youngest of a family of thirteen children. His grandfather and granduncle were both potters, as was also his father who died when he was a mere boy, leaving him a patrimony of twenty pounds. He had learned to read and write at the village school; but on the death of his father he was taken from it and set to work as a “thrower” in a small pottery carried on by his elder brother. There he began life, his working life, to use his own words, “at the lowest round of the ladder,” when only eleven years old. He was shortly after seized by an attack of virulent smallpox, from the effects of which he suffered during the rest of his life, for it was followed by a disease in the right knee, which recurred at frequent intervals, and was only got rid of by the amputation of the limb many years later.",
+   "chu": [
+    {
+     "a": "僅ニ九歲ノ時ナリ",
+     "n": "原文は「わずか十一歳のとき」とする"
+    },
+    {
+     "a": "乞地烏德ハ、一千七百三十年",
+     "n": "原文には、ニュルンベルクから来たエラーズ兄弟のこと、墓碑銘の言葉（粗末で取るに足りない製造業を、優美な技芸と国の商業の重要な一部門に変えた）、父が二十ポンドの遺産を残したことがあるが、中村の訳にはない"
+    }
    ]
   },
   {
@@ -9858,6 +9917,21 @@
      "a": "少",
      "r": "カ"
     }
+   ],
+   "genbun": "Mr. Gladstone, in his eloquent Éloge on Wedgwood recently delivered at Burslem, well observed that the disease from which he suffered was not improbably the occasion of his subsequent excellence. “It prevented him from growing up to be the active, vigorous English workman, possessed of all his limbs, and knowing right well the use of them; but it put him upon considering whether, as he could not be that, he might not be something else, and something greater. It sent his mind inwards; it drove him to meditate upon the laws and secrets of his art. The result was, that he arrived at a perception and a grasp of them which might, perhaps, have been envied, certainly have been owned, by an Athenian potter.”\nWhen he had completed his apprenticeship with his brother, Josiah joined partnership with another workman, and carried on a small business in making knife-hafts, boxes, and sundry articles for domestic use. Another partnership followed, when he proceeded to make melon table plates, green pickle leaves, candlesticks, snuffboxes, and such like articles; but he made comparatively little progress until he began business on his own account at Burslem in the year 1759. There he diligently pursued his calling, introducing new articles to the trade, and gradually extending his business. What he chiefly aimed at was to manufacture cream-coloured ware of a better quality than was then produced in Staffordshire as regarded shape, colour, glaze, and durability. To understand the subject thoroughly, he devoted his leisure to the study of chemistry; and he made numerous experiments on fluxes, glazes, and various sorts of clay. Being a close inquirer and accurate observer, he noticed that a certain earth containing silica, which was black before calcination, became white after exposure to the heat of a furnace. This fact, observed and pondered on, led to the idea of mixing silica with the red powder of the potteries, and to the discovery that the mixture becomes white when calcined. He had but to cover this material with a vitrification of transparent glaze, to obtain one of the most important products of fictile art—that which, under the name of English earthenware, was to attain the greatest commercial value and become of the most extensive utility.\nWedgwood was for some time much troubled by his furnaces, though nothing like to the same extent that Palissy was; and he overcame his difficulties in the same way—by repeated experiments and unfaltering perseverance. His first attempts at making porcelain for table use was a succession of disastrous failures,—the labours of months being often destroyed in a day. It was only after a long series of trials, in the course of which he lost time, money, and labour, that he arrived at the proper sort of glaze to be used; but he would not be denied, and at last he conquered success through patience. The improvement of pottery became his passion, and was never lost sight of for a moment. Even when he had mastered his difficulties, and become a prosperous man—manufacturing white stone ware and cream-coloured ware in large quantities for home and foreign use—he went forward perfecting his manufactures, until, his example extending in all directions, the action of the entire district was stimulated, and a great branch of British industry was eventually established on firm foundations. He aimed throughout at the highest excellence, declaring his determination “to give over manufacturing any article, whatsoever it might be, rather than to degrade it.”\nWedgwood was cordially helped by many persons of rank and influence; for, working in the truest spirit, he readily commanded the help and encouragement of other true workers. He made for Queen Charlotte the first royal table-service of English manufacture, of the kind afterwards called “Queen’s-ware,” and was appointed Royal Potter; a title which he prized more than if he had been made a baron. Valuable sets of porcelain were entrusted to him for imitation, in which he succeeded to admiration. Sir William Hamilton lent him specimens of ancient art from Herculaneum, of which he produced accurate and beautiful copies. The Duchess of Portland outbid him for the Barberini Vase when that article was offered for sale. He bid as high as seventeen hundred guineas for it: her grace secured it for eighteen hundred; but when she learnt Wedgwood’s object she at once generously lent him the vase to copy. He produced fifty copies at a cost of about 2500l., and his expenses were not covered by their sale; but he gained his object, which was to show that whatever had been done, that English skill and energy could and would accomplish.\nWedgwood called to his aid the crucible of the chemist, the knowledge of the antiquary, and the skill of the artist. He found out Flaxman when a youth, and while he liberally nurtured his genius drew from him a large number of beautiful designs for his pottery and porcelain; converting them by his manufacture into objects of taste and excellence, and thus making them instrumental in the diffusion of classical art amongst the people. By careful experiment and study he was even enabled to rediscover the art of painting on porcelain or earthenware vases and similar articles—an art practised by the ancient Etruscans, but which had been lost since the time of Pliny. He distinguished himself by his own contributions to science, and his name is still identified with the Pyrometer which he invented. He was an indefatigable supporter of all measures of public utility; and the construction of the Trent and Mersey Canal, which completed the navigable communication between the eastern and western sides of the island, was mainly due to his public-spirited exertions, allied to the engineering skill of Brindley. The road accommodation of the district being of an execrable character, he planned and executed a turnpike-road through the Potteries, ten miles in length. The reputation he achieved was such that his works at Burslem, and subsequently those at Etruria, which he founded and built, became a point of attraction to distinguished visitors from all parts of Europe.\nThe result of Wedgwood’s labours was, that the manufacture of pottery, which he found in the very lowest condition, became one of the staples of England; and instead of importing what we needed for home use from abroad, we became large exporters to other countries, supplying them with earthenware even in the face of enormous prohibitory duties on articles of British produce. Wedgwood gave evidence as to his manufactures before Parliament in 1785, only some thirty years after he had begun his operations; from which it appeared, that instead of providing only casual employment to a small number of inefficient and badly remunerated workmen, about 20,000 persons then derived their bread directly from the manufacture of earthenware, without taking into account the increased numbers to which it gave employment in coal-mines, and in the carrying trade by land and sea, and the stimulus which it gave to employment in many ways in various parts of the country. Yet, important as had been the advances made in his time, Mr. Wedgwood was of opinion that the manufacture was but in its infancy, and that the improvements which he had effected were of but small amount compared with those to which the art was capable of attaining, through the continued industry and growing intelligence of the manufacturers, and the natural facilities and political advantages enjoyed by Great Britain; an opinion which has been fully borne out by the progress which has since been effected in this important branch of industry. In 1852 not fewer than 84,000,000 pieces of pottery were exported from England to other countries, besides what were made for home use. But it is not merely the quantity and value of the produce that is entitled to consideration, but the improvement of the condition of the population by whom this great branch of industry is conducted. When Wedgwood began his labours, the Staffordshire district was only in a half-civilized state. The people were poor, uncultivated, and few in number. When Wedgwood’s manufacture was firmly established, there was found ample employment at good wages for three times the number of population; while their moral advancement had kept pace with their material improvement.",
+   "chu": [
+    {
+     "a": "グラッドストンコノ說アリシハ、一千八百六十三年第八月",
+     "n": "グラッドストンの演説の年月と、それに当たる日本の年号は、中村が加えたもの（原書の本文にはない）"
+    },
+    {
+     "a": "乞氏種々ノ陶器ヲ造リ",
+     "n": "原文の五つの段落を大きく縮めている。原文にある次の話は中村の訳にない。窯に苦しみ、失敗を重ねて正しいうわぐすりにたどり着いたこと。品物の質を落とすくらいなら製造をやめると言い切ったこと。シャーロット王妃の食器を作り、王室御用の陶工に任じられたこと。ポートランド公爵夫人から借りたバルベリーニの壺の写しを作ったこと。フラックスマンを見いだしたこと。高温計を発明したこと。運河と有料道路を作ったこと"
+    },
+    {
+     "a": "八億四百萬ノ大數",
+     "n": "原文は 84,000,000 個（八千四百万個）とする"
+    }
    ]
   },
   {
@@ -9884,7 +9958,8 @@
      "a": "爲",
      "r": "タメ"
     }
-   ]
+   ],
+   "genbun": "Men such as these are fairly entitled to take rank as the Industrial Heroes of the civilized world. Their patient self-reliance amidst trials and difficulties, their courage and perseverance in the pursuit of worthy objects, are not less heroic of their kind than the bravery and devotion of the soldier and the sailor, whose duty and pride it is heroically to defend what these valiant leaders of industry have so heroically achieved."
   },
   {
    "id": "saigoku-risshi-hen-000152",
@@ -32207,7 +32282,7 @@
  ],
  "poems": [],
  "translation": {
-  "count": 99,
+  "count": 108,
   "note": "AI による現代語訳と書き下し"
  },
  "original": "Self-Help (1859)",
