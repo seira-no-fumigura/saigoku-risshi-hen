@@ -11479,6 +11479,13 @@
      "a": "幇助",
      "r": "タスケ"
     }
+   ],
+   "genbun": "“Neither the naked hand, nor the understanding, left to itself, can do much; the work is accomplished by instruments and helps, of which the need is not less for the understanding than the hand.”—Bacon.\n“Opportunity has hair in front, behind she is bald; if you seize her by the forelock you may hold her, but, if suffered to escape, not Jupiter himself can catch her again.”—From the Latin.",
+   "chu": [
+    {
+     "a": "羅馬人ノ語ニ曰",
+     "n": "原書はこの前に、ベーコンの題辞を掲げるが、中村の訳にはない"
+    }
    ]
   },
   {
@@ -11527,7 +11534,8 @@
      "a": "撞着",
      "r": "ツキアタリ"
     }
-   ]
+   ],
+   "genbun": "ACCIDENT does very little towards the production of any great result in life. Though sometimes what is called “a happy hit” may be made by a bold venture, the common highway of steady industry and application is the only safe road to travel. It is said of the landscape painter Wilson, that when he had nearly finished a picture in a tame, correct manner, he would step back from it, his pencil fixed at the end of a long stick, and after gazing earnestly on the work, he would suddenly walk up and by a few bold touches give a brilliant finish to the painting. But it will not do for every one who would produce an effect, to throw his brush at the canvas in the hope of producing a picture. The capability of putting in these last vital touches is acquired only by the labour of a life; and the probability is, that the artist who has not carefully trained himself beforehand, in attempting to produce a brilliant effect at a dash, will only produce a blotch."
   },
   {
    "id": "saigoku-risshi-hen-000190",
@@ -11590,7 +11598,8 @@
      "a": "藐忽",
      "r": "カロンジユルガセニ"
     }
-   ]
+   ],
+   "genbun": "Sedulous attention and painstaking industry always mark the true worker. The greatest men are not those who “despise the day of small things,” but those who improve them the most carefully. Michael Angelo was one day explaining to a visitor at his studio, what he had been doing at a statue since his previous visit. “I have retouched this part—polished that—softened this feature—brought out that muscle—given some expression to this lip, and more energy to that limb.” “But these are trifles,” remarked the visitor. “It may be so,” replied the sculptor, “but recollect that trifles make perfection, and perfection is no trifle.” So it was said of Nicholas Poussin, the painter, that the rule of his conduct was, that “whatever was worth doing at all was worth doing well;” and when asked, late in life, by his friend Vigneul de Marville, by what means he had gained so high a reputation among the painters of Italy, Poussin emphatically answered, “Because I have neglected nothing.”"
   },
   {
    "id": "saigoku-risshi-hen-000191",
@@ -11631,7 +11640,8 @@
      "a": "雍",
      "r": "ヨング"
     }
-   ]
+   ],
+   "genbun": "Although there are discoveries which are said to have been made by accident, if carefully inquired into, it will be found that there has really been very little that was accidental about them. For the most part, these so-called accidents have only been opportunities, carefully improved by genius. The fall of the apple at Newton’s feet has often been quoted in proof of the accidental character of some discoveries. But Newton’s whole mind had already been devoted for years to the laborious and patient investigation of the subject of gravitation; and the circumstance of the apple falling before his eyes was suddenly apprehended only as genius could apprehend it, and served to flash upon him the brilliant discovery then opening to his sight. In like manner, the brilliantly-coloured soap-bubbles blown from a common tobacco pipe—though “trifles light as air” in most eyes—suggested to Dr. Young his beautiful theory of “interferences,” and led to his discovery relating to the diffraction of light. Although great men are popularly supposed only to deal with great things, men such as Newton and Young were ready to detect the significance of the most familiar and simple facts; their greatness consisting mainly in their wise interpretation of them."
   },
   {
    "id": "saigoku-risshi-hen-000192",
@@ -11666,6 +11676,13 @@
     {
      "a": "意太利",
      "r": "イタリー"
+    }
+   ],
+   "genbun": "The difference between men consists, in a great measure, in the intelligence of their observation. The Russian proverb says of the non-observant man, “He goes through the forest and sees no firewood.” “The wise man’s eyes are in his head,” says Solomon, “but the fool walketh in darkness.” “Sir,” said Johnson, on one occasion, to a fine gentleman just returned from Italy, “some men will learn more in the Hampstead stage than others in the tour of Europe.” It is the mind that sees as well as the eye. Where unthinking gazers observe nothing, men of intelligent vision penetrate into the very fibre of the phenomena presented to them, attentively noting differences, making comparisons, and recognizing their underlying idea.",
+   "chu": [
+    {
+     "a": "イマ加利列窩、伯拉溫、伯路涅爾、哥倫布ノ事ヲ引テ",
+     "n": "「いまガリレオ、ブラウン、ブルネル、コロンブスのことを引いて証拠とする」という結びは、中村が加えたつなぎの文。原文にあるジョンソンの言葉（ある人々はハムステッドの乗合馬車で、ほかの人々がヨーロッパ旅行で学ぶよりも多くを学ぶ）が中村の訳にあるかどうかは、本文の見直しのときに確かめる"
     }
    ]
   },
@@ -11707,7 +11724,8 @@
      "a": "加利列窩",
      "r": "ガリレヲ"
     }
-   ]
+   ],
+   "genbun": "Many before Galileo had seen a suspended weight swing before their eyes with a measured beat; but he was the first to detect the value of the fact. One of the vergers in the cathedral at Pisa, after replenishing with oil a lamp which hung from the roof, left it swinging to and fro; and Galileo, then a youth of only eighteen, noting it attentively, conceived the idea of applying it to the measurement of time. Fifty years of study and labour, however, elapsed, before he completed the invention of his Pendulum,—the importance of which, in the measurement of time and in astronomical calculations, can scarcely be overrated."
   },
   {
    "id": "saigoku-risshi-hen-000194",
@@ -11741,7 +11759,8 @@
      "a": "立",
      "r": "テ"
     }
-   ]
+   ],
+   "genbun": "In like manner, Galileo, having casually heard that one Lippershey, a Dutch spectacle-maker, had presented to Count Maurice of Nassau an instrument by means of which distant objects appeared nearer to the beholder, addressed himself to the cause of such a phenomenon, which led to the invention of the telescope, and proved the beginning of the modern science of astronomy. Discoveries such as these could never have been made by a negligent observer, or by a mere passive listener."
   },
   {
    "id": "saigoku-risshi-hen-000195",
@@ -11824,6 +11843,13 @@
      "a": "造",
      "r": "リ"
     }
+   ],
+   "genbun": "While Captain (afterwards Sir Samuel) Brown was occupied in studying the construction of bridges, with the view of contriving one of a cheap description to be thrown across the Tweed, near which he lived, he was walking in his garden one dewy autumn morning, when he saw a tiny spider’s net suspended across his path. The idea immediately occurred to him, that a bridge of iron ropes or chains might be constructed in like manner, and the result was the invention of his Suspension Bridge. So James Watt, when consulted about the mode of carrying water by pipes under the Clyde, along the unequal bed of the river, turned his attention one day to the shell of a lobster presented at table; and from that model he invented an iron tube, which, when laid down, was found effectually to answer the purpose. Sir Isambert Brunel took his first lessons in forming the Thames Tunnel from the tiny shipworm: he saw how the little creature perforated the wood with its well-armed head, first in one direction and then in another, till the archway was complete, and then daubed over the roof and sides with a kind of varnish; and by copying this work exactly on a large scale, Brunel was at length enabled to construct his shield and accomplish his great engineering work.",
+   "chu": [
+    {
+     "a": "伯拉溫ハ、土維德ノ傍近ニ住シケリ",
+     "n": "原文には、ブラウンとブルネルのあいだに、ジェームズ・ワットがクライド川の川底に水道管を通す方法を尋ねられ、食卓に出たロブスターの殻を手本に鉄の管を発明した話がある。中村の訳がそれを含むかどうかは、本文の見直しのときに確かめる"
+    }
    ]
   },
   {
@@ -11877,7 +11903,8 @@
      "a": "知",
      "r": "リ"
     }
-   ]
+   ],
+   "genbun": "It is the intelligent eye of the careful observer which gives these apparently trivial phenomena their value. So trifling a matter as the sight of seaweed floating past his ship, enabled Columbus to quell the mutiny which arose amongst his sailors at not discovering land, and to assure them that the eagerly sought New World was not far off. There is nothing so small that it should remain forgotten; and no fact, however trivial, but may prove useful in some way or other if carefully interpreted. Who could have imagined that the famous “chalk cliffs of Albion” had been built up by tiny insects—detected only by the help of the microscope—of the same order of creatures that have gemmed the sea with islands of coral! And who that contemplates such extraordinary results, arising from infinitely minute operations, will venture to question the power of little things?"
   },
   {
    "id": "saigoku-risshi-hen-000197",
@@ -11913,7 +11940,8 @@
      "a": "亞樸羅牛士。巴奇士",
      "r": "アポロニユース ペルギース"
     }
-   ]
+   ],
+   "genbun": "It is the close observation of little things which is the secret of success in business, in art, in science, and in every pursuit in life. Human knowledge is but an accumulation of small facts, made by successive generations of men, the little bits of knowledge and experience carefully treasured up by them growing at length into a mighty pyramid. Though many of these facts and observations seemed in the first instance to have but slight significance, they are all found to have their eventual uses, and to fit into their proper places. Even many speculations seemingly remote, turn out to be the basis of results the most obviously practical. In the case of the conic sections discovered by Apollonius Pergæus, twenty centuries elapsed before they were made the basis of astronomy—a science which enables the modern navigator to steer his way through unknown seas and traces for him in the heavens an unerring path to his appointed haven. And had not mathematicians toiled for so long, and, to uninstructed observers, apparently so fruitlessly, over the abstract relations of lines and surfaces, it is probable that but few of our mechanical inventions would have seen the light."
   },
   {
    "id": "saigoku-risshi-hen-000198",
@@ -11966,7 +11994,8 @@
      "a": "嘎喇法尼",
      "r": "ガルヴァニ"
     }
-   ]
+   ],
+   "genbun": "When Franklin made his discovery of the identity of lightning and electricity, it was sneered at, and people asked, “Of what use is it?” To which his reply was, “What is the use of a child? It may become a man!” When Galvani discovered that a frog’s leg twitched when placed in contact with different metals, it could scarcely have been imagined that so apparently insignificant a fact could have led to important results. Yet therein lay the germ of the Electric Telegraph, which binds the intelligence of continents together, and, probably before many years have elapsed, will “put a girdle round the globe.” So too, little bits of stone and fossil, dug out of the earth, intelligently interpreted, have issued in the science of geology and the practical operations of mining, in which large capitals are invested and vast numbers of persons profitably employed."
   },
   {
    "id": "saigoku-risshi-hen-000199",
@@ -12022,7 +12051,8 @@
      "a": "悟",
      "r": "リ"
     }
-   ]
+   ],
+   "genbun": "The gigantic machinery employed in pumping our mines, working our mills and manufactures, and driving our steam-ships and locomotives, in like manner depends for its supply of power upon so slight an agency as little drops of water expanded by heat,—that familiar agency called steam, which we see issuing from that common tea-kettle spout, but which, when put up within an ingeniously contrived mechanism, displays a force equal to that of millions of horses, and contains a power to rebuke the waves and set even the hurricane at defiance. The same power at work within the bowels of the earth has been the cause of those volcanoes and earthquakes which have played so mighty a part in the history of the globe.\nIt is said that the Marquis of Worcester’s attention was first accidentally directed to the subject of steam power, by the tight cover of a vessel containing hot water having been blown off before his eyes, when confined a prisoner in the Tower. He published the result of his observations in his ‘Century of Inventions,’ which formed a sort of text-book for inquirers into the powers of steam for a time, until Savary, Newcomen, and others, applying it to practical purposes, brought the steam-engine to the state in which Watt found it when called upon to repair a model of Newcomen’s engine, which belonged to the University of Glasgow. This accidental circumstance was an opportunity for Watt, which he was not slow to improve; and it was the labour of his life to bring the steam-engine to perfection."
   },
   {
    "id": "saigoku-risshi-hen-000200",
@@ -12067,7 +12097,8 @@
      "a": "拿着",
      "r": "トラヘ"
     }
-   ]
+   ],
+   "genbun": "This art of seizing opportunities and turning even accidents to account, bending them to some purpose is a great secret of success. Dr. Johnson has defined genius to be “a mind of large general powers accidentally determined in some particular direction.” Men who are resolved to find a way for themselves, will always find opportunities enough; and if they do not lie ready to their hand, they will make them. It is not those who have enjoyed the advantages of colleges, museums, and public galleries, that have accomplished the most for science and art; nor have the greatest mechanics and inventors been trained in mechanics’ institutes. Necessity, oftener than facility, has been the mother of invention; and the most prolific school of all has been the school of difficulty."
   },
   {
    "id": "saigoku-risshi-hen-000201",
@@ -12140,7 +12171,8 @@
      "a": "造",
      "r": "レ"
     }
-   ]
+   ],
+   "genbun": "Some of the very best workmen have had the most indifferent tools to work with. But it is not tools that make the workman, but the trained skill and perseverance of the man himself. Indeed it is proverbial that the bad workman never yet had a good tool. Some one asked Opie by what wonderful process he mixed his colours. “I mix them with my brains, sir,” was his reply. It is the same with every workman who would excel. Ferguson made marvellous things—such as his wooden clock, that accurately measured the hours—by means of a common penknife, a tool in everybody’s hand; but then everybody is not a Ferguson. A pan of water and two thermometers were the tools by which Dr. Black discovered latent heat; and a prism, a lens, and a sheet of pasteboard enabled Newton to unfold the composition of light and the origin of colours. An eminent foreign savant once called upon Dr. Wollaston, and requested to be shown over his laboratories in which science had been enriched by so many important discoveries, when the doctor took him into a little study, and, pointing to an old tea-tray on the table, containing a few watch-glasses, test papers, a small balance, and a blowpipe, said, “There is all the laboratory that I have!”\nStothard learnt the art of combining colours by closely studying butterflies’ wings: he would often say that no one knew what he owed to these tiny insects. A burnt stick and a barn door served Wilkie in lieu of pencil and canvas. Bewick first practised drawing on the cottage walls of his native village, which he covered with his sketches in chalk; and Benjamin West made his first brushes out of the cat’s tail. Ferguson laid himself down in the fields at night in a blanket, and made a map of the heavenly bodies by means of a thread with small beads on it stretched between his eye and the stars. Franklin first robbed the thundercloud of its lightning by means of a kite made with two cross sticks and a silk handkerchief. Watt made his first model of the condensing steam-engine out of an old anatomist’s syringe, used to inject the arteries previous to dissection. Gifford worked his first problems in mathematics, when a cobbler’s apprentice, upon small scraps of leather, which he beat smooth for the purpose; whilst Rittenhouse, the astronomer, first calculated eclipses on his plough handle."
   },
   {
    "id": "saigoku-risshi-hen-000202",
@@ -12177,7 +12209,8 @@
      "a": "李",
      "r": "リー"
     }
-   ]
+   ],
+   "genbun": "The most ordinary occasions will furnish a man with opportunities or suggestions for improvement, if he be but prompt to take advantage of them. Professor Lee was attracted to the study of Hebrew by finding a Bible in that tongue in a synagogue, while working as a common carpenter at the repairs of the benches. He became possessed with a desire to read the book in the original, and, buying a cheap second-hand copy of a Hebrew grammar, he set to work and learnt the language for himself."
   },
   {
    "id": "saigoku-risshi-hen-000203",
@@ -12235,7 +12268,8 @@
      "a": "斯東",
      "r": "ストーン"
     }
-   ]
+   ],
+   "genbun": "As Edmund Stone said to the Duke of Argyle, in answer to his grace’s inquiry how he, a poor gardener’s boy, had contrived to be able to read Newton’s Principia in Latin, “One needs only to know the twenty-four letters of the alphabet in order to learn everything else that one wishes.” Application and perseverance, and the diligent improvement of opportunities, will do the rest."
   },
   {
    "id": "saigoku-risshi-hen-000204",
@@ -32385,7 +32419,7 @@
  ],
  "poems": [],
  "translation": {
-  "count": 141,
+  "count": 157,
   "note": "AI による現代語訳と書き下し"
  },
  "original": "Self-Help (1859)",
