@@ -10,7 +10,7 @@
   "kind": "漢文訓読体（漢字片仮名交じり）。序は漢文",
   "era": "",
   "author": "サミュエル・スマイルズ 著、中村正直 訳",
-  "desc": "全文。明治 27 年の活字版の全コマを画像と照らして起こした。迷った字の見直し、原文との対応づけ、現代語訳はこれから"
+  "desc": "全文。明治 27 年の活字版の全コマを画像と照らして起こした。第一編には原書の原文と、原文からの現代語訳を付けた。迷った字の見直しと、第二編からあとの原文・現代語訳はこれから"
  },
  "editions": [
   {
@@ -1904,7 +1904,7 @@
    "vol": "第一編　邦國及ビ人民ノ自助ルヿヲ論ズ",
    "kotobagaki": "",
    "author": "",
-   "text": "彌爾曰、一國ノ貴トマルヽトコロノ位價ハ、ソノ人民ノ貴トマルヽモノヽ、合併シタル位價ナリ、埋士禮立曰、世人ツ子ニ法度ヲ信ズルヿハ、分外ニ多ク、人民ヲ信ズルヿハ、分外ニ少キヿナリ、",
+   "text": "彌爾曰、一國ノ貴トマルヽトコロノ位價ハ、ソノ人民ノ貴トマルヽモノヽ、合併シタル位價ナリ、垤士禮立曰、世人ツ子ニ法度ヲ信ズルヿハ、分外ニ多ク、人民ヲ信ズルヿハ、分外ニ少キヿナリ、",
    "sachu": "",
    "poems": [],
    "notes": [],
@@ -1930,6 +1930,10 @@
     {
      "a": "分外",
      "r": "アタリマヘノホカ"
+    },
+    {
+     "a": "垤士禮立",
+     "r": "ヂスレイリ"
     }
    ],
    "vol_ruby": [
@@ -1940,13 +1944,14 @@
    ],
    "han": {
     "1080981": {
-     "text": "彌爾曰、一國ノ貴トマルヽ、モノヽ、合併シタル位價ナリ、埋士禮立曰、世人ツ子ニ法度ヲ信ズルヿハ、分外ニ多ク、人民ヲ信ズルヿハ、分外ニ少キヿナリ、",
+     "text": "彌爾曰、一國ノ貴トマルヽ、モノヽ、合併シタル位價ナリ、垤士禮立曰、世人ツ子ニ法度ヲ信ズルヿハ、分外ニ多ク、人民ヲ信ズルヿハ、分外ニ少キヿナリ、",
      "pages": [
       28
      ]
     }
    },
-   "han_note": "活字版は蔵書印が重なり「彌爾曰」「ソノ人民ノ」「合併シ」「埋士禮立」の一部が読めない。初版で補った"
+   "han_note": "活字版は蔵書印が重なり「彌爾曰」「ソノ人民ノ」「合併シ」「埋士禮立」の一部が読めない。初版で補った",
+   "genbun": "“The worth of a State, in the long run, is the worth of the individuals composing it.”—J. S. Mill.\n“We put too much faith in systems, and look too little to men.”—B. Disraeli."
   },
   {
    "id": "saigoku-risshi-hen-000039",
@@ -2073,7 +2078,8 @@
      "a": "自助ル",
      "r": "ミヅカラタスク"
     }
-   ]
+   ],
+   "genbun": "“HEAVEN helps those who help themselves” is a well-tried maxim, embodying in a small compass the results of vast human experience. The spirit of self-help is the root of all genuine growth in the individual; and, exhibited in the lives of many, it constitutes the true source of national vigour and strength. Help from without is often enfeebling in its effects, but help from within invariably invigorates. Whatever is done for men or classes, to a certain extent takes away the stimulus and necessity of doing for themselves; and where men are subjected to over-guidance and over-government, the inevitable tendency is to render them comparatively helpless."
   },
   {
    "id": "saigoku-risshi-hen-000040",
@@ -2213,7 +2219,8 @@
    ],
    "wari": [
     "士農工商ヲ統テ人民トイフ〓ノミニアラズ下コレニ傚ヘ"
-   ]
+   ],
+   "genbun": "Even the best institutions can give a man no active help. Perhaps the most they can do is, to leave him free to develop himself and improve his individual condition. But in all times men have been prone to believe that their happiness and well-being were to be secured by means of institutions rather than by their own conduct. Hence the value of legislation as an agent in human advancement has usually been much over-estimated. To constitute the millionth part of a Legislature, by voting for one or two men once in three or five years, however conscientiously this duty may be performed, can exercise but little active influence upon any man’s life and character. Moreover, it is every day becoming more clearly understood, that the function of Government is negative and restrictive, rather than positive and active; being resolvable principally into protection—protection of life, liberty, and property. Laws, wisely administered, will secure men in the enjoyment of the fruits of their labour, whether of mind or body, at a comparatively small personal sacrifice; but no laws, however stringent, can make the idle industrious, the thriftless provident, or the drunken sober. Such reforms can only be effected by means of individual action, economy, and self-denial; by better habits, rather than by greater rights."
   },
   {
    "id": "saigoku-risshi-hen-000041",
@@ -2329,7 +2336,8 @@
      "a": "返照",
      "r": "カヘリウツル"
     }
-   ]
+   ],
+   "genbun": "The Government of a nation itself is usually found to be but the reflex of the individuals composing it. The Government that is ahead of the people will inevitably be dragged down to their level, as the Government that is behind them will in the long run be dragged up. In the order of nature, the collective character of a nation will as surely find its befitting results in its law and government, as water finds its own level. The noble people will be nobly ruled, and the ignorant and corrupt ignobly. Indeed all experience serves to prove that the worth and strength of a State depend far less upon the form of its institutions than upon the character of its men. For the nation is only an aggregate of individual conditions, and civilization itself is but a question of the personal improvement of the men, women, and children of whom society is composed."
   },
   {
    "id": "saigoku-risshi-hen-000042",
@@ -2432,7 +2440,8 @@
      "a": "崇",
      "r": "タカウ"
     }
-   ]
+   ],
+   "genbun": "National progress is the sum of individual industry, energy, and uprightness, as national decay is of individual idleness, selfishness, and vice. What we are accustomed to decry as great social evils, will, for the most part, be found to be but the outgrowth of man’s own perverted life; and though we may endeavour to cut them down and extirpate them by means of Law, they will only spring up again with fresh luxuriance in some other form, unless the conditions of personal life and character are radically improved. If this view be correct, then it follows that the highest patriotism and philanthropy consist, not so much in altering laws and modifying institutions, as in helping and stimulating men to elevate and improve themselves by their own free and independent individual action."
   },
   {
    "id": "saigoku-risshi-hen-000043",
@@ -2550,7 +2559,8 @@
      "a": "擔保",
      "r": "ウケアヒ"
     }
-   ]
+   ],
+   "genbun": "It may be of comparatively little consequence how a man is governed from without, whilst everything depends upon how he governs himself from within. The greatest slave is not he who is ruled by a despot, great though that evil be, but he who is the thrall of his own moral ignorance, selfishness, and vice. Nations who are thus enslaved at heart cannot be freed by any mere changes of masters or of institutions; and so long as the fatal delusion prevails, that liberty solely depends upon and consists in government, so long will such changes, no matter at what cost they may be effected, have as little practical and lasting result as the shifting of the figures in a phantasmagoria. The solid foundations of liberty must rest upon individual character; which is also the only sure guarantee for social security and national progress."
   },
   {
    "id": "saigoku-risshi-hen-000044",
@@ -2596,7 +2606,8 @@
      "a": "壓壞",
      "r": "アツクワイ"
     }
-   ]
+   ],
+   "genbun": "John Stuart Mill truly observes that “even despotism does not produce its worst effects so long as individuality exists under it; and whatever crushes individuality is despotism, by whatever name it be called.”"
   },
   {
    "id": "saigoku-risshi-hen-000045",
@@ -2749,7 +2760,8 @@
    "wari": [
     "羅馬古代ノ帝ニシテ國權ヲ己ニ專ニスルモノナレバ、",
     "權勢ヲ人君ニ歸セント欲スル政學家ノ名トナレリ、"
-   ]
+   ],
+   "genbun": "Old fallacies as to human progress are constantly turning up. Some call for Cæsars, others for Nationalities, and others for Acts of Parliament. We are to wait for Cæsars, and when they are found, “happy the people who recognise and follow them.” This doctrine shortly means, everything for the people, nothing by them,—a doctrine which, if taken as a guide, must, by destroying the free conscience of a community, speedily prepare the way for any form of despotism. Cæsarism is human idolatry in its worst form—a worship of mere power, as degrading in its effects as the worship of mere wealth would be. A far healthier doctrine to inculcate among the nations would be that of Self-Help; and so soon as it is thoroughly understood and carried into action, Cæsarism will be no more. The two principles are directly antagonistic; and what Victor Hugo said of the Pen and the Sword alike applies to them, “Ceci tuera cela.” [This will kill that.]"
   },
   {
    "id": "saigoku-risshi-hen-000046",
@@ -2865,7 +2877,8 @@
    ],
    "wari": [
     "愛蘭ノ都"
-   ]
+   ],
+   "genbun": "The power of Nationalities and Acts of Parliament is also a prevalent superstition. What William Dargan, one of Ireland’s truest patriots, said at the closing of the first Dublin Industrial Exhibition, may well be quoted now. “To tell the truth,” he said, “I never heard the word independence mentioned that my own country and my own fellow townsmen did not occur to my mind. I have heard a great deal about the independence that we were to get from this, that, and the other place, and of the great expectations we were to have from persons from other countries coming amongst us. Whilst I value as much as any man the great advantages that must result to us from that intercourse, I have always been deeply impressed with the feeling that our industrial independence is dependent upon ourselves. I believe that with simple industry and careful exactness in the utilization of our energies, we never had a fairer chance nor a brighter prospect than the present. We have made a step, but perseverance is the great agent of success; and if we but go on zealously, I believe in my conscience that in a short period we shall arrive at a position of equal comfort, of equal happiness, and of equal independence, with that of any other people.”"
   },
   {
    "id": "saigoku-risshi-hen-000047",
@@ -2989,7 +3002,8 @@
      "a": "功",
      "r": "イサヲ"
     }
-   ]
+   ],
+   "genbun": "All nations have been made what they are by the thinking and the working of many generations of men. Patient and persevering labourers in all ranks and conditions of life, cultivators of the soil and explorers of the mine, inventors and discoverers, manufacturers, mechanics and artisans, poets, philosophers, and politicians, all have contributed towards the grand result, one generation building upon another’s labours, and carrying them forward to still higher stages. This constant succession of noble workers—the artisans of civilisation—has served to create order out of chaos in industry, science, and art; and the living race has thus, in the course of nature, become the inheritor of the rich estate provided by the skill and industry of our forefathers, which is placed in our hands to cultivate, and to hand down, not only unimpaired but improved, to our successors."
   },
   {
    "id": "saigoku-risshi-hen-000048",
@@ -3150,7 +3164,8 @@
      "a": "自助",
      "r": "ミヅカラタスクル"
     }
-   ]
+   ],
+   "genbun": "The spirit of self-help, as exhibited in the energetic action of individuals, has in all times been a marked feature in the English character, and furnishes the true measure of our power as a nation. Rising above the heads of the mass, there were always to be found a series of individuals distinguished beyond others, who commanded the public homage. But our progress has also been owing to multitudes of smaller and less known men. Though only the generals’ names may be remembered in the history of any great campaign, it has been in a great measure through the individual valour and heroism of the privates that victories have been won. And life, too, is “a soldiers’ battle,”—men in the ranks having in all times been amongst the greatest of workers. Many are the lives of men unwritten, which have nevertheless as powerfully influenced civilisation and progress as the more fortunate Great whose names are recorded in biography. Even the humblest person, who sets before his fellows an example of industry, sobriety, and upright honesty of purpose in life, has a present as well as a future influence upon the well-being of his country; for his life and character pass unconsciously into the lives of others, and propagate good example for all time to come."
   },
   {
    "id": "saigoku-risshi-hen-000049",
@@ -3334,7 +3349,8 @@
      "a": "習驗",
      "r": "ナラヒタメス"
     }
-   ]
+   ],
+   "genbun": "Daily experience shows that it is energetic individualism which produces the most powerful effects upon the life and action of others, and really constitutes the best practical education. Schools, academies, and colleges, give but the merest beginnings of culture in comparison with it. Far more influential is the life-education daily given in our homes, in the streets, behind counters, in workshops, at the loom and the plough, in counting-houses and manufactories, and in the busy haunts of men. This is that finishing instruction as members of society, which Schiller designated “the education of the human race,” consisting in action, conduct, self-culture, self-control,—all that tends to discipline a man truly, and fit him for the proper performance of the duties and business of life,—a kind of education not to be learnt from books, or acquired by any amount of mere literary training. With his usual weight of words Bacon observes, that “Studies teach not their own use; but that is a wisdom without them, and above them, won by observation;” a remark that holds true of actual life, as well as of the cultivation of the intellect itself. For all experience serves to illustrate and enforce the lesson, that a man perfects himself by work more than by reading,—that it is life rather than literature, action rather than study, and character rather than biography, which tend perpetually to renovate mankind."
   },
   {
    "id": "saigoku-risshi-hen-000050",
@@ -3491,7 +3507,8 @@
      "a": "言行錄",
      "r": "イチダイキ"
     }
-   ]
+   ],
+   "genbun": "Biographies of great, but especially of good men, are nevertheless most instructive and useful, as helps, guides, and incentives to others. Some of the best are almost equivalent to gospels—teaching high living, high thinking, and energetic action for their own and the world’s good. The valuable examples which they furnish of the power of self-help, of patient purpose, resolute working, and steadfast integrity, issuing in the formation of truly noble and manly character, exhibit in language not to be misunderstood, what it is in the power of each to accomplish for himself; and eloquently illustrate the efficacy of self-respect and self-reliance in enabling men of even the humblest rank to work out for themselves an honourable competency and a solid reputation."
   },
   {
    "id": "saigoku-risshi-hen-000051",
@@ -3666,7 +3683,8 @@
      "a": "拘",
      "r": "カヽハ"
     }
-   ]
+   ],
+   "genbun": "Great men of science, literature, and art—apostles of great thoughts and lords of the great heart—have belonged to no exclusive class nor rank in life. They have come alike from colleges, workshops, and farmhouses,—from the huts of poor men and the mansions of the rich. Some of God’s greatest apostles have come from “the ranks.” The poorest have sometimes taken the highest places; nor have difficulties apparently the most insuperable proved obstacles in their way. Those very difficulties, in many instances, would ever seem to have been their best helpers, by evoking their powers of labour and endurance, and stimulating into life faculties which might otherwise have lain dormant. The instances of obstacles thus surmounted, and of triumphs thus achieved, are indeed so numerous, as almost to justify the proverb that “with Will one can do anything.” Take, for instance, the remarkable fact, that from the barber’s shop came Jeremy Taylor, the most poetical of divines; Sir Richard Arkwright, the inventor of the spinning-jenny and founder of the cotton manufacture; Lord Tenterden, one of the most distinguished of Lord Chief Justices; and Turner, the greatest among landscape painters."
   },
   {
    "id": "saigoku-risshi-hen-000052",
@@ -3794,7 +3812,8 @@
    ],
    "wari": [
     "人間萬類ノ事ヲ一身ニ藏シタルユヱニカク比較シテイフ"
-   ]
+   ],
+   "genbun": "No one knows to a certainty what Shakespeare was; but it is unquestionable that he sprang from a humble rank. His father was a butcher and grazier; and Shakespeare himself is supposed to have been in early life a woolcomber; whilst others aver that he was an usher in a school and afterwards a scrivener’s clerk. He truly seems to have been “not one, but all mankind’s epitome.” For such is the accuracy of his sea phrases that a naval writer alleges that he must have been a sailor; whilst a clergyman infers, from internal evidence in his writings, that he was probably a parson’s clerk; and a distinguished judge of horse-flesh insists that he must have been a horse-dealer."
   },
   {
    "id": "saigoku-risshi-hen-000053",
@@ -3844,7 +3863,8 @@
      "a": "重",
      "r": "オモン"
     }
-   ]
+   ],
+   "genbun": "Shakespeare was certainly an actor, and in the course of his life “played many parts,” gathering his wonderful stores of knowledge from a wide field of experience and observation. In any event, he must have been a close student and a hard worker; and to this day his writings continue to exercise a powerful influence on the formation of English character."
   },
   {
    "id": "saigoku-risshi-hen-000054",
@@ -4019,7 +4039,8 @@
      "a": "因テ",
      "r": "ヨツ"
     }
-   ]
+   ],
+   "genbun": "The common class of day labourers has given us Brindley the engineer, Cook the navigator, and Burns the poet. Masons and bricklayers can boast of Ben Jonson, who worked at the building of Lincoln’s Inn, with a trowel in his hand and a book in his pocket, Edwards and Telford the engineers, Hugh Miller the geologist, and Allan Cunningham the writer and sculptor; whilst among distinguished carpenters we find the names of Inigo Jones the architect, Harrison the chronometer-maker, John Hunter the physiologist, Romney and Opie the painters, Professor Lee the Orientalist, and John Gibson the sculptor.\nFrom the weaver class have sprung Simson the mathematician, Bacon the sculptor, the two Milners, Adam Walker, John Foster, Wilson the ornithologist, Dr. Livingstone the missionary traveller, and Tannahill the poet. Shoemakers have given us Sir Cloudesley Shovel the great Admiral, Sturgeon the electrician, Samuel Drew the essayist, Gifford the editor of the ‘Quarterly Review,’ Bloomfield the poet, and William Carey the missionary; whilst Morrison, another laborious missionary, was a maker of shoe-lasts. Within the last few years, a profound naturalist has been discovered in the person of a shoemaker at Banff, named Thomas Edwards, who, while maintaining himself by his trade, has devoted his leisure to the study of natural science in all its branches, his researches in connexion with the smaller crustaceæ having been rewarded by the discovery of a new species, to which the name of “Praniza Edwardsii” has been given by naturalists."
   },
   {
    "id": "saigoku-risshi-hen-000055",
@@ -4149,7 +4170,8 @@
      "a": "賤業",
      "r": "イヤシキシヨクブン"
     }
-   ]
+   ],
+   "genbun": "Nor have tailors been undistinguished. John Stow, the historian, worked at the trade during some part of his life. Jackson, the painter, made clothes until he reached manhood. The brave Sir John Hawkswood, who so greatly distinguished himself at Poictiers, and was knighted by Edward III. for his valour, was in early life apprenticed to a London tailor. Admiral Hobson, who broke the boom at Vigo in 1702, belonged to the same calling. He was working as a tailor’s apprentice near Bonchurch, in the Isle of Wight, when the news flew through the village that a squadron of men-of-war was sailing off the island. He sprang from the shopboard, and ran down with his comrades to the beach, to gaze upon the glorious sight. The boy was suddenly inflamed with the ambition to be a sailor; and springing into a boat, he rowed off to the squadron, gained the admiral’s ship, and was accepted as a volunteer. Years after, he returned to his native village full of honours, and dined off bacon and eggs in the cottage where he had worked as an apprentice."
   },
   {
    "id": "saigoku-risshi-hen-000056",
@@ -4243,7 +4265,8 @@
    ],
    "wari": [
     "法官ノ長"
-   ]
+   ],
+   "genbun": "But the greatest tailor of all is unquestionably Andrew Johnson, the present President of the United States—a man of extraordinary force of character and vigour of intellect. In his great speech at Washington, when describing himself as having begun his political career as an alderman, and run through all the branches of the legislature, a voice in the crowd cried, “From a tailor up.” It was characteristic of Johnson to take the intended sarcasm in good part, and even to turn it to account. “Some gentleman says I have been a tailor. That does not disconcert me in the least; for when I was a tailor I had the reputation of being a good one, and making close fits; I was always punctual with my customers, and always did good work.”\nCardinal Wolsey, De Foe, Akenside, and Kirke White were the sons of butchers; Bunyan was a tinker, and Joseph Lancaster a basket-maker. Among the great names identified with the invention of the steam-engine are those of Newcomen, Watt, and Stephenson; the first a blacksmith, the second a maker of mathematical instruments, and the third an engine-fireman. Huntingdon the preacher was originally a coalheaver, and Bewick, the father of wood-engraving, a coalminer. Dodsley was a footman, and Holcroft a groom. Baffin the navigator began his seafaring career as a man before the mast, and Sir Cloudesley Shovel as a cabin-boy. Herschel played the oboe in a military band. Chantrey was a journeyman carver, Etty a journeyman printer, and Sir Thomas Lawrence the son of a tavern-keeper. Michael Faraday, the son of a blacksmith, was in early life apprenticed to a bookbinder, and worked at that trade until he reached his twenty-second year: he now occupies the very first rank as a philosopher, excelling even his master, Sir Humphry Davy, in the art of lucidly expounding the most difficult and abstruse points in natural science."
   },
   {
    "id": "saigoku-risshi-hen-000057",
@@ -4386,7 +4409,8 @@
    ],
    "wari": [
     "以太利ノ地"
-   ]
+   ],
+   "genbun": "Among those who have given the greatest impulse to the sublime science of astronomy, we find Copernicus, the son of a Polish baker; Kepler, the son of a German public-house keeper, and himself the “garçon de cabaret;” d’Alembert, a foundling picked up one winter’s night on the steps of the church of St. Jean le Rond at Paris, and brought up by the wife of a glazier; and Newton and Laplace, the one the son of a small freeholder near Grantham, the other the son of a poor peasant of Beaumont-en-Auge, near Honfleur. Notwithstanding their comparatively adverse circumstances in early life, these distinguished men achieved a solid and enduring reputation by the exercise of their genius, which all the wealth in the world could not have purchased. The very possession of wealth might indeed have proved an obstacle greater even than the humble means to which they were born. The father of Lagrange, the astronomer and mathematician, held the office of Treasurer of War at Turin; but having ruined himself by speculations, his family were reduced to comparative poverty. To this circumstance Lagrange was in after life accustomed partly to attribute his own fame and happiness. “Had I been rich,” said he, “I should probably not have become a mathematician.”"
   },
   {
    "id": "saigoku-risshi-hen-000058",
@@ -4509,7 +4533,8 @@
    "wari": [
     "牧師ト譯ス",
     "法官ナリ"
-   ]
+   ],
+   "genbun": "The sons of clergymen and ministers of religion generally, have particularly distinguished themselves in our country’s history. Amongst them we find the names of Drake and Nelson, celebrated in naval heroism; of Wollaston, Young, Playfair, and Bell, in science; of Wren, Reynolds, Wilson, and Wilkie, in art; of Thurlow and Campbell, in law; and of Addison, Thomson, Goldsmith, Coleridge, and Tennyson, in literature. Lord Hardinge, Colonel Edwardes, and Major Hodson, so honourably known in Indian warfare, were also the sons of clergymen. Indeed, the empire of England in India was won and held chiefly by men of the middle class—such as Clive, Warren Hastings, and their successors—men for the most part bred in factories and trained to habits of business."
   },
   {
    "id": "saigoku-risshi-hen-000059",
@@ -4736,7 +4761,8 @@
    ],
    "wari": [
     "狀師ノ卑キ者"
-   ]
+   ],
+   "genbun": "Among the sons of attorneys we find Edmund Burke, Smeaton the engineer, Scott and Wordsworth, and Lords Somers, Hardwick, and Dunning. Sir William Blackstone was the posthumous son of a silk-mercer. Lord Gifford’s father was a grocer at Dover; Lord Denman’s a physician; judge Talfourd’s a country brewer; and Lord Chief Baron Pollock’s a celebrated saddler at Charing Cross. Layard, the discoverer of the monuments of Nineveh, was an articled clerk in a London solicitor’s office; and Sir William Armstrong, the inventor of hydraulic machinery and of the Armstrong ordnance, was also trained to the law and practised for some time as an attorney. Milton was the son of a London scrivener, and Pope and Southey were the sons of linendrapers. Professor Wilson was the son of a Paisley manufacturer, and Lord Macaulay of an African merchant. Keats was a druggist, and Sir Humphry Davy a country apothecary’s apprentice. Speaking of himself, Davy once said, “What I am I have made myself: I say this without vanity, and in pure simplicity of heart.” Richard Owen, the Newton of Natural History, began life as a midshipman, and did not enter upon the line of scientific research in which he has since become so distinguished, until comparatively late in life. He laid the foundations of his great knowledge while occupied in cataloguing the magnificent museum accumulated by the industry of John Hunter, a work which occupied him at the College of Surgeons during a period of about ten years."
   },
   {
    "id": "saigoku-risshi-hen-000060",
@@ -4985,7 +5011,8 @@
      "a": "外國",
      "r": "トツクニ"
     }
-   ]
+   ],
+   "genbun": "Foreign not less than English biography abounds in illustrations of men who have glorified the lot of poverty by their labours and their genius. In Art we find Claude, the son of a pastrycook; Geefs, of a baker; Leopold Robert, of a watchmaker; and Haydn, of a wheelwright; whilst Daguerre was a scene-painter at the Opera. The father of Gregory VII. was a carpenter; of Sextus V., a shepherd; and of Adrian VI., a poor bargeman. When a boy, Adrian, unable to pay for a light by which to study, was accustomed to prepare his lessons by the light of the lamps in the streets and the church porches, exhibiting a degree of patience and industry which were the certain forerunners of his future distinction. Of like humble origin were Hauy, the mineralogist, who was the son of a weaver of Saint-Just; Hautefeuille, the mechanician, of a baker at Orleans; Joseph Fourier, the mathematician, of a tailor at Auxerre; Durand, the architect, of a Paris shoemaker; and Gesner, the naturalist, of a skinner or worker in hides, at Zurich. This last began his career under all the disadvantages attendant on poverty, sickness, and domestic calamity; none of which, however, were sufficient to damp his courage or hinder his progress. His life was indeed an eminent illustration of the truth of the saying, that those who have most to do and are willing to work, will find the most time. Pierre Ramus was another man of like character. He was the son of poor parents in Picardy, and when a boy was employed to tend sheep. But not liking the occupation he ran away to Paris. After encountering much misery, he succeeded in entering the College of Navarre as a servant. The situation, however, opened for him the road to learning, and he shortly became one of the most distinguished men of his time."
   },
   {
    "id": "saigoku-risshi-hen-000061",
@@ -5117,7 +5144,8 @@
    ],
    "wari": [
     "法國地名"
-   ]
+   ],
+   "genbun": "The chemist Vauquelin was the son of a peasant of Saint-André-d’Herbetot, in the Calvados. When a boy at school, though poorly clad, he was full of bright intelligence; and the master, who taught him to read and write, when praising him for his diligence, used to say, “Go on, my boy; work, study, Colin, and one day you will go as well dressed as the parish churchwarden!” A country apothecary who visited the school, admired the robust boy’s arms, and offered to take him into his laboratory to pound his drugs, to which Vauquelin assented, in the hope of being able to continue his lessons. But the apothecary would not permit him to spend any part of his time in learning; and on ascertaining this, the youth immediately determined to quit his service. He therefore left Saint-André and took the road for Paris with his havresac on his back. Arrived there, he searched for a place as apothecary’s boy, but could not find one. Worn out by fatigue and destitution, Vauquelin fell ill, and in that state was taken to the hospital, where he thought he should die. But better things were in store for the poor boy. He recovered, and again proceeded in his search of employment, which he at length found with an apothecary. Shortly after, he became known to Fourcroy the eminent chemist, who was so pleased with the youth that he made him his private secretary; and many years after, on the death of that great philosopher, Vauquelin succeeded him as Professor of Chemistry. Finally, in 1829, the electors of the district of Calvados appointed him their representative in the Chamber of Deputies, and he re-entered in triumph the village which he had left so many years before, so poor and so obscure."
   },
   {
    "id": "saigoku-risshi-hen-000062",
@@ -5204,7 +5232,8 @@
      "a": "內",
      "r": "ネイ"
     }
-   ]
+   ],
+   "genbun": "England has no parallel instances to show, of promotions from the ranks of the army to the highest military offices; which have been so common in France since the first Revolution. “La carrière ouverte aux talents” has there received many striking illustrations, which would doubtless be matched among ourselves were the road to promotion as open. Hoche, Humbert, and Pichegru, began their respective careers as private soldiers. Hoche, while in the King’s army, was accustomed to embroider waistcoats to enable him to earn money wherewith to purchase books on military science. Humbert was a scapegrace when a youth; at sixteen he ran away from home, and was by turns servant to a tradesman at Nancy, a workman at Lyons, and a hawker of rabbit skins. In 1792, he enlisted as a volunteer; and in a year he was general of brigade. Kleber, Lefèvre, Suchet, Victor, Lannes, Soult, Massena, St. Cyr, D’Erlon, Murat, Augereau, Bessières, and Ney, all rose from the ranks. In some cases promotion was rapid, in others it was slow. Saint Cyr, the son of a tanner of Toul, began life as an actor, after which he enlisted in the Chasseurs, and was promoted to a captaincy within a year. Victor, Duc de Belluno, enlisted in the Artillery in 1781: during the events preceding the Revolution he was discharged; but immediately on the outbreak of war he re-enlisted, and in the course of a few months his intrepidity and ability secured his promotion as Adjutant-Major and chief of battalion. Murat, “le beau sabreur,” was the son of a village innkeeper in Perigord, where he looked after the horses. He first enlisted in a regiment of Chasseurs, from which he was dismissed for insubordination: but again enlisting, he shortly rose to the rank of Colonel. Ney enlisted at eighteen in a hussar regiment, and gradually advanced step by step: Kleber soon discovered his merits, surnaming him “The Indefatigable,” and promoted him to be Adjutant-General when only twenty-five."
   },
   {
    "id": "saigoku-risshi-hen-000063",
@@ -5266,7 +5295,8 @@
      "a": "衣糧袋",
      "r": "ナツソサツク"
     }
-   ]
+   ],
+   "genbun": "On the other hand, Soult was six years from the date of his enlistment before he reached the rank of sergeant. But Soult’s advancement was rapid compared with that of Massena, who served for fourteen years before he was made sergeant; and though he afterwards rose successively, step by step, to the grades of Colonel, General of Division, and Marshal, he declared that the post of sergeant was the step which of all others had cost him the most labour to win. Similar promotions from the ranks, in the French army, have continued down to our own day. Changarnier entered the King’s bodyguard as a private in 1815. Marshal Bugeaud served four years in the ranks, after which he was made an officer. Marshal Randon, the present French Minister of War, began his military career as a drummer boy; and in the portrait of him in the gallery at Versailles, his hand rests upon a drum-head, the picture being thus painted at his own request. Instances such as these inspire French soldiers with enthusiasm for their service, as each private feels that he may possibly carry the baton of a marshal in his knapsack."
   },
   {
    "id": "saigoku-risshi-hen-000064",
@@ -5325,7 +5355,8 @@
      "a": "伯洛沙敦",
      "r": "ブロザアトン"
     }
-   ]
+   ],
+   "genbun": "The instances of men, in this and other countries, who, by dint of persevering application and energy, have raised themselves from the humblest ranks of industry to eminent positions of usefulness and influence in society, are indeed so numerous that they have long ceased to be regarded as exceptional. Looking at some of the more remarkable, it might almost be said that early encounter with difficulty and adverse circumstances was the necessary and indispensable condition of success. The British House of Commons has always contained a considerable number of such self-raised men—fitting representatives of the industrial character of the people; and it is to the credit of our Legislature that they have been welcomed and honoured there. When the late Joseph Brotherton, member for Salford, in the course of the discussion on the Ten Hours Bill, detailed with true pathos the hardships and fatigues to which he had been subjected when working as a factory boy in a cotton mill, and described the resolution which he had then formed, that if ever it was in his power he would endeavour to ameliorate the condition of that class, Sir James Graham rose immediately after him, and declared, amidst the cheers of the House, that he did not before know that Mr. Brotherton’s origin had been so humble, but that it rendered him more proud than he had ever before been of the House of Commons, to think that a person risen from that condition should be able to sit side by side, on equal terms, with the hereditary gentry of the land."
   },
   {
    "id": "saigoku-risshi-hen-000065",
@@ -5396,7 +5427,8 @@
      "a": "林德西",
      "r": "リンドセイ"
     }
-   ]
+   ],
+   "genbun": "The late Mr. Fox, member for Oldham, was accustomed to introduce his recollections of past times with the words, “when I was working as a weaver boy at Norwich;” and there are other members of parliament, still living, whose origin has been equally humble. Mr. Lindsay, the well-known ship owner, until recently member for Sunderland, once told the simple story of his life to the electors of Weymouth, in answer to an attack made upon him by his political opponents. He had been left an orphan at fourteen, and when he left Glasgow for Liverpool to push his way in the world, not being able to pay the usual fare, the captain of the steamer agreed to take his labour in exchange, and the boy worked his passage by trimming the coals in the coal hole. At Liverpool he remained for seven weeks before he could obtain employment, during which time he lived in sheds and fared hardly; until at last he found shelter on board a West Indiaman. He entered as a boy, and before he was nineteen, by steady good conduct he had risen to the command of a ship. At twenty-three he retired from the sea, and settled on shore, after which his progress was rapid “he had prospered,” he said, “by steady industry, by constant work, and by ever keeping in view the great principle of doing to others as you would be done by.”"
   },
   {
    "id": "saigoku-risshi-hen-000066",
@@ -5471,7 +5503,8 @@
      "a": "若克孫",
      "r": "ジヤクソン"
     }
-   ]
+   ],
+   "genbun": "The career of Mr. William Jackson, of Birkenhead, the present member for North Derbyshire, bears considerable resemblance to that of Mr. Lindsay. His father, a surgeon at Lancaster, died, leaving a family of eleven children, of whom William Jackson was the seventh son. The elder boys had been well educated while the father lived, but at his death the younger members had to shift for themselves. William, when under twelve years old, was taken from school, and put to hard work at a ship’s side from six in the morning till nine at night. His master falling ill, the boy was taken into the counting-house, where he had more leisure. This gave him an opportunity of reading, and having obtained access to a set of the ‘Encyclopædia Britannica,’ he read the volumes through from A to Z, partly by day, but chiefly at night. He afterwards put himself to a trade, was diligent, and succeeded in it. Now he has ships sailing on almost every sea, and holds commercial relations with nearly every country on the globe."
   },
   {
    "id": "saigoku-risshi-hen-000067",
@@ -5537,7 +5570,8 @@
      "a": "格伯田",
      "r": "コブデン"
     }
-   ]
+   ],
+   "genbun": "Among like men of the same class may be ranked the late Richard Cobden, whose start in life was equally humble. The son of a small farmer at Midhurst in Sussex, he was sent at an early age to London and employed as a boy in a warehouse in the City. He was diligent, well conducted, and eager for information. His master, a man of the old school, warned him against too much reading; but the boy went on in his own course, storing his mind with the wealth found in books. He was promoted from one position of trust to another—became a traveller for his house—secured a large connection, and eventually started in business as a calico printer at Manchester. Taking an interest in public questions, more especially in popular education, his attention was gradually drawn to the subject of the Corn Laws, to the repeal of which he may be said to have devoted his fortune and his life."
   },
   {
    "id": "saigoku-risshi-hen-000068",
@@ -5583,7 +5617,8 @@
      "a": "表樣",
      "r": "アラハレ"
     }
-   ]
+   ],
+   "genbun": "It may be mentioned as a curious fact that the first speech he delivered in public was a total failure. But he had great perseverance, application, and energy; and with persistency and practice, he became at length one of the most persuasive and effective of public speakers, extorting the disinterested eulogy of even Sir Robert Peel himself. M. Drouyn de Lhuys, the French Ambassador, has eloquently said of Mr. Cobden, that he was “a living proof of what merit, perseverance, and labour can accomplish; one of the most complete examples of those men who, sprung from the humblest ranks of society, raise themselves to the highest rank in public estimation by the effect of their own worth and of their personal services; finally, one of the rarest examples of the solid qualities inherent in the English character.”"
   },
   {
    "id": "saigoku-risshi-hen-000069",
@@ -5633,7 +5668,8 @@
      "a": "採石礦",
      "r": "イシキリメスト コロ"
     }
-   ]
+   ],
+   "genbun": "In all these cases, strenuous individual application was the price paid for distinction; excellence of any sort being invariably placed beyond the reach of indolence. It is the diligent hand and head alone that maketh rich—in self-culture, growth in wisdom, and in business. Even when men are born to wealth and high social position, any solid reputation which they may individually achieve can only be attained by energetic application; for though an inheritance of acres may be bequeathed, an inheritance of knowledge and wisdom cannot. The wealthy man may pay others for doing his work for him, but it is impossible to get his thinking done for him by another, or to purchase any kind of self-culture. Indeed, the doctrine that excellence in any pursuit is only to be achieved by laborious application, holds as true in the case of the man of wealth as in that of Drew and Gifford, whose only school was a cobbler’s stall, or Hugh Miller, whose only college was a Cromarty stone quarry."
   },
   {
    "id": "saigoku-risshi-hen-000070",
@@ -5679,7 +5715,8 @@
      "a": "理會",
      "r": "ガテン"
     }
-   ]
+   ],
+   "genbun": "Riches and ease, it is perfectly clear, are not necessary for man’s highest culture, else had not the world been so largely indebted in all times to those who have sprung from the humbler ranks. An easy and luxurious existence does not train men to effort or encounter with difficulty; nor does it awaken that consciousness of power which is so necessary for energetic and effective action in life. Indeed, so far from poverty being a misfortune, it may, by vigorous self-help, be converted even into a blessing; rousing a man to that struggle with the world in which, though some may purchase ease by degradation, the right-minded and true-hearted find strength, confidence, and triumph."
   },
   {
    "id": "saigoku-risshi-hen-000071",
@@ -5709,7 +5746,8 @@
      "a": "職事",
      "r": "クラフ"
     }
-   ]
+   ],
+   "genbun": "Bacon says, “Men seem neither to understand their riches nor their strength: of the former they believe greater things than they should; of the latter much less. Self-reliance and self-denial will teach a man to drink out of his own cistern, and eat his own sweet bread, and to learn and labour truly to get his living, and carefully to expend the good things committed to his trust.”"
   },
   {
    "id": "saigoku-risshi-hen-000072",
@@ -5763,7 +5801,8 @@
      "a": "印度",
      "r": "インド"
     }
-   ]
+   ],
+   "genbun": "Riches are so great a temptation to ease and self-indulgence, to which men are by nature prone, that the glory is all the greater of those who, born to ample fortunes, nevertheless take an active part in the work of their generation—who “scorn delights and live laborious days.” It is to the honour of the wealthier ranks in this country that they are not idlers; for they do their fair share of the work of the state, and usually take more than their fair share of its dangers. It was a fine thing said of a subaltern officer in the Peninsular campaigns, observed trudging alone through mud and mire by the side of his regiment, “There goes 15,000l. a year!” and in our own day, the bleak slopes of Sebastopol and the burning soil of India have borne witness to the like noble self-denial and devotion on the part of our gentler classes; many a gallant and noble fellow, of rank and estate, having risked his life, or lost it, in one or other of those fields of action, in the service of his country."
   },
   {
    "id": "saigoku-risshi-hen-000073",
@@ -5813,19 +5852,21 @@
      "a": "頭人",
      "r": "シラトヂスル"
     }
-   ]
+   ],
+   "genbun": "Nor have the wealthier classes been undistinguished in the more peaceful pursuits of philosophy and science. Take, for instance, the great names of Bacon, the father of modern philosophy, and of Worcester, Boyle, Cavendish, Talbot, and Rosse, in science. The last named may be regarded as the great mechanic of the peerage; a man who, if he had not been born a peer, would probably have taken the highest rank as an inventor. So thorough is his knowledge of smith-work that he is said to have been pressed on one occasion to accept the foremanship of a large workshop, by a manufacturer to whom his rank was unknown. The great Rosse telescope, of his own fabrication, is certainly the most extraordinary instrument of the kind that has yet been constructed."
   },
   {
    "id": "saigoku-risshi-hen-000074",
    "pid": "755564",
    "pages": [
-    60
+    60,
+    61
    ],
    "no": 74,
    "vol": "第一編　邦國及ビ人民ノ自助ルヿヲ論ズ",
    "kotobagaki": "二十八　名門右族ニ生テ政學文章ニ長ズル人、附羅伯比爾、",
    "author": "",
-   "text": "政學家文章家ニ、名門右族ヨリ出ル人少カラズ、コノ學科ニ於テモ、亦勉强學習ノ功ヲ積ザレバ、成就ニ至ルヿ能ハズ、故ニ巴力門ノ頭位ニ在モノハ、必ズ皆勉强勞苦",
+   "text": "政學家文章家ニ、名門右族ヨリ出ル人少カラズ、コノ學科ニ於テモ、亦勉强學習ノ功ヲ積ザレバ、成就ニ至ルヿ能ハズ、故ニ巴力門ノ頭位ニ在モノハ、必ズ皆勉强勞苦ヲ極タル人ナリ、巴麥斯敦、大伯拉設爾、垤士禮立、額拉特斯頓ノ如キ、皆是ナリ、以上諸人ハ、巴力門ノ繁劇ナル時ニ當テ、晝夜トモニ勉勞ヲ作リ、羅伯○比爾ハ、今世ノ最モ勉强ナル人ナリ、比爾精力常人ニ絕レ、常ニ心思ヲ用テ、吝惜スルヿナシ、ソノ履歷ヲ觀ルトキハ、中等ノ資性ヲ具ル人ト雖モ、勉强シテ心ヲ用ヒ、勞力シテ倦ムヿナクレバ、許多ノ事業ヲ成就スベキヿヲ證知スベキナリ、比爾四十年ノ間、巴力門ノ議士ニ列シ、ソノ功勞甚ダ大ナリ、常ニ良心ニ從テ諸事ヲ行ヒ、必ズ貫徹スルマデニ爲タリ、凡ソノ論辯スルモノ、必ズ豫メ詳ニ學習シテ、然後或ハ言ニ發シ、或ハ文ニ著セリ、ツヒニ倉卒ニ出ルモノナシ、ソノ自ラ心力ヲ勞スルヿ、殊ニ過甚ニシテ、人ニ接見スルニモ、各ゝソノ人ノ器量ニ隨テ、コレニ體貼將就シテ、餘力ヲ惜ズ、且又實事習驗ノ智ト、志向堅定ノ力ト、及ビ、兩目兩手ヲ着實ニ運用スルノ才アリ、就中一事尤モ他人ニ超絕スルモノハ、ソノ持論、歲月ヲ閱スルニ隨ヒ、開拓擴充セリ、年已ニ老ト雖モ、ソノ氣象タヾ衰縮セザルノミナラズ益ゝ粹美純熟ニ至リ、死ニ至ルマデ、新見異說ヲ聽納スルヿヲ爲リ、人多ク思ラク、「比爾ハ謹愼ニ過タリ」ト然ドモ、比爾實ニ從前ノ見識ヲ以テ自ラ善トスルノ心ナシ、蓋シ自ラ善トスルノ心ハ學問ノ癱瘋ニシテ、老年ノ人ヲシテ、復進境アラザラシムルモノナリ、",
    "sachu": "",
    "poems": [],
    "notes": [],
@@ -5842,31 +5883,7 @@
     {
      "a": "頭位",
      "r": "カシラ"
-    }
-   ],
-   "kotobagaki_ruby": [
-    {
-     "a": "羅伯比爾",
-     "r": "ロベルト ビール"
-    }
-   ]
-  },
-  {
-   "id": "saigoku-risshi-hen-000075",
-   "pid": "755564",
-   "pages": [
-    61
-   ],
-   "no": 75,
-   "vol": "第一編　邦國及ビ人民ノ自助ルヿヲ論ズ",
-   "kotobagaki": "",
-   "author": "",
-   "text": "ヲ極タル人ナリ、巴麥斯敦、大伯拉設爾、垤士禮立、額拉特斯頓ノ如キ、皆是ナリ、以上諸人ハ、巴力門ノ繁劇ナル時ニ當テ、晝夜トモニ勉勞ヲ作リ、羅伯○比爾ハ、今世ノ最モ勉强ナル人ナリ、比爾精力常人ニ絕レ、常ニ心思ヲ用テ、吝惜スルヿナシ、ソノ履歷ヲ觀ルトキハ、中等ノ資性ヲ具ル人ト雖モ、勉强シテ心ヲ用ヒ、勞力シテ倦ムヿナクレバ、許多ノ事業ヲ成就スベキヿヲ證知スベキナリ、比爾四十年ノ間、巴力門ノ議士ニ列シ、ソノ功勞甚ダ大ナリ、常ニ良心ニ從テ諸事ヲ行ヒ、必ズ貫徹スルマデニ爲タリ、凡ソノ論辯スルモノ、必ズ豫メ詳ニ學習シテ、然後或ハ言ニ發シ、或ハ文ニ著セリ、ツヒニ倉卒ニ出ルモノナシ、ソノ自ラ心力ヲ勞スルヿ、殊ニ過甚ニシテ、人ニ接見スルニモ、各ゝソノ人ノ器量ニ隨テ、コレニ體貼將就シテ、餘力ヲ惜ズ、且又實事習驗ノ智ト、志向堅定ノ力ト、及ビ、兩目兩手ヲ着實ニ運用スルノ才アリ、就中一事尤モ他人ニ超絕スルモノハ、ソノ持論、歲月ヲ閱スルニ隨ヒ、開拓擴充セリ、年已ニ老ト雖モ、ソノ氣象タヾ衰縮セザルノミナラズ益ゝ粹美純熟ニ至リ、死ニ至ルマデ、新見異說ヲ聽納スルヿヲ爲リ、人多ク思ラク、「比爾ハ謹愼ニ過タリ」ト然ドモ、比爾實ニ從前ノ見識ヲ以テ自ラ善トスルノ心ナシ、蓋シ自ラ善トスルノ心ハ學問ノ癱瘋ニシテ、老年ノ人ヲシテ、復進境アラザラシムルモノナリ、",
-   "sachu": "",
-   "poems": [],
-   "notes": [],
-   "lb": [],
-   "ruby": [
+    },
     {
      "a": "巴麥斯敦",
      "r": "パルマーストン"
@@ -5927,19 +5944,27 @@
      "a": "癱瘋",
      "r": "ナンフウ"
     }
-   ]
+   ],
+   "kotobagaki_ruby": [
+    {
+     "a": "羅伯比爾",
+     "r": "ロベルト ビール"
+    }
+   ],
+   "genbun": "But it is principally in the departments of politics and literature that we find the most energetic labourers amongst our higher classes. Success in these lines of action, as in all others, can only be achieved through industry, practice, and study; and the great Minister, or parliamentary leader, must necessarily be amongst the very hardest of workers. Such was Palmerston; and such are Derby and Russell, Disraeli and Gladstone. These men have had the benefit of no Ten Hours Bill, but have often, during the busy season of Parliament, worked “double shift,” almost day and night. One of the most illustrious of such workers in modern times was unquestionably the late Sir Robert Peel. He possessed in an extraordinary degree the power of continuous intellectual labour, nor did he spare himself. His career, indeed, presented a remarkable example of how much a man of comparatively moderate powers can accomplish by means of assiduous application and indefatigable industry. During the forty years that he held a seat in Parliament, his labours were prodigious. He was a most conscientious man, and whatever he undertook to do, he did thoroughly. All his speeches bear evidence of his careful study of everything that had been spoken or written on the subject under consideration. He was elaborate almost to excess; and spared no pains to adapt himself to the various capacities of his audience. Withal, he possessed much practical sagacity, great strength of purpose, and power to direct the issues of action with steady hand and eye. In one respect he surpassed most men: his principles broadened and enlarged with time; and age, instead of contracting, only served to mellow and ripen his nature. To the last he continued open to the reception of new views, and, though many thought him cautious to excess, he did not allow himself to fall into that indiscriminating admiration of the past, which is the palsy of many minds similarly educated, and renders the old age of many nothing but a pity."
   },
   {
    "id": "saigoku-risshi-hen-000076",
    "pid": "755564",
    "pages": [
-    61
+    61,
+    62
    ],
-   "no": 76,
+   "no": 75,
    "vol": "第一編　邦國及ビ人民ノ自助ルヿヲ論ズ",
    "kotobagaki": "二十九　勞爾德伯路寒",
    "author": "",
-   "text": "伯路寒ノ勉强ニシテ倦ヿナキハ、世人ノ遍ク知トコロナリ、ソノ公務ニ勤勞スルヿ六十年ニ過タリ、ソノ間、或ハ、法律或ハ政事、或ハ藝術ニ從事シ、何モ卓然衆ニ超ズトイフヿナシ、何ナル工夫ヲ用ヒテ、カクノ如ク、許多ノ事ヲ成就シ得タルヤ、定テ祕密ノ方アルベシト疑ハルヽ、ホドナリ、或人、嘗テ撒母耳○羅彌爾禮ニ向テ、一ノ新功ヲ企テ爲ヿヲ請ケレバ、羅彌爾禮推辭シテ、「我ハ、コレヲ爲ノ暇アラズ、伯路寒ナラバ、暇アルベシ、彼人ハ、何事ヲ爲テモ、暇アラズトイフヿナシ、所謂祕密ノ方ハ、他ニアラズ、伯路寒一ミニュートノ暇トイヘドモ、空ク過スヿナシ、幷ニ、ソノ身體剛强ニシテ、鐵ノ如シ、老年ニ至リ、尋常ノ人ナラバ、世間勞苦ノ事",
+   "text": "伯路寒ノ勉强ニシテ倦ヿナキハ、世人ノ遍ク知トコロナリ、ソノ公務ニ勤勞スルヿ六十年ニ過タリ、ソノ間、或ハ、法律或ハ政事、或ハ藝術ニ從事シ、何モ卓然衆ニ超ズトイフヿナシ、何ナル工夫ヲ用ヒテ、カクノ如ク、許多ノ事ヲ成就シ得タルヤ、定テ祕密ノ方アルベシト疑ハルヽ、ホドナリ、或人、嘗テ撒母耳○羅彌爾禮ニ向テ、一ノ新功ヲ企テ爲ヿヲ請ケレバ、羅彌爾禮推辭シテ、「我ハ、コレヲ爲ノ暇アラズ、伯路寒ナラバ、暇アルベシ、彼人ハ、何事ヲ爲テモ、暇アラズトイフヿナシ、所謂祕密ノ方ハ、他ニアラズ、伯路寒一ミニュートノ暇トイヘドモ、空ク過スヿナシ、幷ニ、ソノ身體剛强ニシテ、鐵ノ如シ、老年ニ至リ、尋常ノ人ナラバ、世間勞苦ノ事ヲ辭シテ、安逸ヲ消受シ、床榻ニ凭テ嗜睡シテ、時日ヲ送ルベキニ、伯路寒ハ、コノ時ヨリ、光線ノ法ヲ始テ考究シ、心力ヲ勞シ、終ニソノ功夫ヲ成就シ、倫敦巴理ノ碩學名家ヲシテ、集會論定セシムルニ至レリ、且此時マタソノ著セル「若爾日第三ノ時代文藝學術ノ人」トイヘル書ヲ印行シ、又公侯議院ニ於テ、律法及ビ政事ノ議論アル時ニハ、必ズコレニ預リシナリ、細德尼○斯密士、嘗テ伯路寒ニ勸メテ、「精强ナル人三人ノ爲ヲ成就スベキ事功ヲ以テ限ト爲シテ、ソレヨリハ過シ給フベカラズ」ト云ヘドモ、伯路寒ハ、勉强スルヿヲ好ミ、久ク習テ癖ヲナセリ、故ニ何ホド專精ニ心ヲ用トモ、コレニ太過ナリトスルヿナシ、ソノ爲トコロ、何事ニ限ラズ極善極妙ニ至ルヿヲ務トセリ、故ニ、世人評シテ、「モシ伯路寒ヲシテシユーブレツキ〔鞋ヲ擦ク人〕ナラシメバ、英國第一ノシユーブレツキトナルヿヲ得ザルウチハ、勉强シテ止ザルベシ」トイヘリ、",
    "sachu": "",
    "poems": [],
    "notes": [
@@ -5958,35 +5983,7 @@
     {
      "a": "尋常",
      "r": "ロツヂ"
-    }
-   ],
-   "kotobagaki_ruby": [
-    {
-     "a": "勞爾德",
-     "r": "ロルド"
     },
-    {
-     "a": "伯路寒",
-     "r": "ブルーハム"
-    }
-   ]
-  },
-  {
-   "id": "saigoku-risshi-hen-000077",
-   "pid": "755564",
-   "pages": [
-    62
-   ],
-   "no": 77,
-   "vol": "第一編　邦國及ビ人民ノ自助ルヿヲ論ズ",
-   "kotobagaki": "",
-   "author": "",
-   "text": "ヲ辭シテ、安逸ヲ消受シ、床榻ニ凭テ嗜睡シテ、時日ヲ送ルベキニ、伯路寒ハ、コノ時ヨリ、光線ノ法ヲ始テ考究シ、心力ヲ勞シ、終ニソノ功夫ヲ成就シ、倫敦巴理ノ碩學名家ヲシテ、集會論定セシムルニ至レリ、且此時マタソノ著セル「若爾日第三ノ時代文藝學術ノ人」トイヘル書ヲ印行シ、又公侯議院ニ於テ、律法及ビ政事ノ議論アル時ニハ、必ズコレニ預リシナリ、細德尼○斯密士、嘗テ伯路寒ニ勸メテ、「精强ナル人三人ノ爲ヲ成就スベキ事功ヲ以テ限ト爲シテ、ソレヨリハ過シ給フベカラズ」ト云ヘドモ、伯路寒ハ、勉强スルヿヲ好ミ、久ク習テ癖ヲナセリ、故ニ何ホド專精ニ心ヲ用トモ、コレニ太過ナリトスルヿナシ、ソノ爲トコロ、何事ニ限ラズ極善極妙ニ至ルヿヲ務トセリ、故ニ、世人評シテ、「モシ伯路寒ヲシテシユーブレツキ〔鞋ヲ擦ク人〕ナラシメバ、英國第一ノシユーブレツキトナルヿヲ得ザルウチハ、勉强シテ止ザルベシ」トイヘリ、",
-   "sachu": "",
-   "poems": [],
-   "notes": [],
-   "lb": [],
-   "ruby": [
     {
      "a": "伯路寒",
      "r": "ブルーハム"
@@ -6011,7 +6008,18 @@
      "a": "專精",
      "r": "シユ"
     }
-   ]
+   ],
+   "kotobagaki_ruby": [
+    {
+     "a": "勞爾德",
+     "r": "ロルド"
+    },
+    {
+     "a": "伯路寒",
+     "r": "ブルーハム"
+    }
+   ],
+   "genbun": "The indefatigable industry of Lord Brougham has become almost proverbial. His public labours have extended over a period of upwards of sixty years, during which he has ranged over many fields—of law, literature, politics, and science,—and achieved distinction in them all. How he contrived it, has been to many a mystery. Once, when Sir Samuel Romilly was requested to undertake some new work, he excused himself by saying that he had no time; “but,” he added, “go with it to that fellow Brougham, he seems to have time for everything.” The secret of it was, that he never left a minute unemployed; withal he possessed a constitution of iron. When arrived at an age at which most men would have retired from the world to enjoy their hard-earned leisure, perhaps to doze away their time in an easy chair, Lord Brougham commenced and prosecuted a series of elaborate investigations as to the laws of Light, and he submitted the results to the most scientific audiences that Paris and London could muster. About the same time, he was passing through the press his admirable sketches of the ‘Men of Science and Literature of the Reign of George III.,’ and taking his full share of the law business and the political discussions in the House of Lords. Sydney Smith once recommended him to confine himself to only the transaction of so much business as three strong men could get through. But such was Brougham’s love of work—long become a habit—that no amount of application seems to have been too great for him; and such was his love of excellence, that it has been said of him that if his station in life had been only that of a shoe-black, he would never have rested satisfied until he had become the best shoe-black in England."
   },
   {
    "id": "saigoku-risshi-hen-000078",
@@ -6019,7 +6027,7 @@
    "pages": [
     62
    ],
-   "no": 78,
+   "no": 76,
    "vol": "第一編　邦國及ビ人民ノ自助ルヿヲ論ズ",
    "kotobagaki": "三十　律敦ノ事",
    "author": "",
@@ -6057,7 +6065,8 @@
      "a": "律敦",
      "r": "リツトン"
     }
-   ]
+   ],
+   "genbun": "Another hard-working man of the same class is Sir E. Bulwer Lytton. Few writers have done more, or achieved higher distinction in various walks—as a novelist, poet, dramatist, historian, essayist, orator, and politician. He has worked his way step by step, disdainful of ease, and animated throughout by the ardent desire to excel. On the score of mere industry, there are few living English writers who have written so much, and none that have produced so much of high quality. The industry of Bulwer is entitled to all the greater praise that it has been entirely self-imposed. To hunt, and shoot, and live at ease,—to frequent the clubs and enjoy the opera, with the variety of London visiting and sight-seeing during the “season,” and then off to the country mansion, with its well-stocked preserves, and its thousand delightful out-door pleasures,—to travel abroad, to Paris, Vienna, or Rome,—all this is excessively attractive to a lover of pleasure and a man of fortune, and by no means calculated to make him voluntarily undertake continuous labour of any kind. Yet these pleasures, all within his reach, Bulwer must, as compared with men born to similar estate, have denied himself in assuming the position and pursuing the career of a literary man. Like Byron, his first effort was poetical (‘Weeds and Wild Flowers’), and a failure. His second was a novel (‘Falkland’), and it proved a failure too. A man of weaker nerve would have dropped authorship; but Bulwer had pluck and perseverance; and he worked on, determined to succeed. He was incessantly industrious, read extensively, and from failure went courageously onwards to success. ‘Pelham’ followed ‘Falkland’ within a year, and the remainder of Bulwer’s literary life, now extending over a period of thirty years, has been a succession of triumphs."
   },
   {
    "id": "saigoku-risshi-hen-000079",
@@ -6066,7 +6075,7 @@
     63,
     64
    ],
-   "no": 79,
+   "no": 77,
    "vol": "第一編　邦國及ビ人民ノ自助ルヿヲ論ズ",
    "kotobagaki": "三十一　垤士禮立ノ事",
    "author": "",
@@ -6112,24 +6121,28 @@
      "a": "垤士禮立",
      "r": "ヂスレイリ"
     }
-   ]
+   ],
+   "genbun": "Mr. Disraeli affords a similar instance of the power of industry and application in working out an eminent public career. His first achievements were, like Bulwer’s, in literature; and he reached success only through a succession of failures. His ‘Wondrous Tale of Alroy’ and ‘Revolutionary Epic’ were laughed at, and regarded as indications of literary lunacy. But he worked on in other directions, and his ‘Coningsby,’ ‘Sybil,’ and ‘Tancred,’ proved the sterling stuff of which he was made. As an orator too, his first appearance in the House of Commons was a failure. It was spoken of as “more screaming than an Adelphi farce.” Though composed in a grand and ambitious strain, every sentence was hailed with “loud laughter.” ‘Hamlet’ played as a comedy were nothing to it. But he concluded with a sentence which embodied a prophecy. Writhing under the laughter with which his studied eloquence had been received, he exclaimed, “I have begun several times many things, and have succeeded in them at last. I shall sit down now, but the time will come when you will hear me.” The time did come; and how Disraeli succeeded in at length commanding the attention of the first assembly of gentlemen in the world, affords a striking illustration of what energy and determination will do; for Disraeli earned his position by dint of patient industry. He did not, as many young men do, having once failed, retire dejected, to mope and whine in a corner, but diligently set himself to work. He carefully unlearnt his faults, studied the character of his audience, practised sedulously the art of speech, and industriously filled his mind with the elements of parliamentary knowledge. He worked patiently for success; and it came, but slowly: then the House laughed with him, instead of at him. The recollection of his early failure was effaced, and by general consent he was at length admitted to be one of the most finished and effective of parliamentary speakers."
   },
   {
    "id": "saigoku-risshi-hen-000080",
    "pid": "755564",
    "pages": [
     63,
-    64
+    64,
+    65
    ],
-   "no": 80,
+   "no": 78,
    "vol": "第一編　邦國及ビ人民ノ自助ルヿヲ論ズ",
    "kotobagaki": "三十二　窩圖窩士ノ論幷ニ多克未爾ノ事",
    "author": "",
-   "text": "上ニ配スルトコロ、及ビコノ下ニ錄スル所ノ古今人ノ例ヲ觀ルトキハ、人タルモノ、自己發奮勉勵ノ力ニ由テ、許多ノ事業ヲ成シ得ベキヿヲ理會スベシ、然ドモ、一生ノ間、他人ヨリ、輔助ノ益ヲ得ルコト、亦大ナレバ、コヽニ着眼セザルベカラズ、詩人窩圖窩士曰ク、「コヽニ二事アリ、互相背反スルモノヽ如クニシテ相並デ行ザルベカラザルモノアリ、卽チ堅ク人ニ倚賴スルト、堅ク自己ニ倚賴スルトノ二事ナリ」凡ソ人、幼年ヨリ、老年ニ至ルマデ、身體ノ養育ト、德性ノ修養ト、皆共ニ他人ヨリ裨益ヲ受ルヿ、少カラズ、故ニ最モ良善ナル人、及最モ剛强ナル人常ニ他人ヨリ助",
+   "text": "上ニ配スルトコロ、及ビコノ下ニ錄スル所ノ古今人ノ例ヲ觀ルトキハ、人タルモノ、自己發奮勉勵ノ力ニ由テ、許多ノ事業ヲ成シ得ベキヿヲ理會スベシ、然ドモ、一生ノ間、他人ヨリ、輔助ノ益ヲ得ルコト、亦大ナレバ、コヽニ着眼セザルベカラズ、詩人窩圖窩士曰ク、「コヽニ二事アリ、互相背反スルモノヽ如クニシテ相並デ行ザルベカラザルモノアリ、卽チ堅ク人ニ倚賴スルト、堅ク自己ニ倚賴スルトノ二事ナリ」凡ソ人、幼年ヨリ、老年ニ至ルマデ、身體ノ養育ト、德性ノ修養ト、皆共ニ他人ヨリ裨益ヲ受ルヿ、少カラズ、故ニ最モ良善ナル人、及最モ剛强ナル人常ニ他人ヨリ助ヲ得ルヿヲ、最モ速ニ招認スルヿナリ、亞歷西士○德○多克未爾ノ履歷ヲ引テ、コレヲ證スベシ、多克未爾ノ父ハ、法國ノ爵位アル人ニシテ、ソノ母ハ有名ノ馬爾士海伯ノ孫ナリ、ソノ家世隆赫ナル故ニ由テ、僅ニ二十一歲ニ及ンデ、華瑟爾士ノ聽訟官ニ任ゼラレタリ、然ルニ、自ラ思ハ、予コノ職任ヲ受得タルヿハ、吾身ノ功勞アルニ由ニ非ズ、故ニ、コレヲ辭シ去テ、今ヨリハ、自己ノ力ニ由テ、後來ノ榮達ヲ取ベシト、遂ニ毅然トシテソノ任ヲ罷テ、合衆國ニ遊ビ、ソノ有名ノ書デモクラシイ、イン、アメリカト云ルモノハ、コレニ由リテ成就シタルナリ、ソノ友哥士體復○德○普門的ハ多克未爾ト、偕ニ旅行セルモノナルガ、多克未爾ノ旅中勉强ニシテ倦ザルヿヲ記シテ曰、「ソノ性質、酷ダ懶惰ナルヿヲ嫌リ、行旅スル時ト、休歇スル時トヲ論ゼズ、ソノ心ハ、常ニ工夫ヲ用タリ、亞歷西士ト談話セルモノ、中ニ、ソノ最モ愉快ナルモノハ、乃チソノ最モ緊要ナルモノナリ、曰ク、「凶日ハ、失シ日ナリ、卽チ空ク費セシ日ナリ、分毫モ光陰ヲ失ヘバ、懊悔ニ堪ヘズ」多克未爾、嘗テ一友ニ書ヲ與テ曰ク、「人一生ノ間、全ク作用ヲ止ルヿヲ得ル光陰ハアラザルヿナリ、蓋シ自己ノ外ヨリ得タル力ト、及自己ノ內ヨリ生ズル力トハ、共ニ缺ベカラザルモノナリ、余嘗テ斯世ノ人ヲ冱塞ノ地ニ行旅スルモノニ比喩シタリ、塞氣愈ゝ甚キ地ニ至レバ、行步愈ゝ速ニセザルヲ得ズ、人心ノ最モ大ナル病害ハ、塞氣ノ如シ、故ニコノ怕ルベキ病害ニ抵抗セント欲セバ、人マサニ心思ヲ運用シ、又朋友ト共ニ職事ヲ勉メ、暫モ間斷ナカルベシ」ト云リ、",
    "sachu": "",
    "poems": [],
    "notes": [
-    "Wordsworth."
+    "Wordsworth.",
+    "多克未爾文化二年生安政六年歿",
+    "Alexis de Tocqueville."
    ],
    "lb": [],
    "ruby": [
@@ -6144,38 +6157,7 @@
     {
      "a": "着眼",
      "r": "ツケメ"
-    }
-   ],
-   "kotobagaki_ruby": [
-    {
-     "a": "窩圖窩士",
-     "r": "ウオードウオース"
     },
-    {
-     "a": "多克未爾",
-     "r": "トークヰル"
-    }
-   ]
-  },
-  {
-   "id": "saigoku-risshi-hen-000081",
-   "pid": "755564",
-   "pages": [
-    65
-   ],
-   "no": 81,
-   "vol": "第一編　邦國及ビ人民ノ自助ルヿヲ論ズ",
-   "kotobagaki": "",
-   "author": "",
-   "text": "ヲ得ルヿヲ、最モ速ニ招認スルヿナリ、亞歷西士○德○多克未爾ノ履歷ヲ引テ、コレヲ證スベシ、多克未爾ノ父ハ、法國ノ爵位アル人ニシテ、ソノ母ハ有名ノ馬爾士海伯ノ孫ナリ、ソノ家世隆赫ナル故ニ由テ、僅ニ二十一歲ニ及ンデ、華瑟爾士ノ聽訟官ニ任ゼラレタリ、然ルニ、自ラ思ハ、予コノ職任ヲ受得タルヿハ、吾身ノ功勞アルニ由ニ非ズ、故ニ、コレヲ辭シ去テ、今ヨリハ、自己ノ力ニ由テ、後來ノ榮達ヲ取ベシト、遂ニ毅然トシテソノ任ヲ罷テ、合衆國ニ遊ビ、ソノ有名ノ書デモクラシイ、イン、アメリカト云ルモノハ、コレニ由リテ成就シタルナリ、ソノ友哥士體復○德○普門的ハ多克未爾ト、偕ニ旅行セルモノナルガ、多克未爾ノ旅中勉强ニシテ倦ザルヿヲ記シテ曰、「ソノ性質、酷ダ懶惰ナルヿヲ嫌リ、行旅スル時ト、休歇スル時トヲ論ゼズ、ソノ心ハ、常ニ工夫ヲ用タリ、亞歷西士ト談話セルモノ、中ニ、ソノ最モ愉快ナルモノハ、乃チソノ最モ緊要ナルモノナリ、曰ク、「凶日ハ、失シ日ナリ、卽チ空ク費セシ日ナリ、分毫モ光陰ヲ失ヘバ、懊悔ニ堪ヘズ」多克未爾、嘗テ一友ニ書ヲ與テ曰ク、「人一生ノ間、全ク作用ヲ止ルヿヲ得ル光陰ハアラザルヿナリ、蓋シ自己ノ外ヨリ得タル力ト、及自己ノ內ヨリ生ズル力トハ、共ニ缺ベカラザルモノナリ、余嘗テ斯世ノ人ヲ冱塞ノ地ニ行旅スルモノニ比喩シタリ、塞氣愈ゝ甚キ地ニ至レバ、行步愈ゝ速ニセザルヲ得ズ、人心ノ最モ大ナル病害ハ、塞氣ノ如シ、故ニコノ怕ルベキ病害ニ抵抗セント欲セバ、人マサニ心思ヲ運用シ、又朋友ト共ニ職事ヲ勉メ、暫モ間斷ナカルベシ」ト云リ、",
-   "sachu": "",
-   "poems": [],
-   "notes": [
-    "多克未爾文化二年生安政六年歿",
-    "Alexis de Tocqueville."
-   ],
-   "lb": [],
-   "ruby": [
     {
      "a": "亞歷西士○德○多克未爾",
      "r": "アレキシス ド トークヰール"
@@ -6204,19 +6186,31 @@
      "a": "懊悔",
      "r": "クヤミ"
     }
-   ]
+   ],
+   "kotobagaki_ruby": [
+    {
+     "a": "窩圖窩士",
+     "r": "ウオードウオース"
+    },
+    {
+     "a": "多克未爾",
+     "r": "トークヰル"
+    }
+   ],
+   "genbun": "Although much may be accomplished by means of individual industry and energy, as these and other instances set forth in the following pages serve to illustrate, it must at the same time be acknowledged that the help which we derive from others in the journey of life is of very great importance. The poet Wordsworth has well said that “these two things, contradictory though they may seem, must go together—manly dependence and manly independence, manly reliance and manly self-reliance.” From infancy to old age, all are more or less indebted to others for nurture and culture; and the best and strongest are usually found the readiest to acknowledge such help. Take, for example, the career of the late Alexis de Tocqueville, a man doubly well-born, for his father was a distinguished peer of France, and his mother a grand-daughter of Malesherbes. Through powerful family influence, he was appointed Judge Auditor at Versailles when only twenty-one; but probably feeling that he had not fairly won the position by merit, he determined to give it up and owe his future advancement in life to himself alone. “A foolish resolution,” some will say; but De Tocqueville bravely acted it out. He resigned his appointment, and made arrangements to leave France for the purpose of travelling through the United States, the results of which were published in his great book on ‘Democracy in America.’ His friend and travelling companion, Gustave de Beaumont, has described his indefatigable industry during this journey. “His nature,” he says, “was wholly averse to idleness, and whether he was travelling or resting, his mind was always at work. . . . With Alexis, the most agreeable conversation was that which was the most useful. The worst day was the lost day, or the day ill spent; the least loss of time annoyed him.” Tocqueville himself wrote to a friend—“There is no time of life at which one can wholly cease from action, for effort without one’s self, and still more effort within, is equally necessary, if not more so, when we grow old, as it is in youth. I compare man in this world to a traveller journeying without ceasing towards a colder and colder region; the higher he goes, the faster he ought to walk. The great malady of the soul is cold. And in resisting this formidable evil, one needs not only to be sustained by the action of a mind employed, but also by contact with one’s fellows in the business of life.”"
   },
   {
    "id": "saigoku-risshi-hen-000082",
    "pid": "755564",
    "pages": [
-    65
+    65,
+    66
    ],
-   "no": 82,
+   "no": 79,
    "vol": "第一編　邦國及ビ人民ノ自助ルヿヲ論ズ",
    "kotobagaki": "三十三　多克未爾他人ヨリ助ヲ得タルヿヲ招認スル事",
    "author": "",
-   "text": "多克未爾ハ、自己勉强ノ力ヲ出シ、自己ニ憑賴スルヿヲ、最要ノ目的ト爲シ人ナリ、然ドモ、亦他人ノ資助及ビ扶掖ヲ重ンジ、コレヲ招認スルヿ、最モ深リシナリ、蓋シ天下ノ人、全ク他人ノ助ヲ受ザルモノナシ、特ニ多少ノ異アルノミ、多克未爾、ソノ友德○客兒臥禮及ビ斯士弗爾士ヨリ裨益ヲ受タルヿヲ招認シ、ソノ恩惠ニ感ゼリ、コレソノ神志ノ助ヲ、客氏ヨリ得、ソノ篤行ノ助ヲ、斯氏ヨリ得タレバナリ、ソノ客氏ニ與ル書ニ曰ク、「余ノ信任スルトコロ、獨足下ノ心アルノミ、足下ノ余ヲ感化",
+   "text": "多克未爾ハ、自己勉强ノ力ヲ出シ、自己ニ憑賴スルヿヲ、最要ノ目的ト爲シ人ナリ、然ドモ、亦他人ノ資助及ビ扶掖ヲ重ンジ、コレヲ招認スルヿ、最モ深リシナリ、蓋シ天下ノ人、全ク他人ノ助ヲ受ザルモノナシ、特ニ多少ノ異アルノミ、多克未爾、ソノ友德○客兒臥禮及ビ斯士弗爾士ヨリ裨益ヲ受タルヿヲ招認シ、ソノ恩惠ニ感ゼリ、コレソノ神志ノ助ヲ、客氏ヨリ得、ソノ篤行ノ助ヲ、斯氏ヨリ得タレバナリ、ソノ客氏ニ與ル書ニ曰ク、「余ノ信任スルトコロ、獨足下ノ心アルノミ、足下ノ余ヲ感化スルヿ、實ニ深シトイフベシ、零細ノ行事ニ於テハ、他人ヨリ裨補ヲ得タルモノ多シト雖モ、志意ノ基礎ヲ創メ、品行ノ根本ヲ立ルニ至リテハ、獨足下ノ力ニ賴リ、」多克未爾マタソノ妻馬利ヨリシテ己ノ志意ヲ保存シ、學問ヲ成就スルヿノ助ヲ得タルヿヲ招認セリ、ソノ說ニ思ラク、心志高潔ナル婦人ハ、ソノ夫ノ品行ヲシテ自ラ貴ラシメ、性質卑汚ナルモノハ、必ズソノ夫ヲ化シテ自ラ賤カラシムルモノナリト云リ、",
    "sachu": "",
    "poems": [],
    "notes": [],
@@ -6245,35 +6239,7 @@
     {
      "a": "招認",
      "r": "ウケトメル"
-    }
-   ],
-   "kotobagaki_ruby": [
-    {
-     "a": "多克未爾",
-     "r": "トークヰール"
     },
-    {
-     "a": "招認",
-     "r": "ウケトメル"
-    }
-   ]
-  },
-  {
-   "id": "saigoku-risshi-hen-000083",
-   "pid": "755564",
-   "pages": [
-    66
-   ],
-   "no": 83,
-   "vol": "第一編　邦國及ビ人民ノ自助ルヿヲ論ズ",
-   "kotobagaki": "",
-   "author": "",
-   "text": "スルヿ、實ニ深シトイフベシ、零細ノ行事ニ於テハ、他人ヨリ裨補ヲ得タルモノ多シト雖モ、志意ノ基礎ヲ創メ、品行ノ根本ヲ立ルニ至リテハ、獨足下ノ力ニ賴リ、」多克未爾マタソノ妻馬利ヨリシテ己ノ志意ヲ保存シ、學問ヲ成就スルヿノ助ヲ得タルヿヲ招認セリ、ソノ說ニ思ラク、心志高潔ナル婦人ハ、ソノ夫ノ品行ヲシテ自ラ貴ラシメ、性質卑汚ナルモノハ、必ズソノ夫ヲ化シテ自ラ賤カラシムルモノナリト云リ、",
-   "sachu": "",
-   "poems": [],
-   "notes": [],
-   "lb": [],
-   "ruby": [
     {
      "a": "零細",
      "r": "コマカナル"
@@ -6298,7 +6264,18 @@
      "a": "招認",
      "r": "ウケトム"
     }
-   ]
+   ],
+   "kotobagaki_ruby": [
+    {
+     "a": "多克未爾",
+     "r": "トークヰール"
+    },
+    {
+     "a": "招認",
+     "r": "ウケトメル"
+    }
+   ],
+   "genbun": "Notwithstanding de Tocqueville’s decided views as to the necessity of exercising individual energy and self-dependence, no one could be more ready than he was to recognise the value of that help and support for which all men are indebted to others in a greater or less degree. Thus, he often acknowledged, with gratitude, his obligations to his friends De Kergorlay and Stofells,—to the former for intellectual assistance, and to the latter for moral support and sympathy. To De Kergorlay he wrote—“Thine is the only soul in which I have confidence, and whose influence exercises a genuine effect upon my own. Many others have influence upon the details of my actions, but no one has so much influence as thou on the origination of fundamental ideas, and of those principles which are the rule of conduct.” De Tocqueville was not less ready to confess the great obligations which he owed to his wife, Marie, for the preservation of that temper and frame of mind which enabled him to prosecute his studies with success. He believed that a noble-minded woman insensibly elevated the character of her husband, while one of a grovelling nature as certainly tended to degrade it."
   },
   {
    "id": "saigoku-risshi-hen-000084",
@@ -6306,7 +6283,7 @@
    "pages": [
     66
    ],
-   "no": 84,
+   "no": 80,
    "vol": "第一編　邦國及ビ人民ノ自助ルヿヲ論ズ",
    "kotobagaki": "三十四　人ハ自己ノ身ヲ以テ第一ノ幇手トナスベシ",
    "author": "",
@@ -6354,7 +6331,8 @@
      "a": "幇手",
      "r": "ホウ タスクルヒト"
     }
-   ]
+   ],
+   "genbun": "In fine, human character is moulded by a thousand subtle influences; by example and precept; by life and literature; by friends and neighbours; by the world we live in as well as by the spirits of our forefathers, whose legacy of good words and deeds we inherit. But great, unquestionably, though these influences are acknowledged to be, it is nevertheless equally clear that men must necessarily be the active agents of their own well-being and well-doing; and that, however much the wise and the good may owe to others, they themselves must in the very nature of things be their own best helpers."
   },
   {
    "id": "saigoku-risshi-hen-000085",
@@ -6363,7 +6341,7 @@
     67,
     68
    ],
-   "no": 85,
+   "no": 81,
    "vol": "自助論第二編叙",
    "kotobagaki": "",
    "author": "",
@@ -6380,7 +6358,7 @@
    "pages": [
     68
    ],
-   "no": 86,
+   "no": 82,
    "vol": "自助論第二編叙",
    "kotobagaki": "",
    "author": "",
@@ -6397,7 +6375,7 @@
    "pages": [
     69
    ],
-   "no": 87,
+   "no": 83,
    "vol": "第二編　新機器ヲ發明創造スル人ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -6439,7 +6417,7 @@
     69,
     70
    ],
-   "no": 88,
+   "no": 84,
    "vol": "第二編　新機器ヲ發明創造スル人ヲ論ズ",
    "kotobagaki": "一　英國ノ人民職事ニ勉强スル事",
    "author": "",
@@ -6471,7 +6449,7 @@
    "pages": [
     70
    ],
-   "no": 89,
+   "no": 85,
    "vol": "第二編　新機器ヲ發明創造スル人ヲ論ズ",
    "kotobagaki": "二　勞苦ノ工塲ハ「學校ノ最モ善モノ」ト稱スベシ",
    "author": "",
@@ -6508,7 +6486,7 @@
     70,
     71
    ],
-   "no": 90,
+   "no": 86,
    "vol": "第二編　新機器ヲ發明創造スル人ヲ論ズ",
    "kotobagaki": "三　休。彌爾列爾工事鍊習ノ益ヲ論ズ",
    "author": "",
@@ -6551,7 +6529,7 @@
    "pages": [
     71
    ],
-   "no": 91,
+   "no": 87,
    "vol": "第二編　新機器ヲ發明創造スル人ヲ論ズ",
    "kotobagaki": "四　英國ノ富强ハ至貧至賤ノ人ノ力ニ頼ル",
    "author": "",
@@ -6568,7 +6546,7 @@
     71,
     72
    ],
-   "no": 92,
+   "no": 88,
    "vol": "第二編　新機器ヲ發明創造スル人ヲ論ズ",
    "kotobagaki": "五　機器創造者ノ邦國ヲ利スル事",
    "author": "",
@@ -6595,7 +6573,7 @@
     72,
     73
    ],
-   "no": 93,
+   "no": 89,
    "vol": "第二編　新機器ヲ發明創造スル人ヲ論ズ",
    "kotobagaki": "六　蒸氣機器ノ創造ノ事",
    "author": "",
@@ -6652,7 +6630,7 @@
    "pages": [
     73
    ],
-   "no": 94,
+   "no": 90,
    "vol": "第二編　新機器ヲ發明創造スル人ヲ論ズ",
    "kotobagaki": "七　惹迷士。瓦德ノ勤勉幷ニソノ心思ヲ用テ習慣トナレル事",
    "author": "",
@@ -6688,7 +6666,7 @@
     73,
     74
    ],
-   "no": 95,
+   "no": 91,
    "vol": "第二編　新機器ヲ發明創造スル人ヲ論ズ",
    "kotobagaki": "八　瓦德蒸氣機器ヲ作ル事",
    "author": "",
@@ -6750,7 +6728,7 @@
    "pages": [
     74
    ],
-   "no": 96,
+   "no": 92,
    "vol": "第二編　新機器ヲ發明創造スル人ヲ論ズ",
    "kotobagaki": "九　蒸氣機器百般ノ用トナル事",
    "author": "",
@@ -6777,7 +6755,7 @@
     74,
     75
    ],
-   "no": 97,
+   "no": 93,
    "vol": "第二編　新機器ヲ發明創造スル人ヲ論ズ",
    "kotobagaki": "十　力査。阿克來幷ニ紡棉機",
    "author": "",
@@ -6844,7 +6822,7 @@
    "pages": [
     75
    ],
-   "no": 98,
+   "no": 94,
    "vol": "第二編　新機器ヲ發明創造スル人ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -6901,7 +6879,7 @@
     75,
     76
    ],
-   "no": 99,
+   "no": 95,
    "vol": "第二編　新機器ヲ發明創造スル人ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -6937,7 +6915,7 @@
    "pages": [
     76
    ],
-   "no": 100,
+   "no": 96,
    "vol": "第二編　新機器ヲ發明創造スル人ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -6971,7 +6949,7 @@
    "pages": [
     76
    ],
-   "no": 101,
+   "no": 97,
    "vol": "第二編　新機器ヲ發明創造スル人ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -7029,7 +7007,7 @@
     76,
     77
    ],
-   "no": 102,
+   "no": 98,
    "vol": "第二編　新機器ヲ發明創造スル人ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -7087,7 +7065,7 @@
    "pages": [
     77
    ],
-   "no": 103,
+   "no": 99,
    "vol": "第二編　新機器ヲ發明創造スル人ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -7131,7 +7109,7 @@
     77,
     78
    ],
-   "no": 104,
+   "no": 100,
    "vol": "第二編　新機器ヲ發明創造スル人ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -7165,7 +7143,7 @@
    "pages": [
     78
    ],
-   "no": 105,
+   "no": 101,
    "vol": "第二編　新機器ヲ發明創造スル人ヲ論ズ",
    "kotobagaki": "十一　比爾幷ニ印花機",
    "author": "",
@@ -7210,7 +7188,7 @@
     78,
     79
    ],
-   "no": 106,
+   "no": 102,
    "vol": "第二編　新機器ヲ發明創造スル人ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -7236,7 +7214,7 @@
    "pages": [
     79
    ],
-   "no": 107,
+   "no": 103,
    "vol": "第二編　新機器ヲ發明創造スル人ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -7258,7 +7236,7 @@
    "pages": [
     79
    ],
-   "no": 108,
+   "no": 104,
    "vol": "第二編　新機器ヲ發明創造スル人ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -7285,7 +7263,7 @@
     79,
     80
    ],
-   "no": 109,
+   "no": 105,
    "vol": "第二編　新機器ヲ發明創造スル人ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -7343,7 +7321,7 @@
    "pages": [
     80
    ],
-   "no": 110,
+   "no": 106,
    "vol": "第二編　新機器ヲ發明創造スル人ヲ論ズ",
    "kotobagaki": "十二　維廉。李幷ニ織襪機",
    "author": "",
@@ -7437,7 +7415,7 @@
     81,
     82
    ],
-   "no": 111,
+   "no": 107,
    "vol": "第二編　新機器ヲ發明創造スル人ヲ論ズ",
    "kotobagaki": "十三　戎。喜斯可的幷ニ織線帶機",
    "author": "",
@@ -7529,7 +7507,7 @@
     82,
     83
    ],
-   "no": 112,
+   "no": 108,
    "vol": "第二編　新機器ヲ發明創造スル人ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -7598,7 +7576,7 @@
    "pages": [
     83
    ],
-   "no": 113,
+   "no": 109,
    "vol": "第二編　新機器ヲ發明創造スル人ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -7640,7 +7618,7 @@
    "pages": [
     83
    ],
-   "no": 114,
+   "no": 110,
    "vol": "第二編　新機器ヲ發明創造スル人ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -7688,7 +7666,7 @@
     84,
     85
    ],
-   "no": 115,
+   "no": 111,
    "vol": "第二編　新機器ヲ發明創造スル人ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -7736,7 +7714,7 @@
     84,
     85
    ],
-   "no": 116,
+   "no": 112,
    "vol": "第二編　新機器ヲ發明創造スル人ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -7783,7 +7761,7 @@
     84,
     85
    ],
-   "no": 117,
+   "no": 113,
    "vol": "第二編　新機器ヲ發明創造スル人ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -7827,7 +7805,7 @@
     84,
     85
    ],
-   "no": 118,
+   "no": 114,
    "vol": "第二編　新機器ヲ發明創造スル人ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -7853,7 +7831,7 @@
    "pages": [
     86
    ],
-   "no": 119,
+   "no": 115,
    "vol": "第二編　新機器ヲ發明創造スル人ヲ論ズ",
    "kotobagaki": "十四　若瓜德幷ニ織機",
    "author": "",
@@ -7885,7 +7863,7 @@
    "pages": [
     86
    ],
-   "no": 120,
+   "no": 116,
    "vol": "第二編　新機器ヲ發明創造スル人ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -7940,7 +7918,7 @@
     86,
     87
    ],
-   "no": 121,
+   "no": 117,
    "vol": "第二編　新機器ヲ發明創造スル人ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -8002,7 +7980,7 @@
    "pages": [
     87
    ],
-   "no": 122,
+   "no": 118,
    "vol": "第二編　新機器ヲ發明創造スル人ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -8053,7 +8031,7 @@
    "pages": [
     87
    ],
-   "no": 123,
+   "no": 119,
    "vol": "第二編　新機器ヲ發明創造スル人ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -8094,7 +8072,7 @@
     88,
     89
    ],
-   "no": 124,
+   "no": 120,
    "vol": "第二編　新機器ヲ發明創造スル人ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -8166,7 +8144,7 @@
    "pages": [
     89
    ],
-   "no": 125,
+   "no": 121,
    "vol": "第二編　新機器ヲ發明創造スル人ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -8209,7 +8187,7 @@
    "pages": [
     89
    ],
-   "no": 126,
+   "no": 122,
    "vol": "第二編　新機器ヲ發明創造スル人ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -8243,7 +8221,7 @@
    "pages": [
     90
    ],
-   "no": 127,
+   "no": 123,
    "vol": "第二編　新機器ヲ發明創造スル人ヲ論ズ",
    "kotobagaki": "十五　亥爾滿幷ニ梳ニ治スル衣料ノ機",
    "author": "",
@@ -8280,7 +8258,7 @@
     90,
     91
    ],
-   "no": 128,
+   "no": 124,
    "vol": "第二編　新機器ヲ發明創造スル人ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -8363,7 +8341,7 @@
    "pages": [
     91
    ],
-   "no": 129,
+   "no": 125,
    "vol": "第二編　新機器ヲ發明創造スル人ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -8401,7 +8379,7 @@
    "pages": [
     92
    ],
-   "no": 130,
+   "no": 126,
    "vol": "第三編　陶工三大家、即チ、巴律西、薄査、乞地烏德",
    "kotobagaki": "",
    "author": "",
@@ -8454,7 +8432,7 @@
    "pages": [
     92
    ],
-   "no": 131,
+   "no": 127,
    "vol": "第三編　陶工三大家、即チ、巴律西、薄査、乞地烏德",
    "kotobagaki": "",
    "author": "",
@@ -8509,7 +8487,7 @@
     92,
     93
    ],
-   "no": 132,
+   "no": 128,
    "vol": "第三編　陶工三大家、即チ、巴律西、薄査、乞地烏德",
    "kotobagaki": "一　福楞察ノ人拉加ソノ業ヲ勉ル事",
    "author": "",
@@ -8603,7 +8581,7 @@
    "pages": [
     93
    ],
-   "no": 133,
+   "no": 129,
    "vol": "第三編　陶工三大家、即チ、巴律西、薄査、乞地烏德",
    "kotobagaki": "",
    "author": "",
@@ -8649,7 +8627,7 @@
    "pages": [
     93
    ],
-   "no": 134,
+   "no": 130,
    "vol": "第三編　陶工三大家、即チ、巴律西、薄査、乞地烏德",
    "kotobagaki": "二　拉那德。巴律西",
    "author": "",
@@ -8752,7 +8730,7 @@
    "pages": [
     93
    ],
-   "no": 135,
+   "no": 131,
    "vol": "第三編　陶工三大家、即チ、巴律西、薄査、乞地烏德",
    "kotobagaki": "",
    "author": "",
@@ -8799,7 +8777,7 @@
     93,
     94
    ],
-   "no": 136,
+   "no": 132,
    "vol": "第三編　陶工三大家、即チ、巴律西、薄査、乞地烏德",
    "kotobagaki": "",
    "author": "",
@@ -8860,7 +8838,7 @@
    "pages": [
     94
    ],
-   "no": 137,
+   "no": 133,
    "vol": "第三編　陶工三大家、即チ、巴律西、薄査、乞地烏德",
    "kotobagaki": "",
    "author": "",
@@ -8916,7 +8894,7 @@
     94,
     95
    ],
-   "no": 138,
+   "no": 134,
    "vol": "第三編　陶工三大家、即チ、巴律西、薄査、乞地烏德",
    "kotobagaki": "",
    "author": "",
@@ -8971,7 +8949,7 @@
    "pages": [
     95
    ],
-   "no": 139,
+   "no": 135,
    "vol": "第三編　陶工三大家、即チ、巴律西、薄査、乞地烏德",
    "kotobagaki": "",
    "author": "",
@@ -9038,7 +9016,7 @@
     95,
     96
    ],
-   "no": 140,
+   "no": 136,
    "vol": "第三編　陶工三大家、即チ、巴律西、薄査、乞地烏德",
    "kotobagaki": "",
    "author": "",
@@ -9078,7 +9056,7 @@
    "pages": [
     96
    ],
-   "no": 141,
+   "no": 137,
    "vol": "第三編　陶工三大家、即チ、巴律西、薄査、乞地烏德",
    "kotobagaki": "",
    "author": "",
@@ -9123,7 +9101,7 @@
     96,
     97
    ],
-   "no": 142,
+   "no": 138,
    "vol": "第三編　陶工三大家、即チ、巴律西、薄査、乞地烏德",
    "kotobagaki": "",
    "author": "",
@@ -9188,7 +9166,7 @@
    "pages": [
     97
    ],
-   "no": 143,
+   "no": 139,
    "vol": "第三編　陶工三大家、即チ、巴律西、薄査、乞地烏德",
    "kotobagaki": "三　薄査",
    "author": "",
@@ -9285,7 +9263,7 @@
     98,
     99
    ],
-   "no": 144,
+   "no": 140,
    "vol": "第三編　陶工三大家、即チ、巴律西、薄査、乞地烏德",
    "kotobagaki": "",
    "author": "",
@@ -9374,7 +9352,7 @@
    "pages": [
     99
    ],
-   "no": 145,
+   "no": 141,
    "vol": "第三編　陶工三大家、即チ、巴律西、薄査、乞地烏德",
    "kotobagaki": "",
    "author": "",
@@ -9393,7 +9371,7 @@
    "pages": [
     99
    ],
-   "no": 146,
+   "no": 142,
    "vol": "第三編　陶工三大家、即チ、巴律西、薄査、乞地烏德",
    "kotobagaki": "",
    "author": "",
@@ -9446,7 +9424,7 @@
     99,
     100
    ],
-   "no": 147,
+   "no": 143,
    "vol": "第三編　陶工三大家、即チ、巴律西、薄査、乞地烏德",
    "kotobagaki": "",
    "author": "",
@@ -9485,7 +9463,7 @@
    "pages": [
     100
    ],
-   "no": 148,
+   "no": 144,
    "vol": "第三編　陶工三大家、即チ、巴律西、薄査、乞地烏德",
    "kotobagaki": "",
    "author": "",
@@ -9515,7 +9493,7 @@
    "pages": [
     100
    ],
-   "no": 149,
+   "no": 145,
    "vol": "第三編　陶工三大家、即チ、巴律西、薄査、乞地烏德",
    "kotobagaki": "四　若社。乞地烏德",
    "author": "",
@@ -9615,7 +9593,7 @@
     100,
     101
    ],
-   "no": 150,
+   "no": 146,
    "vol": "第三編　陶工三大家、即チ、巴律西、薄査、乞地烏德",
    "kotobagaki": "",
    "author": "",
@@ -9688,7 +9666,7 @@
    "pages": [
     101
    ],
-   "no": 151,
+   "no": 147,
    "vol": "第三編　陶工三大家、即チ、巴律西、薄査、乞地烏德",
    "kotobagaki": "",
    "author": "",
@@ -9715,7 +9693,7 @@
     102,
     103
    ],
-   "no": 152,
+   "no": 148,
    "vol": "西國立志編第四編序",
    "kotobagaki": "",
    "author": "",
@@ -9732,7 +9710,7 @@
    "pages": [
     104
    ],
-   "no": 153,
+   "no": 149,
    "vol": "第四編　勤勉シテ心ヲ用ルヿ及ビ、恆久ニ耐テ業ヲ作ヿヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -9778,7 +9756,7 @@
     104,
     105
    ],
-   "no": 154,
+   "no": 150,
    "vol": "第四編　勤勉シテ心ヲ用ルヿ及ビ、恆久ニ耐テ業ヲ作ヿヲ論ズ",
    "kotobagaki": "一　大功業ハ、平常ナル工夫ニ由テ得ラルベシ",
    "author": "",
@@ -9814,7 +9792,7 @@
    "pages": [
     105
    ],
-   "no": 155,
+   "no": 151,
    "vol": "第四編　勤勉シテ心ヲ用ルヿ及ビ、恆久ニ耐テ業ヲ作ヿヲ論ズ",
    "kotobagaki": "二　福運ハ勤勉ノ人ニ隨フ、并ニ英才ノ說",
    "author": "",
@@ -9846,7 +9824,7 @@
    "pages": [
     105
    ],
-   "no": 156,
+   "no": 152,
    "vol": "第四編　勤勉シテ心ヲ用ルヿ及ビ、恆久ニ耐テ業ヲ作ヿヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -9881,7 +9859,7 @@
     105,
     106
    ],
-   "no": 157,
+   "no": 153,
    "vol": "第四編　勤勉シテ心ヲ用ルヿ及ビ、恆久ニ耐テ業ヲ作ヿヲ論ズ",
    "kotobagaki": "三　牛董客不列爾自ラソノ學問ヲ爲シ工夫ヲ語ル",
    "author": "",
@@ -9925,7 +9903,7 @@
    "pages": [
     106
    ],
-   "no": 158,
+   "no": 154,
    "vol": "第四編　勤勉シテ心ヲ用ルヿ及ビ、恆久ニ耐テ業ヲ作ヿヲ論ズ",
    "kotobagaki": "四　人ノ天性甚ダ相遠カラズ",
    "author": "",
@@ -9974,7 +9952,7 @@
     106,
     107
    ],
-   "no": 159,
+   "no": 155,
    "vol": "第四編　勤勉シテ心ヲ用ルヿ及ビ、恆久ニ耐テ業ヲ作ヿヲ論ズ",
    "kotobagaki": "五　蜂窠ノ喩、并ニ光陰ヲ黃金ニ化スルノ論",
    "author": "",
@@ -10036,7 +10014,7 @@
    "pages": [
     107
    ],
-   "no": 160,
+   "no": 156,
    "vol": "第四編　勤勉シテ心ヲ用ルヿ及ビ、恆久ニ耐テ業ヲ作ヿヲ論ズ",
    "kotobagaki": "六　熟復ノ益、并ニ比爾譜記ヲ習フ事",
    "author": "",
@@ -10076,7 +10054,7 @@
    "pages": [
     108
    ],
-   "no": 161,
+   "no": 157,
    "vol": "第四編　勤勉シテ心ヲ用ルヿ及ビ、恆久ニ耐テ業ヲ作ヿヲ論ズ",
    "kotobagaki": "七　小伎ト雖𪜈、亦忍耐ノ工夫ヲ要ス",
    "author": "",
@@ -10110,7 +10088,7 @@
    "pages": [
     108
    ],
-   "no": 162,
+   "no": 158,
    "vol": "第四編　勤勉シテ心ヲ用ルヿ及ビ、恆久ニ耐テ業ヲ作ヿヲ論ズ",
    "kotobagaki": "八　事業ヲ成スヿノ祕訣、并ニ桑葉ノ喩",
    "author": "",
@@ -10141,7 +10119,7 @@
     108,
     109
    ],
-   "no": 163,
+   "no": 159,
    "vol": "第四編　勤勉シテ心ヲ用ルヿ及ビ、恆久ニ耐テ業ヲ作ヿヲ論ズ",
    "kotobagaki": "九　快樂ノ心、一日モ無ルベカラズ",
    "author": "",
@@ -10196,7 +10174,7 @@
     109,
     110
    ],
-   "no": 164,
+   "no": 160,
    "vol": "第四編　勤勉シテ心ヲ用ルヿ及ビ、恆久ニ耐テ業ヲ作ヿヲ論ズ",
    "kotobagaki": "十　望ハ品行ノ本、并ニ加禮",
    "author": "",
@@ -10236,7 +10214,7 @@
    "pages": [
     110
    ],
-   "no": 165,
+   "no": 161,
    "vol": "第四編　勤勉シテ心ヲ用ルヿ及ビ、恆久ニ耐テ業ヲ作ヿヲ論ズ",
    "kotobagaki": "十一　學士雍ノ格言、并ニソノ故事",
    "author": "",
@@ -10269,7 +10247,7 @@
     110,
     111
    ],
-   "no": 166,
+   "no": 162,
    "vol": "第四編　勤勉シテ心ヲ用ルヿ及ビ、恆久ニ耐テ業ヲ作ヿヲ論ズ",
    "kotobagaki": "十二　嘉度棒ノ事",
    "author": "",
@@ -10309,7 +10287,7 @@
    "pages": [
     111
    ],
-   "no": 167,
+   "no": 163,
    "vol": "第四編　勤勉シテ心ヲ用ルヿ及ビ、恆久ニ耐テ業ヲ作ヿヲ論ズ",
    "kotobagaki": "十三　加來爾ノ事",
    "author": "",
@@ -10341,7 +10319,7 @@
    "pages": [
     111
    ],
-   "no": 168,
+   "no": 164,
    "vol": "第四編　勤勉シテ心ヲ用ルヿ及ビ、恆久ニ耐テ業ヲ作ヿヲ論ズ",
    "kotobagaki": "十四　士堤反孫、瓦德久ニ耐テ倦ザル事",
    "author": "",
@@ -10382,7 +10360,7 @@
     111,
     112
    ],
-   "no": 169,
+   "no": 165,
    "vol": "第四編　勤勉シテ心ヲ用ルヿ及ビ、恆久ニ耐テ業ヲ作ヿヲ論ズ",
    "kotobagaki": "十五　羅林孫、禮亞德ノ事",
    "author": "",
@@ -10447,7 +10425,7 @@
     112,
     113
    ],
-   "no": 170,
+   "no": 166,
    "vol": "第四編　勤勉シテ心ヲ用ルヿ及ビ、恆久ニ耐テ業ヲ作ヿヲ論ズ",
    "kotobagaki": "十六　蒲豐晏起ノ習ヲ矯ル事",
    "author": "",
@@ -10491,7 +10469,7 @@
    "pages": [
     113
    ],
-   "no": 171,
+   "no": 167,
    "vol": "第四編　勤勉シテ心ヲ用ルヿ及ビ、恆久ニ耐テ業ヲ作ヿヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -10517,7 +10495,7 @@
    "pages": [
     113
    ],
-   "no": 172,
+   "no": 168,
    "vol": "第四編　勤勉シテ心ヲ用ルヿ及ビ、恆久ニ耐テ業ヲ作ヿヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -10540,7 +10518,7 @@
     113,
     114
    ],
-   "no": 173,
+   "no": 169,
    "vol": "第四編　勤勉シテ心ヲ用ルヿ及ビ、恆久ニ耐テ業ヲ作ヿヲ論ズ",
    "kotobagaki": "十七　斯格的文人ニシテ俗務ヲ蔑ゼザリシ事",
    "author": "",
@@ -10584,7 +10562,7 @@
    "pages": [
     114
    ],
-   "no": 174,
+   "no": 170,
    "vol": "第四編　勤勉シテ心ヲ用ルヿ及ビ、恆久ニ耐テ業ヲ作ヿヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -10614,7 +10592,7 @@
    "pages": [
     114
    ],
-   "no": 175,
+   "no": 171,
    "vol": "第四編　勤勉シテ心ヲ用ルヿ及ビ、恆久ニ耐テ業ヲ作ヿヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -10636,7 +10614,7 @@
    "pages": [
     114
    ],
-   "no": 176,
+   "no": 172,
    "vol": "第四編　勤勉シテ心ヲ用ルヿ及ビ、恆久ニ耐テ業ヲ作ヿヲ論ズ",
    "kotobagaki": "十八　知識愈ヽ多ケレバ愈ヽ學問ノ足ザルヲ覺ユ",
    "author": "",
@@ -10658,7 +10636,7 @@
    "pages": [
     115
    ],
-   "no": 177,
+   "no": 173,
    "vol": "第四編　勤勉シテ心ヲ用ルヿ及ビ、恆久ニ耐テ業ヲ作ヿヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -10684,7 +10662,7 @@
    "pages": [
     115
    ],
-   "no": 178,
+   "no": 174,
    "vol": "第四編　勤勉シテ心ヲ用ルヿ及ビ、恆久ニ耐テ業ヲ作ヿヲ論ズ",
    "kotobagaki": "十九　潤。伯律敦市ヲ閲シ書ヲ讀事",
    "author": "",
@@ -10745,7 +10723,7 @@
     115,
     116
    ],
-   "no": 179,
+   "no": 175,
    "vol": "第四編　勤勉シテ心ヲ用ルヿ及ビ、恆久ニ耐テ業ヲ作ヿヲ論ズ",
    "kotobagaki": "二十　老同農圃全書ヲ著ス事",
    "author": "",
@@ -10793,7 +10771,7 @@
     116,
     117
    ],
-   "no": 180,
+   "no": 176,
    "vol": "第四編　勤勉シテ心ヲ用ルヿ及ビ、恆久ニ耐テ業ヲ作ヿヲ論ズ",
    "kotobagaki": "二十一　撒母耳。德留習惡ノ性ヲ改テ著作家タリシ事",
    "author": "",
@@ -10843,7 +10821,7 @@
    "pages": [
     117
    ],
-   "no": 181,
+   "no": 177,
    "vol": "第四編　勤勉シテ心ヲ用ルヿ及ビ、恆久ニ耐テ業ヲ作ヿヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -10876,7 +10854,7 @@
     117,
     118
    ],
-   "no": 182,
+   "no": 178,
    "vol": "第四編　勤勉シテ心ヲ用ルヿ及ビ、恆久ニ耐テ業ヲ作ヿヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -10918,7 +10896,7 @@
    "pages": [
     118
    ],
-   "no": 183,
+   "no": 179,
    "vol": "第四編　勤勉シテ心ヲ用ルヿ及ビ、恆久ニ耐テ業ヲ作ヿヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -10959,7 +10937,7 @@
     118,
     119
    ],
-   "no": 184,
+   "no": 180,
    "vol": "第四編　勤勉シテ心ヲ用ルヿ及ビ、恆久ニ耐テ業ヲ作ヿヲ論ズ",
    "kotobagaki": "二十二　休模忍耐ノ力ヲ以テ政務ニ功勞アル事",
    "author": "",
@@ -11015,7 +10993,7 @@
    "pages": [
     119
    ],
-   "no": 185,
+   "no": 181,
    "vol": "第四編　勤勉シテ心ヲ用ルヿ及ビ、恆久ニ耐テ業ヲ作ヿヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -11053,7 +11031,7 @@
     120,
     121
    ],
-   "no": 186,
+   "no": 182,
    "vol": "西國立志編第五編叙",
    "kotobagaki": "",
    "author": "",
@@ -11070,7 +11048,7 @@
    "pages": [
     121
    ],
-   "no": 187,
+   "no": 183,
    "vol": "西國立志編第五編叙",
    "kotobagaki": "",
    "author": "",
@@ -11087,7 +11065,7 @@
    "pages": [
     122
    ],
-   "no": 188,
+   "no": 184,
    "vol": "第五編　幇助、即チ機會ヲ論ズ、并ニ藝業ヲ勉修スルヿヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -11132,7 +11110,7 @@
     122,
     123
    ],
-   "no": 189,
+   "no": 185,
    "vol": "第五編　幇助、即チ機會ヲ論ズ、并ニ藝業ヲ勉修スルヿヲ論ズ",
    "kotobagaki": "一　大功效ハ、偶然撞着シテ得ルモノニ非ズ、",
    "author": "",
@@ -11179,7 +11157,7 @@
    "pages": [
     123
    ],
-   "no": 190,
+   "no": 186,
    "vol": "第五編　幇助、即チ機會ヲ論ズ、并ニ藝業ヲ勉修スルヿヲ論ズ",
    "kotobagaki": "二　大人ハ小事ヲ藐忽セズ",
    "author": "",
@@ -11243,7 +11221,7 @@
     123,
     124
    ],
-   "no": 191,
+   "no": 187,
    "vol": "第五編　幇助、即チ機會ヲ論ズ、并ニ藝業ヲ勉修スルヿヲ論ズ",
    "kotobagaki": "三　牛董及ビ雍ノ發明ハ、偶然ト稱シガタシ",
    "author": "",
@@ -11283,7 +11261,7 @@
    "pages": [
     124
    ],
-   "no": 192,
+   "no": 188,
    "vol": "第五編　幇助、即チ機會ヲ論ズ、并ニ藝業ヲ勉修スルヿヲ論ズ",
    "kotobagaki": "四　觀察ニ聰慧ナルヲ智者ト稱スベシ",
    "author": "",
@@ -11320,7 +11298,7 @@
     124,
     125
    ],
-   "no": 193,
+   "no": 189,
    "vol": "第五編　幇助、即チ機會ヲ論ズ、并ニ藝業ヲ勉修スルヿヲ論ズ",
    "kotobagaki": "五　加利列窩搖錘ヲ創造セシ事",
    "author": "",
@@ -11359,7 +11337,7 @@
    "pages": [
     125
    ],
-   "no": 194,
+   "no": 190,
    "vol": "第五編　幇助、即チ機會ヲ論ズ、并ニ藝業ヲ勉修スルヿヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -11393,7 +11371,7 @@
    "pages": [
     125
    ],
-   "no": 195,
+   "no": 191,
    "vol": "第五編　幇助、即チ機會ヲ論ズ、并ニ藝業ヲ勉修スルヿヲ論ズ",
    "kotobagaki": "六　伯拉溫鐵懸橋ヲ造リ、及伯路涅爾爹迷士河底ノ地道ヲ造シ事",
    "author": "",
@@ -11477,7 +11455,7 @@
     125,
     126
    ],
-   "no": 196,
+   "no": 192,
    "vol": "第五編　幇助、即チ機會ヲ論ズ、并ニ藝業ヲ勉修スルヿヲ論ズ",
    "kotobagaki": "七　哥倫布海藻ノ浮ルヲ視テ新世界ノ近ヿヲ知シ事",
    "author": "",
@@ -11529,7 +11507,7 @@
    "pages": [
     126
    ],
-   "no": 197,
+   "no": 193,
    "vol": "第五編　幇助、即チ機會ヲ論ズ、并ニ藝業ヲ勉修スルヿヲ論ズ",
    "kotobagaki": "八　小事ノ力",
    "author": "",
@@ -11566,7 +11544,7 @@
     126,
     127
    ],
-   "no": 198,
+   "no": 194,
    "vol": "第五編　幇助、即チ機會ヲ論ズ、并ニ藝業ヲ勉修スルヿヲ論ズ",
    "kotobagaki": "九　富蘭克林及嘎喇法尼電氣ノ理ヲ査出セシ事",
    "author": "",
@@ -11618,7 +11596,7 @@
    "pages": [
     127
    ],
-   "no": 199,
+   "no": 195,
    "vol": "第五編　幇助、即チ機會ヲ論ズ、并ニ藝業ヲ勉修スルヿヲ論ズ",
    "kotobagaki": "十　吳士德蒸氣ノ力アルヿヲ悟シ事",
    "author": "",
@@ -11675,7 +11653,7 @@
     127,
     128
    ],
-   "no": 200,
+   "no": 196,
    "vol": "第五編　幇助、即チ機會ヲ論ズ、并ニ藝業ヲ勉修スルヿヲ論ズ",
    "kotobagaki": "十一　機會ヲ拿着シ機會ヲ造ル說",
    "author": "",
@@ -11720,7 +11698,7 @@
     128,
     129
    ],
-   "no": 201,
+   "no": 197,
    "vol": "第五編　幇助、即チ機會ヲ論ズ、并ニ藝業ヲ勉修スルヿヲ論ズ",
    "kotobagaki": "十二　有名ノ工人粗陋ナル器具ヲ用タリシ事",
    "author": "",
@@ -11792,7 +11770,7 @@
    "pages": [
     129
    ],
-   "no": 202,
+   "no": 198,
    "vol": "第五編　幇助、即チ機會ヲ論ズ、并ニ藝業ヲ勉修スルヿヲ論ズ",
    "kotobagaki": "十三　李偶然ノ事ヨリ學ニ志セシ事",
    "author": "",
@@ -11829,7 +11807,7 @@
    "pages": [
     129
    ],
-   "no": 203,
+   "no": 199,
    "vol": "第五編　幇助、即チ機會ヲ論ズ、并ニ藝業ヲ勉修スルヿヲ論ズ",
    "kotobagaki": "十四　斯東ノ名言",
    "author": "",
@@ -11888,7 +11866,7 @@
     129,
     130
    ],
-   "no": 204,
+   "no": 200,
    "vol": "第五編　幇助、即チ機會ヲ論ズ、并ニ藝業ヲ勉修スルヿヲ論ズ",
    "kotobagaki": "十五　斯格的何事ヲ爲ニモ機會ヲ看出セシ事",
    "author": "",
@@ -11932,7 +11910,7 @@
    "pages": [
     130
    ],
-   "no": 205,
+   "no": 201,
    "vol": "第五編　幇助、即チ機會ヲ論ズ、并ニ藝業ヲ勉修スルヿヲ論ズ",
    "kotobagaki": "十六　普理斯的禮年四十始テ化學ニ志セシ事",
    "author": "",
@@ -11976,7 +11954,7 @@
    "pages": [
     130
    ],
-   "no": 206,
+   "no": 202,
    "vol": "第五編　幇助、即チ機會ヲ論ズ、并ニ藝業ヲ勉修スルヿヲ論ズ",
    "kotobagaki": "十七　大未手ニ隨フ物ヲ器具トナシテ、經驗ヲ做シ事",
    "author": "",
@@ -12016,7 +11994,7 @@
    "pages": [
     131
    ],
-   "no": 207,
+   "no": 203,
    "vol": "第五編　幇助、即チ機會ヲ論ズ、并ニ藝業ヲ勉修スルヿヲ論ズ",
    "kotobagaki": "十八　發拉第偶然ノ事ヨリ化學ニ志セシ事",
    "author": "",
@@ -12058,7 +12036,7 @@
    "pages": [
     131
    ],
-   "no": 208,
+   "no": 204,
    "vol": "第五編　幇助、即チ機會ヲ論ズ、并ニ藝業ヲ勉修スルヿヲ論ズ",
    "kotobagaki": "十九　大未ノ記簿ニ書載タリシ語",
    "author": "",
@@ -12103,7 +12081,7 @@
     131,
     132
    ],
-   "no": 209,
+   "no": 205,
    "vol": "第五編　幇助、即チ機會ヲ論ズ、并ニ藝業ヲ勉修スルヿヲ論ズ",
    "kotobagaki": "二十　古未耶偶然ノ事ヨリ本草學ヲ勉ル事",
    "author": "",
@@ -12156,7 +12134,7 @@
     132,
     133
    ],
-   "no": 210,
+   "no": 206,
    "vol": "第五編　幇助、即チ機會ヲ論ズ、并ニ藝業ヲ勉修スルヿヲ論ズ",
    "kotobagaki": "二十一　瓦德、士提反孫、達爾東、機會ヲ失ズシテ業ヲ勉事",
    "author": "",
@@ -12236,7 +12214,7 @@
    "pages": [
     133
    ],
-   "no": 211,
+   "no": 207,
    "vol": "第五編　幇助、即チ機會ヲ論ズ、并ニ藝業ヲ勉修スルヿヲ論ズ",
    "kotobagaki": "二十二　零碎ノ光陰集リテ極大ノ價値トナル事",
    "author": "",
@@ -12297,7 +12275,7 @@
     133,
     134
    ],
-   "no": 212,
+   "no": 208,
    "vol": "第五編　幇助、即チ機會ヲ論ズ、并ニ藝業ヲ勉修スルヿヲ論ズ",
    "kotobagaki": "二十三　名士零碎ノ光陰ヲ集テ大業ヲ成タル例ヲ擧ク",
    "author": "",
@@ -12434,7 +12412,7 @@
    "pages": [
     134
    ],
-   "no": 213,
+   "no": 209,
    "vol": "第五編　幇助、即チ機會ヲ論ズ、并ニ藝業ヲ勉修スルヿヲ論ズ",
    "kotobagaki": "二十四　光陰ノ貴ブベキ事",
    "author": "",
@@ -12502,7 +12480,7 @@
     134,
     135
    ],
-   "no": 214,
+   "no": 210,
    "vol": "第五編　幇助、即チ機會ヲ論ズ、并ニ藝業ヲ勉修スルヿヲ論ズ",
    "kotobagaki": "二十五　古人著述ノ業ニ勞苦セシ事",
    "author": "",
@@ -12556,7 +12534,7 @@
    "pages": [
     135
    ],
-   "no": 215,
+   "no": 211,
    "vol": "第五編　幇助、即チ機會ヲ論ズ、并ニ藝業ヲ勉修スルヿヲ論ズ",
    "kotobagaki": "二十六　筆錄及ビ抄寫ノ益",
    "author": "",
@@ -12615,7 +12593,7 @@
     135,
     136
    ],
-   "no": 216,
+   "no": 212,
    "vol": "第五編　幇助、即チ機會ヲ論ズ、并ニ藝業ヲ勉修スルヿヲ論ズ",
    "kotobagaki": "二十七　潤○翰達鈔錄ヲ勤シ事、及ビソノ他勉强ノ事",
    "author": "",
@@ -12680,7 +12658,7 @@
     136,
     137
    ],
-   "no": 217,
+   "no": 213,
    "vol": "第五編　幇助、即チ機會ヲ論ズ、并ニ藝業ヲ勉修スルヿヲ論ズ",
    "kotobagaki": "二十八　翰達物ノ定タル情形ヲ忽ニセズシテコレヲ熟察セシ事",
    "author": "",
@@ -12737,7 +12715,7 @@
     137,
     138
    ],
-   "no": 218,
+   "no": 214,
    "vol": "第五編　幇助、即チ機會ヲ論ズ、并ニ藝業ヲ勉修スルヿヲ論ズ",
    "kotobagaki": "二十九　巴禮ノ事",
    "author": "",
@@ -12829,7 +12807,7 @@
    "pages": [
     138
    ],
-   "no": 219,
+   "no": 215,
    "vol": "第五編　幇助、即チ機會ヲ論ズ、并ニ藝業ヲ勉修スルヿヲ論ズ",
    "kotobagaki": "三十　厚倍血ノ運行ヲ發明セシ事",
    "author": "",
@@ -12874,7 +12852,7 @@
     138,
     139
    ],
-   "no": 220,
+   "no": 216,
    "vol": "第五編　幇助、即チ機會ヲ論ズ、并ニ藝業ヲ勉修スルヿヲ論ズ",
    "kotobagaki": "三十一　日納爾牛痘ヲ發明セシ事",
    "author": "",
@@ -12935,7 +12913,7 @@
     139,
     140
    ],
-   "no": 221,
+   "no": 217,
    "vol": "第五編　幇助、即チ機會ヲ論ズ、并ニ藝業ヲ勉修スルヿヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -12976,7 +12954,7 @@
    "pages": [
     140
    ],
-   "no": 222,
+   "no": 218,
    "vol": "第五編　幇助、即チ機會ヲ論ズ、并ニ藝業ヲ勉修スルヿヲ論ズ",
    "kotobagaki": "三十二　白爾神經ノ事ヲ研究スル事",
    "author": "",
@@ -13024,7 +13002,7 @@
    "pages": [
     141
    ],
-   "no": 223,
+   "no": 219,
    "vol": "第五編　幇助、即チ機會ヲ論ズ、并ニ藝業ヲ勉修スルヿヲ論ズ",
    "kotobagaki": "三十三　荷爾神經病ノソノ根ヲ肢體ヨリ發スルモノヲ發明スル事",
    "author": "",
@@ -13069,7 +13047,7 @@
     141,
     142
    ],
-   "no": 224,
+   "no": 220,
    "vol": "第五編　幇助、即チ機會ヲ論ズ、并ニ藝業ヲ勉修スルヿヲ論ズ",
    "kotobagaki": "三十四　黑爾舌新行星ヲ始テ看出ス事",
    "author": "",
@@ -13149,7 +13127,7 @@
    "pages": [
     142
    ],
-   "no": 225,
+   "no": 221,
    "vol": "第五編　幇助、即チ機會ヲ論ズ、并ニ藝業ヲ勉修スルヿヲ論ズ",
    "kotobagaki": "三十五　維廉○斯密士察地學ニ長ズル事",
    "author": "",
@@ -13198,7 +13176,7 @@
     143,
     144
    ],
-   "no": 226,
+   "no": 222,
    "vol": "第五編　幇助、即チ機會ヲ論ズ、并ニ藝業ヲ勉修スルヿヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -13252,7 +13230,7 @@
    "pages": [
     144
    ],
-   "no": 227,
+   "no": 223,
    "vol": "第五編　幇助、即チ機會ヲ論ズ、并ニ藝業ヲ勉修スルヿヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -13295,7 +13273,7 @@
     144,
     145
    ],
-   "no": 228,
+   "no": 224,
    "vol": "第五編　幇助、即チ機會ヲ論ズ、并ニ藝業ヲ勉修スルヿヲ論ズ",
    "kotobagaki": "三十六　休○彌爾列爾觀察ノオアル事",
    "author": "",
@@ -13359,7 +13337,7 @@
    "pages": [
     146
    ],
-   "no": 229,
+   "no": 225,
    "vol": "第六編　藝業ヲ勉修スル人ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -13391,7 +13369,7 @@
     146,
     147
    ],
-   "no": 230,
+   "no": 226,
    "vol": "第六編　藝業ヲ勉修スル人ヲ論ズ",
    "kotobagaki": "一　天才アリト雖𪜈必ズ勉强ノ力ヲ要ス",
    "author": "",
@@ -13429,7 +13407,7 @@
    "pages": [
     147
    ],
-   "no": 231,
+   "no": 227,
    "vol": "第六編　藝業ヲ勉修スル人ヲ論ズ",
    "kotobagaki": "二　藝ヲ好モノハ利ノ爲ニスルニ非ズ",
    "author": "",
@@ -13480,7 +13458,7 @@
     147,
     148
    ],
-   "no": 232,
+   "no": 228,
    "vol": "第六編　藝業ヲ勉修スル人ヲ論ズ",
    "kotobagaki": "三　安日洛淸廉淡薄ニシテ雕像學ヲ勉ル事",
    "author": "",
@@ -13540,7 +13518,7 @@
    "pages": [
     148
    ],
-   "no": 233,
+   "no": 229,
    "vol": "第六編　藝業ヲ勉修スル人ヲ論ズ",
    "kotobagaki": "四　秩裏一畵ニ七八年ヲ費ス事",
    "author": "",
@@ -13608,7 +13586,7 @@
     148,
     149
    ],
-   "no": 234,
+   "no": 230,
    "vol": "第六編　藝業ヲ勉修スル人ヲ論ズ",
    "kotobagaki": "五　少年ノ聲譽ハ恃ニ足ズ",
    "author": "",
@@ -13656,7 +13634,7 @@
    "pages": [
     149
    ],
-   "no": 235,
+   "no": 231,
    "vol": "第六編　藝業ヲ勉修スル人ヲ論ズ",
    "kotobagaki": "六　伴克斯小童ヲ勸勵セシ事",
    "author": "",
@@ -13720,7 +13698,7 @@
     149,
     150
    ],
-   "no": 236,
+   "no": 232,
    "vol": "第六編　藝業ヲ勉修スル人ヲ論ズ",
    "kotobagaki": "七　古勞德。羅倫萬象ヲ以テ師トナセシ事",
    "author": "",
@@ -13791,7 +13769,7 @@
    "pages": [
     150
    ],
-   "no": 237,
+   "no": 233,
    "vol": "第六編　藝業ヲ勉修スル人ヲ論ズ",
    "kotobagaki": "八　篤兒涅爾薄値ノ畵ヲ輕ンゼザル事",
    "author": "",
@@ -13838,7 +13816,7 @@
     150,
     151
    ],
-   "no": 238,
+   "no": 234,
    "vol": "第六編　藝業ヲ勉修スル人ヲ論ズ",
    "kotobagaki": "九　百爾理爾瞽者ノ相ト爲テ羅馬ニ遊ブ",
    "author": "",
@@ -13889,7 +13867,7 @@
     151,
     152
    ],
-   "no": 239,
+   "no": 235,
    "vol": "第六編　藝業ヲ勉修スル人ヲ論ズ",
    "kotobagaki": "十　加洛ノ事",
    "author": "",
@@ -13959,7 +13937,7 @@
     152,
     153
    ],
-   "no": 240,
+   "no": 236,
    "vol": "第六編　藝業ヲ勉修スル人ヲ論ズ",
    "kotobagaki": "十一　尼格拉士。保申ノ事",
    "author": "",
@@ -14040,7 +14018,7 @@
     153,
     154
    ],
-   "no": 241,
+   "no": 237,
    "vol": "第六編　藝業ヲ勉修スル人ヲ論ズ",
    "kotobagaki": "十二　潤。弗拉吉士面ノ事",
    "author": "",
@@ -14129,7 +14107,7 @@
    "pages": [
     154
    ],
-   "no": 242,
+   "no": 238,
    "vol": "第六編　藝業ヲ勉修スル人ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -14169,7 +14147,7 @@
     154,
     155
    ],
-   "no": 243,
+   "no": 239,
    "vol": "第六編　藝業ヲ勉修スル人ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -14216,7 +14194,7 @@
     155,
     156
    ],
-   "no": 244,
+   "no": 240,
    "vol": "第六編　藝業ヲ勉修スル人ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -14270,7 +14248,7 @@
    "pages": [
     156
    ],
-   "no": 245,
+   "no": 241,
    "vol": "第六編　藝業ヲ勉修スル人ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -14320,7 +14298,7 @@
    "pages": [
     156
    ],
-   "no": 246,
+   "no": 242,
    "vol": "第六編　藝業ヲ勉修スル人ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -14351,7 +14329,7 @@
    "pages": [
     156
    ],
-   "no": 247,
+   "no": 243,
    "vol": "第六編　藝業ヲ勉修スル人ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -14379,7 +14357,7 @@
     156,
     157
    ],
-   "no": 248,
+   "no": 244,
    "vol": "第六編　藝業ヲ勉修スル人ヲ論ズ",
    "kotobagaki": "十三　維爾啓談話ヲ好ザル事",
    "author": "",
@@ -14434,7 +14412,7 @@
    "pages": [
     157
    ],
-   "no": 249,
+   "no": 245,
    "vol": "第六編　藝業ヲ勉修スル人ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -14486,7 +14464,7 @@
     157,
     158
    ],
-   "no": 250,
+   "no": 246,
    "vol": "第六編　藝業ヲ勉修スル人ヲ論ズ",
    "kotobagaki": "十四　畵工馬爾珍大畵ヲ作ル時屢餓死ニ迫事",
    "author": "",
@@ -14552,7 +14530,7 @@
    "pages": [
     158
    ],
-   "no": 251,
+   "no": 247,
    "vol": "第六編　藝業ヲ勉修スル人ヲ論ズ",
    "kotobagaki": "十五　惹迷斯。沙不爾士鑄鐵工ニテ畵工雕工ヲ兼ル事",
    "author": "",
@@ -14607,7 +14585,7 @@
     158,
     159
    ],
-   "no": 252,
+   "no": 248,
    "vol": "第六編　藝業ヲ勉修スル人ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -14660,7 +14638,7 @@
     159,
     160
    ],
-   "no": 253,
+   "no": 249,
    "vol": "第六編　藝業ヲ勉修スル人ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -14740,7 +14718,7 @@
    "pages": [
     160
    ],
-   "no": 254,
+   "no": 250,
    "vol": "第六編　藝業ヲ勉修スル人ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -14775,7 +14753,7 @@
     160,
     161
    ],
-   "no": 255,
+   "no": 251,
    "vol": "第六編　藝業ヲ勉修スル人ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -14809,7 +14787,7 @@
    "pages": [
     161
    ],
-   "no": 256,
+   "no": 252,
    "vol": "第六編　藝業ヲ勉修スル人ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -14843,7 +14821,7 @@
    "pages": [
     161
    ],
-   "no": 257,
+   "no": 253,
    "vol": "第六編　藝業ヲ勉修スル人ヲ論ズ",
    "kotobagaki": "十六　有名ノ樂師彊勉ニシテ倦ザル事",
    "author": "",
@@ -14889,7 +14867,7 @@
    "pages": [
     161
    ],
-   "no": 258,
+   "no": 254,
    "vol": "第六編　藝業ヲ勉修スル人ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -14912,7 +14890,7 @@
     161,
     162
    ],
-   "no": 259,
+   "no": 255,
    "vol": "第六編　藝業ヲ勉修スル人ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -14951,7 +14929,7 @@
    "pages": [
     162
    ],
-   "no": 260,
+   "no": 256,
    "vol": "第七編　貴爵ノ家ヲ創タル人ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -14985,7 +14963,7 @@
     162,
     163
    ],
-   "no": 261,
+   "no": 257,
    "vol": "第七編　貴爵ノ家ヲ創タル人ヲ論ズ",
    "kotobagaki": "一　古者尊貴ノ族、今ハ多ク平民ニ混ズル事",
    "author": "",
@@ -15051,7 +15029,7 @@
     163,
     164
    ],
-   "no": 262,
+   "no": 258,
    "vol": "第七編　貴爵ノ家ヲ創タル人ヲ論ズ",
    "kotobagaki": "二　現存スル貴爵ノ家多ク商賈ヨリ起シ事",
    "author": "",
@@ -15142,7 +15120,7 @@
     164,
     165
    ],
-   "no": 263,
+   "no": 259,
    "vol": "第七編　貴爵ノ家ヲ創タル人ヲ論ズ",
    "kotobagaki": "三　力查。福禮釘ヲ造ルヿノ祕ヲ探ント欲シ、艱難ヲ冐セシ事",
    "author": "",
@@ -15200,7 +15178,7 @@
    "pages": [
     165
    ],
-   "no": 264,
+   "no": 260,
    "vol": "第七編　貴爵ノ家ヲ創タル人ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -15243,7 +15221,7 @@
     165,
     166
    ],
-   "no": 265,
+   "no": 261,
    "vol": "第七編　貴爵ノ家ヲ創タル人ヲ論ズ",
    "kotobagaki": "四　維廉。費布士沈船ノ貨財ヲ搜リ出ス事",
    "author": "",
@@ -15293,7 +15271,7 @@
    "pages": [
     166
    ],
-   "no": 266,
+   "no": 262,
    "vol": "第七編　貴爵ノ家ヲ創タル人ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -15327,7 +15305,7 @@
    "pages": [
     166
    ],
-   "no": 267,
+   "no": 263,
    "vol": "第七編　貴爵ノ家ヲ創タル人ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -15359,7 +15337,7 @@
     166,
     167
    ],
-   "no": 268,
+   "no": 264,
    "vol": "第七編　貴爵ノ家ヲ創タル人ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -15401,7 +15379,7 @@
    "pages": [
     167
    ],
-   "no": 269,
+   "no": 265,
    "vol": "第七編　貴爵ノ家ヲ創タル人ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -15423,7 +15401,7 @@
    "pages": [
     167
    ],
-   "no": 270,
+   "no": 266,
    "vol": "第七編　貴爵ノ家ヲ創タル人ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -15454,7 +15432,7 @@
     167,
     168
    ],
-   "no": 271,
+   "no": 267,
    "vol": "第七編　貴爵ノ家ヲ創タル人ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -15518,7 +15496,7 @@
    "pages": [
     168
    ],
-   "no": 272,
+   "no": 268,
    "vol": "第七編　貴爵ノ家ヲ創タル人ヲ論ズ",
    "kotobagaki": "五　戰功ニ由テ貴爵ヲ得タル人",
    "author": "",
@@ -15568,7 +15546,7 @@
    "pages": [
     168
    ],
-   "no": 273,
+   "no": 269,
    "vol": "第七編　貴爵ノ家ヲ創タル人ヲ論ズ",
    "kotobagaki": "六　狀師等ヨリシテ貴爵ニ陞ル事",
    "author": "",
@@ -15606,7 +15584,7 @@
     169,
     170
    ],
-   "no": 274,
+   "no": 270,
    "vol": "西國立志編第八編自序",
    "kotobagaki": "",
    "author": "",
@@ -15637,7 +15615,7 @@
    "pages": [
     170
    ],
-   "no": 275,
+   "no": 271,
    "vol": "第八編　剛毅ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -15665,7 +15643,7 @@
     170,
     171
    ],
-   "no": 276,
+   "no": 272,
    "vol": "第八編　剛毅ヲ論ズ",
    "kotobagaki": "一　人ノ品性ハ、小事ノ中ニ著シ、○鎚ヲ揮ノ力",
    "author": "",
@@ -15716,7 +15694,7 @@
     171,
     172
    ],
-   "no": 277,
+   "no": 273,
    "vol": "第八編　剛毅ヲ論ズ",
    "kotobagaki": "二　剛毅ノ心志",
    "author": "",
@@ -15763,7 +15741,7 @@
     172,
     173
    ],
-   "no": 278,
+   "no": 274,
    "vol": "第八編　剛毅ヲ論ズ",
    "kotobagaki": "三　人夙ニ事業ニ志ヲ立ベシ",
    "author": "",
@@ -15823,7 +15801,7 @@
     173,
     174
    ],
-   "no": 279,
+   "no": 275,
    "vol": "第八編　剛毅ヲ論ズ",
    "kotobagaki": "四　一時一事",
    "author": "",
@@ -15877,7 +15855,7 @@
    "pages": [
     174
    ],
-   "no": 280,
+   "no": 276,
    "vol": "第八編　剛毅ヲ論ズ",
    "kotobagaki": "五　勇猛ノ工夫",
    "author": "",
@@ -15915,7 +15893,7 @@
    "pages": [
     174
    ],
-   "no": 281,
+   "no": 277,
    "vol": "第八編　剛毅ヲ論ズ",
    "kotobagaki": "六　心志ノ力、附ムーリスノ大將",
    "author": "",
@@ -15946,7 +15924,7 @@
     174,
     175
    ],
-   "no": 282,
+   "no": 278,
    "vol": "第八編　剛毅ヲ論ズ",
    "kotobagaki": "七　志願スルトコロノモノハ、必ズ得ベシ",
    "author": "",
@@ -15996,7 +15974,7 @@
    "pages": [
     175
    ],
-   "no": 283,
+   "no": 279,
    "vol": "第八編　剛毅ヲ論ズ",
    "kotobagaki": "八　志意ハ自己ニテ主張スベキ事",
    "author": "",
@@ -16052,7 +16030,7 @@
    "pages": [
     176
    ],
-   "no": 284,
+   "no": 280,
    "vol": "第八編　剛毅ヲ論ズ",
    "kotobagaki": "九　拉面奈ノ書",
    "author": "",
@@ -16092,7 +16070,7 @@
    "pages": [
     176
    ],
-   "no": 285,
+   "no": 281,
    "vol": "第八編　剛毅ヲ論ズ",
    "kotobagaki": "十　勃古斯敦子ヲ戒ムル書",
    "author": "",
@@ -16125,7 +16103,7 @@
     176,
     177
    ],
-   "no": 286,
+   "no": 282,
    "vol": "第八編　剛毅ヲ論ズ",
    "kotobagaki": "十一　心志アレバ必ズ便宜アリ",
    "author": "",
@@ -16183,7 +16161,7 @@
    "pages": [
     177
    ],
-   "no": 287,
+   "no": 283,
    "vol": "第八編　剛毅ヲ論ズ",
    "kotobagaki": "十二　拿破崙ノ好デ誦スル格言",
    "author": "",
@@ -16220,7 +16198,7 @@
     177,
     178
    ],
-   "no": 288,
+   "no": 284,
    "vol": "第八編　剛毅ヲ論ズ",
    "kotobagaki": "十三　空林登職分ノ字ヲ常ニ心ニ存スル事",
    "author": "",
@@ -16292,7 +16270,7 @@
    "pages": [
     178
    ],
-   "no": 289,
+   "no": 285,
    "vol": "第八編　剛毅ヲ論ズ",
    "kotobagaki": "十四　果決神速ノ貴ベキ事",
    "author": "",
@@ -16362,7 +16340,7 @@
    "pages": [
     179
    ],
-   "no": 290,
+   "no": 286,
    "vol": "第八編　剛毅ヲ論ズ",
    "kotobagaki": "十五　拿破崙瞬息ノ機ヲ窺ヒ敗ヲ轉ジテ功ト爲シ事",
    "author": "",
@@ -16414,7 +16392,7 @@
    "pages": [
     179
    ],
-   "no": 291,
+   "no": 287,
    "vol": "第八編　剛毅ヲ論ズ",
    "kotobagaki": "十六　哈斯丁士七歲ノ時田產ヲ恢復セント志セシ事",
    "author": "",
@@ -16498,7 +16476,7 @@
    "pages": [
     180
    ],
-   "no": 292,
+   "no": 288,
    "vol": "第八編　剛毅ヲ論ズ",
    "kotobagaki": "十七　那比爾印度ニ於テ奇勳ヲ策スル事",
    "author": "",
@@ -16550,7 +16528,7 @@
    "pages": [
     180
    ],
-   "no": 293,
+   "no": 289,
    "vol": "第八編　剛毅ヲ論ズ",
    "kotobagaki": "十八　那比爾三軍ニ信服セラレシ事",
    "author": "",
@@ -16586,7 +16564,7 @@
    "pages": [
     181
    ],
-   "no": 294,
+   "no": 290,
    "vol": "第八編　剛毅ヲ論ズ",
    "kotobagaki": "十九　那比爾印度ノヂヨッグラーヲ試ル事",
    "author": "",
@@ -16675,7 +16653,7 @@
     181,
     182
    ],
-   "no": 295,
+   "no": 291,
    "vol": "第八編　剛毅ヲ論ズ",
    "kotobagaki": "二十　印度叛亂ノ事幷ニ英人節ニ死スル事",
    "author": "",
@@ -16759,7 +16737,7 @@
    "pages": [
     183
    ],
-   "no": 296,
+   "no": 292,
    "vol": "第八編　剛毅ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -16797,7 +16775,7 @@
    "pages": [
     183
    ],
-   "no": 297,
+   "no": 293,
    "vol": "第八編　剛毅ヲ論ズ",
    "kotobagaki": "二十一　雜未耶東洋ニ航スル事",
    "author": "",
@@ -16857,7 +16835,7 @@
     183,
     184
    ],
-   "no": 298,
+   "no": 294,
    "vol": "第八編　剛毅ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -16939,7 +16917,7 @@
    "pages": [
     184
    ],
-   "no": 299,
+   "no": 295,
    "vol": "第八編　剛毅ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -17005,7 +16983,7 @@
    "pages": [
     184
    ],
-   "no": 300,
+   "no": 296,
    "vol": "第八編　剛毅ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -17060,7 +17038,7 @@
     184,
     185
    ],
-   "no": 301,
+   "no": 297,
    "vol": "第八編　剛毅ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -17100,7 +17078,7 @@
    "pages": [
     185
    ],
-   "no": 302,
+   "no": 298,
    "vol": "第八編　剛毅ヲ論ズ",
    "kotobagaki": "二十二　戎○維廉士南海ニ航スル事",
    "author": "",
@@ -17189,7 +17167,7 @@
     185,
     186
    ],
-   "no": 303,
+   "no": 299,
    "vol": "第八編　剛毅ヲ論ズ",
    "kotobagaki": "二十三　律賓斯敦亞弗利加ニ至ル事",
    "author": "",
@@ -17257,7 +17235,7 @@
    "pages": [
     186
    ],
-   "no": 304,
+   "no": 300,
    "vol": "第八編　剛毅ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -17304,7 +17282,7 @@
    "pages": [
     186
    ],
-   "no": 305,
+   "no": 301,
    "vol": "第八編　剛毅ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -17339,7 +17317,7 @@
     186,
     187
    ],
-   "no": 306,
+   "no": 302,
    "vol": "第八編　剛毅ヲ論ズ",
    "kotobagaki": "二十四　戎○厚亞德獄制ヲ改革スル事",
    "author": "",
@@ -17387,7 +17365,7 @@
    "pages": [
     187
    ],
-   "no": 307,
+   "no": 303,
    "vol": "第八編　剛毅ヲ論ズ",
    "kotobagaki": "二十五　若那士○翰回善法ヲ創メ邦人ヲ惠ム事",
    "author": "",
@@ -17467,7 +17445,7 @@
     187,
     188
    ],
-   "no": 308,
+   "no": 304,
    "vol": "第八編　剛毅ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -17517,7 +17495,7 @@
     188,
     189
    ],
-   "no": 309,
+   "no": 305,
    "vol": "第八編　剛毅ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -17626,7 +17604,7 @@
     189,
     190
    ],
-   "no": 310,
+   "no": 306,
    "vol": "第八編　剛毅ヲ論ズ",
    "kotobagaki": "二十六　額蘭未爾○沙伯黑奴賣買ノヿヲ禁止スル事",
    "author": "",
@@ -17771,7 +17749,7 @@
     190,
     191
    ],
-   "no": 311,
+   "no": 307,
    "vol": "第八編　剛毅ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -17845,7 +17823,7 @@
    "pages": [
     191
    ],
-   "no": 312,
+   "no": 308,
    "vol": "第八編　剛毅ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -17917,7 +17895,7 @@
     191,
     192
    ],
-   "no": 313,
+   "no": 309,
    "vol": "第八編　剛毅ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -18017,7 +17995,7 @@
    "pages": [
     192
    ],
-   "no": 314,
+   "no": 310,
    "vol": "第八編　剛毅ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -18051,7 +18029,7 @@
    "pages": [
     192
    ],
-   "no": 315,
+   "no": 311,
    "vol": "第八編　剛毅ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -18110,7 +18088,7 @@
     192,
     193
    ],
-   "no": 316,
+   "no": 312,
    "vol": "第八編　剛毅ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -18188,7 +18166,7 @@
    "pages": [
     193
    ],
-   "no": 317,
+   "no": 313,
    "vol": "第八編　剛毅ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -18250,7 +18228,7 @@
    "pages": [
     194
    ],
-   "no": 318,
+   "no": 314,
    "vol": "第八編　剛毅ヲ論ズ",
    "kotobagaki": "二十七　勃古斯敦ノ讀書法、并ニソノ名言",
    "author": "",
@@ -18286,7 +18264,7 @@
    "pages": [
     194
    ],
-   "no": 319,
+   "no": 315,
    "vol": "第八編　剛毅ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -18312,7 +18290,7 @@
    "pages": [
     194
    ],
-   "no": 320,
+   "no": 316,
    "vol": "第八編　剛毅ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -18331,7 +18309,7 @@
     195,
     196
    ],
-   "no": 321,
+   "no": 317,
    "vol": "自助論第九編自序",
    "kotobagaki": "",
    "author": "",
@@ -18355,7 +18333,7 @@
    "pages": [
     197
    ],
-   "no": 322,
+   "no": 318,
    "vol": "第九編　職事ヲ務ムル人ヲ論ス",
    "kotobagaki": "",
    "author": "",
@@ -18378,7 +18356,7 @@
    "pages": [
     197
    ],
-   "no": 323,
+   "no": 319,
    "vol": "第九編　職事ヲ務ムル人ヲ論ス",
    "kotobagaki": "",
    "author": "",
@@ -18406,7 +18384,7 @@
     197,
     198
    ],
-   "no": 324,
+   "no": 320,
    "vol": "第九編　職事ヲ務ムル人ヲ論ス",
    "kotobagaki": "一　事務ノ境界狹小ナラズ",
    "author": "",
@@ -18461,7 +18439,7 @@
    "pages": [
     198
    ],
-   "no": 325,
+   "no": 321,
    "vol": "第九編　職事ヲ務ムル人ヲ論ス",
    "kotobagaki": "二　職業ノ貴賤ハ、人品ノ高下ニ關カラズ",
    "author": "",
@@ -18493,7 +18471,7 @@
     198,
     199
    ],
-   "no": 326,
+   "no": 322,
    "vol": "第九編　職事ヲ務ムル人ヲ論ス",
    "kotobagaki": "三　職事ヲ務メ、兼テ文學ニ名ヲ得タル人",
    "author": "",
@@ -18608,7 +18586,7 @@
    "pages": [
     199
    ],
-   "no": 327,
+   "no": 323,
    "vol": "第九編　職事ヲ務ムル人ヲ論ス",
    "kotobagaki": "四　現今生存スル人ノ例ヲ擧グ",
    "author": "",
@@ -18666,7 +18644,7 @@
    "pages": [
     200
    ],
-   "no": 328,
+   "no": 324,
    "vol": "第九編　職事ヲ務ムル人ヲ論ス",
    "kotobagaki": "五　三物ノ論、並ニ勞苦ヨリ生ズル快樂",
    "author": "",
@@ -18720,7 +18698,7 @@
    "pages": [
     200
    ],
-   "no": 329,
+   "no": 325,
    "vol": "第九編　職事ヲ務ムル人ヲ論ス",
    "kotobagaki": "六　墨爾畔ノ書",
    "author": "",
@@ -18788,7 +18766,7 @@
    "pages": [
     201
    ],
-   "no": 330,
+   "no": 326,
    "vol": "第九編　職事ヲ務ムル人ヲ論ス",
    "kotobagaki": "七　瑣小ノ本錢",
    "author": "",
@@ -18866,7 +18844,7 @@
    "pages": [
     201
    ],
-   "no": 331,
+   "no": 327,
    "vol": "第九編　職事ヲ務ムル人ヲ論ス",
    "kotobagaki": "八　工匠ノ美談",
    "author": "",
@@ -18907,7 +18885,7 @@
     201,
     202
    ],
-   "no": 332,
+   "no": 328,
    "vol": "第九編　職事ヲ務ムル人ヲ論ス",
    "kotobagaki": "九　勞苦ナケレバ希望ナシ",
    "author": "",
@@ -18941,7 +18919,7 @@
    "pages": [
     202
    ],
-   "no": 333,
+   "no": 329,
    "vol": "第九編　職事ヲ務ムル人ヲ論ス",
    "kotobagaki": "十　事ノ失敗必ズソノ由アリ",
    "author": "",
@@ -18996,7 +18974,7 @@
     202,
     203
    ],
-   "no": 334,
+   "no": 330,
    "vol": "第九編　職事ヲ務ムル人ヲ論ス",
    "kotobagaki": "十一　妄ニ不幸ト稱スル世人ノ愚惑、并潤孫ノ名言",
    "author": "",
@@ -19073,7 +19051,7 @@
    "pages": [
     203
    ],
-   "no": 335,
+   "no": 331,
    "vol": "第九編　職事ヲ務ムル人ヲ論ス",
    "kotobagaki": "十二　話聖東、意爾平吠狗ノ喩",
    "author": "",
@@ -19138,7 +19116,7 @@
     203,
     204
    ],
-   "no": 336,
+   "no": 332,
    "vol": "第九編　職事ヲ務ムル人ヲ論ス",
    "kotobagaki": "十三　五箇ノ性能、並ニ小事ノ忽セニスベカラザル事",
    "author": "",
@@ -19198,7 +19176,7 @@
    "pages": [
     204
    ],
-   "no": 337,
+   "no": 333,
    "vol": "第九編　職事ヲ務ムル人ヲ論ス",
    "kotobagaki": "十四　精細ノ切要ナル事",
    "author": "",
@@ -19237,7 +19215,7 @@
     204,
     205
    ],
-   "no": 338,
+   "no": 334,
    "vol": "第九編　職事ヲ務ムル人ヲ論ス",
    "kotobagaki": "十五　福格斯瑣事ト雖モ精細ニ心ヲ用シ事",
    "author": "",
@@ -19295,7 +19273,7 @@
    "pages": [
     205
    ],
-   "no": 339,
+   "no": 335,
    "vol": "第九編　職事ヲ務ムル人ヲ論ス",
    "kotobagaki": "十六　順便ノ方法",
    "author": "",
@@ -19371,7 +19349,7 @@
     205,
     206
    ],
-   "no": 340,
+   "no": 336,
    "vol": "第九編　職事ヲ務ムル人ヲ論ス",
    "kotobagaki": "十七　法國一相臣ノ話",
    "author": "",
@@ -19433,7 +19411,7 @@
    "pages": [
     206
    ],
-   "no": 341,
+   "no": 337,
    "vol": "第九編　職事ヲ務ムル人ヲ論ス",
    "kotobagaki": "十八　懶惰ナル鄕紳ノ話",
    "author": "",
@@ -19486,7 +19464,7 @@
    "pages": [
     206
    ],
-   "no": 342,
+   "no": 338,
    "vol": "第九編　職事ヲ務ムル人ヲ論ス",
    "kotobagaki": "十九　斯格的敏速ノ益ヲ論スル書",
    "author": "",
@@ -19534,7 +19512,7 @@
    "pages": [
     207
    ],
-   "no": 343,
+   "no": 339,
    "vol": "第九編　職事ヲ務ムル人ヲ論ス",
    "kotobagaki": "二十　光陰ハ產業ナリ",
    "author": "",
@@ -19595,7 +19573,7 @@
     207,
     208
    ],
-   "no": 344,
+   "no": 340,
    "vol": "第九編　職事ヲ務ムル人ヲ論ス",
    "kotobagaki": "二十一　四半時ノ光陰",
    "author": "",
@@ -19623,7 +19601,7 @@
    "pages": [
     208
    ],
-   "no": 345,
+   "no": 341,
    "vol": "第九編　職事ヲ務ムル人ヲ論ス",
    "kotobagaki": "二十二　定期ヲ愆ザルノ德",
    "author": "",
@@ -19661,7 +19639,7 @@
     208,
     209
    ],
-   "no": 346,
+   "no": 342,
    "vol": "第九編　職事ヲ務ムル人ヲ論ス",
    "kotobagaki": "二十三　事務ヲ辨理スル人ニ非レバ、三軍ノ將トナリガタシ",
    "author": "",
@@ -19697,7 +19675,7 @@
    "pages": [
     209
    ],
-   "no": 347,
+   "no": 343,
    "vol": "第九編　職事ヲ務ムル人ヲ論ス",
    "kotobagaki": "二十四　拿破崙軍中ニ在リ細務ヲ辨理セシ事",
    "author": "",
@@ -19738,7 +19716,7 @@
     209,
     210
    ],
-   "no": 348,
+   "no": 344,
    "vol": "第九編　職事ヲ務ムル人ヲ論ス",
    "kotobagaki": "",
    "author": "",
@@ -19801,7 +19779,7 @@
    "pages": [
     210
    ],
-   "no": 349,
+   "no": 345,
    "vol": "第九編　職事ヲ務ムル人ヲ論ス",
    "kotobagaki": "二十五　拿破崙ノ文書",
    "author": "",
@@ -19871,7 +19849,7 @@
     210,
     211
    ],
-   "no": 350,
+   "no": 346,
    "vol": "第九編　職事ヲ務ムル人ヲ論ス",
    "kotobagaki": "二十六　空林登詳密ニ事務ヲ辨理セシ事",
    "author": "",
@@ -19912,7 +19890,7 @@
     211,
     212
    ],
-   "no": 351,
+   "no": 347,
    "vol": "第九編　職事ヲ務ムル人ヲ論ス",
    "kotobagaki": "",
    "author": "",
@@ -19961,7 +19939,7 @@
    "pages": [
     212
    ],
-   "no": 352,
+   "no": 348,
    "vol": "第九編　職事ヲ務ムル人ヲ論ス",
    "kotobagaki": "",
    "author": "",
@@ -20004,7 +19982,7 @@
     212,
     213
    ],
-   "no": 353,
+   "no": 349,
    "vol": "第九編　職事ヲ務ムル人ヲ論ス",
    "kotobagaki": "",
    "author": "",
@@ -20031,7 +20009,7 @@
    "pages": [
     213
    ],
-   "no": 354,
+   "no": 350,
    "vol": "第九編　職事ヲ務ムル人ヲ論ス",
    "kotobagaki": "",
    "author": "",
@@ -20058,7 +20036,7 @@
     213,
     214
    ],
-   "no": 355,
+   "no": 351,
    "vol": "第九編　職事ヲ務ムル人ヲ論ス",
    "kotobagaki": "二十七　空林登正直ニシテ借財ヲ懼ルヽ事",
    "author": "",
@@ -20095,7 +20073,7 @@
     214,
     215
    ],
-   "no": 356,
+   "no": 352,
    "vol": "第九編　職事ヲ務ムル人ヲ論ス",
    "kotobagaki": "二十八　端正信實ノ貴ブベキ事",
    "author": "",
@@ -20147,7 +20125,7 @@
     215,
     216
    ],
-   "no": 357,
+   "no": 353,
    "vol": "第九編　職事ヲ務ムル人ヲ論ス",
    "kotobagaki": "二十九　商買ノ端正信實ナルベキ事",
    "author": "",
@@ -20195,7 +20173,7 @@
    "pages": [
     216
    ],
-   "no": 358,
+   "no": 354,
    "vol": "第九編　職事ヲ務ムル人ヲ論ス",
    "kotobagaki": "三十　正經ナラザルノ利ハ、受用スルヿ能ハズ",
    "author": "",
@@ -20239,7 +20217,7 @@
    "pages": [
     217
    ],
-   "no": 359,
+   "no": 355,
    "vol": "第九編　職事ヲ務ムル人ヲ論ス",
    "kotobagaki": "三十一　品行ハ一種ノ財寶ナリ",
    "author": "",
@@ -20265,7 +20243,7 @@
    "pages": [
     217
    ],
-   "no": 360,
+   "no": 356,
    "vol": "第九編　職事ヲ務ムル人ヲ論ス",
    "kotobagaki": "",
    "author": "",
@@ -20283,7 +20261,7 @@
     217,
     218
    ],
-   "no": 361,
+   "no": 357,
    "vol": "第九編　職事ヲ務ムル人ヲ論ス",
    "kotobagaki": "三十二　大關○罷克禮ノ事",
    "author": "",
@@ -20339,7 +20317,7 @@
    "pages": [
     218
    ],
-   "no": 362,
+   "no": 358,
    "vol": "第九編　職事ヲ務ムル人ヲ論ス",
    "kotobagaki": "",
    "author": "",
@@ -20356,7 +20334,7 @@
    "pages": [
     218
    ],
-   "no": 363,
+   "no": 359,
    "vol": "第十編　金錢ノ當然ノ用、及ソノ妄用ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -20391,7 +20369,7 @@
    "pages": [
     218
    ],
-   "no": 364,
+   "no": 360,
    "vol": "第十編　金錢ノ當然ノ用、及ソノ妄用ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -20418,7 +20396,7 @@
    "pages": [
     218
    ],
-   "no": 365,
+   "no": 361,
    "vol": "第十編　金錢ノ當然ノ用、及ソノ妄用ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -20445,7 +20423,7 @@
    "pages": [
     219
    ],
-   "no": 366,
+   "no": 362,
    "vol": "第十編　金錢ノ當然ノ用、及ソノ妄用ヲ論ズ",
    "kotobagaki": "一　金錢ヲ用ルハ當然ノ道ニ從フベキ事",
    "author": "",
@@ -20518,7 +20496,7 @@
     219,
     220
    ],
-   "no": 367,
+   "no": 363,
    "vol": "第十編　金錢ノ當然ノ用、及ソノ妄用ヲ論ズ",
    "kotobagaki": "二　自ラ私欲ニ克チ儉約ヲ守ルベキ事",
    "author": "",
@@ -20628,7 +20606,7 @@
     220,
     221
    ],
-   "no": 368,
+   "no": 364,
    "vol": "第十編　金錢ノ當然ノ用、及ソノ妄用ヲ論ズ",
    "kotobagaki": "三　格伯田二種ノ人品アルノ論",
    "author": "",
@@ -20714,7 +20692,7 @@
    "pages": [
     221
    ],
-   "no": 369,
+   "no": 365,
    "vol": "第十編　金錢ノ當然ノ用、及ソノ妄用ヲ論ズ",
    "kotobagaki": "四　工人儉節ヲ勉メ品行ヲ高スベキ事",
    "author": "",
@@ -20804,7 +20782,7 @@
    "pages": [
     222
    ],
-   "no": 370,
+   "no": 366,
    "vol": "第十編　金錢ノ當然ノ用、及ソノ妄用ヲ論ズ",
    "kotobagaki": "五　三箇偶然ノ事",
    "author": "",
@@ -20907,7 +20885,7 @@
     222,
     223
    ],
-   "no": 371,
+   "no": 367,
    "vol": "第十編　金錢ノ當然ノ用、及ソノ妄用ヲ論ズ",
    "kotobagaki": "六　節儉ハ家事ヲ治ル精神",
    "author": "",
@@ -20969,7 +20947,7 @@
    "pages": [
     223
    ],
-   "no": 372,
+   "no": 368,
    "vol": "第十編　金錢ノ當然ノ用、及ソノ妄用ヲ論ズ",
    "kotobagaki": "七　節儉ハ保護ノ用",
    "author": "",
@@ -21031,7 +21009,7 @@
    "pages": [
     223
    ],
-   "no": 373,
+   "no": 369,
    "vol": "第十編　金錢ノ當然ノ用、及ソノ妄用ヲ論ズ",
    "kotobagaki": "八　節儉ハ端正老實ノ本質",
    "author": "",
@@ -21089,7 +21067,7 @@
    "pages": [
     224
    ],
-   "no": 374,
+   "no": 370,
    "vol": "第十編　金錢ノ當然ノ用、及ソノ妄用ヲ論ズ",
    "kotobagaki": "九　小利ヲ競フハ、小費ヲ除クニシカズ、儉約ニシテ仁惠ヲ行ベキ事",
    "author": "",
@@ -21230,7 +21208,7 @@
     224,
     225
    ],
-   "no": 375,
+   "no": 371,
    "vol": "第十編　金錢ノ當然ノ用、及ソノ妄用ヲ論ズ",
    "kotobagaki": "十　金ヲ借ルヿノ危事",
    "author": "",
@@ -21346,7 +21324,7 @@
     225,
     226
    ],
-   "no": 376,
+   "no": 372,
    "vol": "第十編　金錢ノ當然ノ用、及ソノ妄用ヲ論ズ",
    "kotobagaki": "十一　〓林登話聖東借債ヲ懼レシ事",
    "author": "",
@@ -21458,7 +21436,7 @@
    "pages": [
     226
    ],
-   "no": 377,
+   "no": 373,
    "vol": "第十編　金錢ノ當然ノ用、及ソノ妄用ヲ論ズ",
    "kotobagaki": "十二　熱非斯早年貧苦ト戰ヒシ事",
    "author": "",
@@ -21553,7 +21531,7 @@
     226,
     227
    ],
-   "no": 378,
+   "no": 374,
    "vol": "第十編　金錢ノ當然ノ用、及ソノ妄用ヲ論ズ",
    "kotobagaki": "十三　時俗體面ヲ飾ルノ弊",
    "author": "",
@@ -21699,7 +21677,7 @@
    "pages": [
     227
    ],
-   "no": 379,
+   "no": 375,
    "vol": "第十編　金錢ノ當然ノ用、及ソノ妄用ヲ論ズ",
    "kotobagaki": "十四　那比爾軍官ノ負債ヲ戒ムル事",
    "author": "",
@@ -21802,7 +21780,7 @@
     227,
     228
    ],
-   "no": 380,
+   "no": 376,
    "vol": "第十編　金錢ノ當然ノ用、及ソノ妄用ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -21852,7 +21830,7 @@
    "pages": [
     228
    ],
-   "no": 381,
+   "no": 377,
    "vol": "第十編　金錢ノ當然ノ用、及ソノ妄用ヲ論ズ",
    "kotobagaki": "十五　誘惑ニ抵抗スベキ事",
    "author": "",
@@ -21963,7 +21941,7 @@
     228,
     229
    ],
-   "no": 382,
+   "no": 378,
    "vol": "第十編　金錢ノ當然ノ用、及ソノ妄用ヲ論ズ",
    "kotobagaki": "十六　休○彌爾列爾酒ヲ止ル事",
    "author": "",
@@ -22101,7 +22079,7 @@
    "pages": [
     229
    ],
-   "no": 383,
+   "no": 379,
    "vol": "第十編　金錢ノ當然ノ用、及ソノ妄用ヲ論ズ",
    "kotobagaki": "十七　高處ニ眼ヲ着ケ惡習ヲ改ベキ事",
    "author": "",
@@ -22158,7 +22136,7 @@
     229,
     230
    ],
-   "no": 384,
+   "no": 380,
    "vol": "第十編　金錢ノ當然ノ用、及ソノ妄用ヲ論ズ",
    "kotobagaki": "十八　富ヲ致スヿノ諺語、并ニ所羅門ノ金言",
    "author": "",
@@ -22297,7 +22275,7 @@
     230,
     231
    ],
-   "no": 385,
+   "no": 381,
    "vol": "第十編　金錢ノ當然ノ用、及ソノ妄用ヲ論ズ",
    "kotobagaki": "十九　髙尙ナル志望ヲ以テ勤儉ヲ行フベシ",
    "author": "",
@@ -22389,7 +22367,7 @@
    "pages": [
     231
    ],
-   "no": 386,
+   "no": 382,
    "vol": "第十編　金錢ノ當然ノ用、及ソノ妄用ヲ論ズ",
    "kotobagaki": "二十　托馬士○來的罪人ヲ惠シ事",
    "author": "",
@@ -22508,7 +22486,7 @@
     231,
     232
    ],
-   "no": 387,
+   "no": 383,
    "vol": "第十編　金錢ノ當然ノ用、及ソノ妄用ヲ論ズ",
    "kotobagaki": "二十一　正經ノ職業ハ、卑賤ト雖羞愧スベカラザル事",
    "author": "",
@@ -22639,7 +22617,7 @@
     232,
     233
    ],
-   "no": 388,
+   "no": 384,
    "vol": "第十編　金錢ノ當然ノ用、及ソノ妄用ヲ論ズ",
    "kotobagaki": "二十二　守錢虜ノ賤ムベキ事",
    "author": "",
@@ -22761,7 +22739,7 @@
    "pages": [
     233
    ],
-   "no": 389,
+   "no": 385,
    "vol": "第十編　金錢ノ當然ノ用、及ソノ妄用ヲ論ズ",
    "kotobagaki": "二十三　儉吝ノ辨",
    "author": "",
@@ -22796,7 +22774,7 @@
    "pages": [
     233
    ],
-   "no": 390,
+   "no": 386,
    "vol": "第十編　金錢ノ當然ノ用、及ソノ妄用ヲ論ズ",
    "kotobagaki": "二十四　富人ニ德行ノ價アラザル事",
    "author": "",
@@ -22843,7 +22821,7 @@
     233,
     234
    ],
-   "no": 391,
+   "no": 387,
    "vol": "第十編　金錢ノ當然ノ用、及ソノ妄用ヲ論ズ",
    "kotobagaki": "二十五　貪婪ニシテ身ヲ亡スノ喩",
    "author": "",
@@ -22888,7 +22866,7 @@
    "pages": [
     234
    ],
-   "no": 392,
+   "no": 388,
    "vol": "第十編　金錢ノ當然ノ用、及ソノ妄用ヲ論ズ",
    "kotobagaki": "二十六　人ノ事業ハ貧富ニ抱ラズ、並伯洛沙敦ノ事",
    "author": "",
@@ -22928,7 +22906,7 @@
    "pages": [
     234
    ],
-   "no": 393,
+   "no": 389,
    "vol": "第十編　金錢ノ當然ノ用、及ソノ妄用ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -22958,7 +22936,7 @@
    "pages": [
     235
    ],
-   "no": 394,
+   "no": 390,
    "vol": "第十編　金錢ノ當然ノ用、及ソノ妄用ヲ論ズ",
    "kotobagaki": "二十七　眞正ノ體面",
    "author": "",
@@ -23017,7 +22995,7 @@
    "pages": [
     235
    ],
-   "no": 395,
+   "no": 391,
    "vol": "第十編　金錢ノ當然ノ用、及ソノ妄用ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -23055,7 +23033,7 @@
    "pages": [
     235
    ],
-   "no": 396,
+   "no": 392,
    "vol": "第十編　金錢ノ當然ノ用、及ソノ妄用ヲ論ズ",
    "kotobagaki": "二十八　眞正ノ貴重セラル、人",
    "author": "",
@@ -23098,7 +23076,7 @@
    "pages": [
     236
    ],
-   "no": 397,
+   "no": 393,
    "vol": "第十編　金錢ノ當然ノ用、及ソノ妄用ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -23140,7 +23118,7 @@
    "pages": [
     236
    ],
-   "no": 398,
+   "no": 394,
    "vol": "第十編　金錢ノ當然ノ用、及ソノ妄用ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -23157,7 +23135,7 @@
    "pages": [
     236
    ],
-   "no": 399,
+   "no": 395,
    "vol": "西國立志編第十一編序",
    "kotobagaki": "",
    "author": "",
@@ -23174,7 +23152,7 @@
    "pages": [
     237
    ],
-   "no": 400,
+   "no": 396,
    "vol": "西國立志編第十一編序",
    "kotobagaki": "",
    "author": "",
@@ -23191,7 +23169,7 @@
    "pages": [
     237
    ],
-   "no": 401,
+   "no": 397,
    "vol": "西國立志編第十一編序",
    "kotobagaki": "",
    "author": "",
@@ -23208,7 +23186,7 @@
    "pages": [
     237
    ],
-   "no": 402,
+   "no": 398,
    "vol": "西國立志編第十一編序",
    "kotobagaki": "",
    "author": "",
@@ -23225,7 +23203,7 @@
    "pages": [
     237
    ],
-   "no": 403,
+   "no": 399,
    "vol": "第十一編　自ラ修ノ事ヲ論ズ、並ニ難易ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -23258,7 +23236,7 @@
    "pages": [
     237
    ],
-   "no": 404,
+   "no": 400,
    "vol": "第十一編　自ラ修ノ事ヲ論ズ、並ニ難易ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -23289,7 +23267,7 @@
    "pages": [
     237
    ],
-   "no": 405,
+   "no": 401,
    "vol": "第十一編　自ラ修ノ事ヲ論ズ、並ニ難易ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -23316,7 +23294,7 @@
    "pages": [
     238
    ],
-   "no": 406,
+   "no": 402,
    "vol": "第十一編　自ラ修ノ事ヲ論ズ、並ニ難易ヲ論ズ",
    "kotobagaki": "一　自ラ敎育スベキ事",
    "author": "",
@@ -23364,7 +23342,7 @@
     238,
     239
    ],
-   "no": 407,
+   "no": 403,
    "vol": "第十一編　自ラ修ノ事ヲ論ズ、並ニ難易ヲ論ズ",
    "kotobagaki": "二　亞瑙爾德ノ說",
    "author": "",
@@ -23405,7 +23383,7 @@
    "pages": [
     239
    ],
-   "no": 408,
+   "no": 404,
    "vol": "第十一編　自ラ修ノ事ヲ論ズ、並ニ難易ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -23427,7 +23405,7 @@
    "pages": [
     239
    ],
-   "no": 409,
+   "no": 405,
    "vol": "第十一編　自ラ修ノ事ヲ論ズ、並ニ難易ヲ論ズ",
    "kotobagaki": "三　身體ヲ勞動スルノ益",
    "author": "",
@@ -23489,7 +23467,7 @@
    "pages": [
     239
    ],
-   "no": 410,
+   "no": 406,
    "vol": "第十一編　自ラ修ノ事ヲ論ズ、並ニ難易ヲ論ズ",
    "kotobagaki": "四　惹列迷。參洛爾勞動ノ益ヲ論ズ",
    "author": "",
@@ -23537,7 +23515,7 @@
    "pages": [
     240
    ],
-   "no": 411,
+   "no": 407,
    "vol": "第十一編　自ラ修ノ事ヲ論ズ、並ニ難易ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -23559,7 +23537,7 @@
    "pages": [
     240
    ],
-   "no": 412,
+   "no": 408,
    "vol": "第十一編　自ラ修ノ事ヲ論ズ、並ニ難易ヲ論ズ",
    "kotobagaki": "五　工事勞作ノ益",
    "author": "",
@@ -23613,7 +23591,7 @@
    "pages": [
     240
    ],
-   "no": 413,
+   "no": 409,
    "vol": "第十一編　自ラ修ノ事ヲ論ズ、並ニ難易ヲ論ズ",
    "kotobagaki": "六　身體ノ强壯ハ職事ヲ爲ニ益アル事",
    "author": "",
@@ -23652,7 +23630,7 @@
    "pages": [
     241
    ],
-   "no": 414,
+   "no": 410,
    "vol": "第十一編　自ラ修ノ事ヲ論ズ、並ニ難易ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -23678,7 +23656,7 @@
    "pages": [
     241
    ],
-   "no": 415,
+   "no": 411,
    "vol": "第十一編　自ラ修ノ事ヲ論ズ、並ニ難易ヲ論ズ",
    "kotobagaki": "七　有名ノ學士文人、少時勞力ノ遊戯ヲ做シ例",
    "author": "",
@@ -23754,7 +23732,7 @@
     241,
     242
    ],
-   "no": 416,
+   "no": 412,
    "vol": "第十一編　自ラ修ノ事ヲ論ズ、並ニ難易ヲ論ズ",
    "kotobagaki": "八　勞苦ハ百事ニ勝ツ",
    "author": "",
@@ -23810,7 +23788,7 @@
    "pages": [
     242
    ],
-   "no": 417,
+   "no": 413,
    "vol": "第十一編　自ラ修ノ事ヲ論ズ、並ニ難易ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -23844,7 +23822,7 @@
    "pages": [
     242
    ],
-   "no": 418,
+   "no": 414,
    "vol": "第十一編　自ラ修ノ事ヲ論ズ、並ニ難易ヲ論ズ",
    "kotobagaki": "九　方向ヲ善シテ學業ヲ勉强スベキ事",
    "author": "",
@@ -23874,7 +23852,7 @@
    "pages": [
     242
    ],
-   "no": 419,
+   "no": 415,
    "vol": "第十一編　自ラ修ノ事ヲ論ズ、並ニ難易ヲ論ズ",
    "kotobagaki": "十　容易ハ困難ヨリ生ズ",
    "author": "",
@@ -23926,7 +23904,7 @@
    "pages": [
     243
    ],
-   "no": 420,
+   "no": 416,
    "vol": "第十一編　自ラ修ノ事ヲ論ズ、並ニ難易ヲ論ズ",
    "kotobagaki": "十一　精密ノ工夫及ビ透徹ノ理會",
    "author": "",
@@ -23963,7 +23941,7 @@
    "pages": [
     243
    ],
-   "no": 421,
+   "no": 417,
    "vol": "第十一編　自ラ修ノ事ヲ論ズ、並ニ難易ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -24001,7 +23979,7 @@
     243,
     244
    ],
-   "no": 422,
+   "no": 418,
    "vol": "第十一編　自ラ修ノ事ヲ論ズ、並ニ難易ヲ論ズ",
    "kotobagaki": "十二　目的ヲ立定ヲ書ヲ讀ベシ",
    "author": "",
@@ -24033,7 +24011,7 @@
    "pages": [
     244
    ],
-   "no": 423,
+   "no": 419,
    "vol": "第十一編　自ラ修ノ事ヲ論ズ、並ニ難易ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -24067,7 +24045,7 @@
    "pages": [
     244
    ],
-   "no": 424,
+   "no": 420,
    "vol": "第十一編　自ラ修ノ事ヲ論ズ、並ニ難易ヲ論ズ",
    "kotobagaki": "十三　自己ヲ信ズルヿハ、眞正ノ謙退ト同一ナル事",
    "author": "",
@@ -24139,7 +24117,7 @@
    "pages": [
     245
    ],
-   "no": 425,
+   "no": 421,
    "vol": "第十一編　自ラ修ノ事ヲ論ズ、並ニ難易ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -24155,7 +24133,7 @@
    "pages": [
     245
    ],
-   "no": 426,
+   "no": 422,
    "vol": "第十一編　自ラ修ノ事ヲ論ズ、並ニ難易ヲ論ズ",
    "kotobagaki": "十四　勞苦ヲ經ザル學問ノ益ナキ事",
    "author": "",
@@ -24210,7 +24188,7 @@
    "pages": [
     245
    ],
-   "no": 427,
+   "no": 423,
    "vol": "第十一編　自ラ修ノ事ヲ論ズ、並ニ難易ヲ論ズ",
    "kotobagaki": "十五　勞苦ニ慣ベシ安息ヲ求ベカラズ",
    "author": "",
@@ -24256,7 +24234,7 @@
    "pages": [
     246
    ],
-   "no": 428,
+   "no": 424,
    "vol": "第十一編　自ラ修ノ事ヲ論ズ、並ニ難易ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -24330,7 +24308,7 @@
     246,
     247
    ],
-   "no": 429,
+   "no": 425,
    "vol": "第十一編　自ラ修ノ事ヲ論ズ、並ニ難易ヲ論ズ",
    "kotobagaki": "十六　學問ハ、善良ノ心、端正ノ行ト、一體トナルベシ",
    "author": "",
@@ -24407,7 +24385,7 @@
    "pages": [
     247
    ],
-   "no": 430,
+   "no": 426,
    "vol": "第十一編　自ラ修ノ事ヲ論ズ、並ニ難易ヲ論ズ",
    "kotobagaki": "十七　學問ト智識トノ大逕庭アル事",
    "author": "",
@@ -24494,7 +24472,7 @@
    "pages": [
     248
    ],
-   "no": 431,
+   "no": 427,
    "vol": "第十一編　自ラ修ノ事ヲ論ズ、並ニ難易ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -24523,7 +24501,7 @@
    "pages": [
     248
    ],
-   "no": 432,
+   "no": 428,
    "vol": "第十一編　自ラ修ノ事ヲ論ズ、並ニ難易ヲ論ズ",
    "kotobagaki": "十八　讀書ノミヲ學問ト思ベカラザル事",
    "author": "",
@@ -24615,7 +24593,7 @@
    "pages": [
     249
    ],
-   "no": 433,
+   "no": 429,
    "vol": "第十一編　自ラ修ノ事ヲ論ズ、並ニ難易ヲ論ズ",
    "kotobagaki": "十九　我ナルモノ有ザルベカラズ、爲トコロ有ザルベカラズ",
    "author": "",
@@ -24686,7 +24664,7 @@
    "pages": [
     249
    ],
-   "no": 434,
+   "no": 430,
    "vol": "第十一編　自ラ修ノ事ヲ論ズ、並ニ難易ヲ論ズ",
    "kotobagaki": "二十　自ラ恭敬スベキ事",
    "author": "",
@@ -24742,7 +24720,7 @@
    "pages": [
     250
    ],
-   "no": 435,
+   "no": 431,
    "vol": "第十一編　自ラ修ノ事ヲ論ズ、並ニ難易ヲ論ズ",
    "kotobagaki": "二十一　必答臥拉斯ノ法語、及ビ彌爾敦ノ說",
    "author": "",
@@ -24842,7 +24820,7 @@
     250,
     251
    ],
-   "no": 436,
+   "no": 432,
    "vol": "第十一編　自ラ修ノ事ヲ論ズ、並ニ難易ヲ論ズ",
    "kotobagaki": "二十二　自修ノ事ハ地位ニ關ザル事",
    "author": "",
@@ -24931,7 +24909,7 @@
     251,
     252
    ],
-   "no": 437,
+   "no": 433,
    "vol": "第十一編　自ラ修ノ事ヲ論ズ、並ニ難易ヲ論ズ",
    "kotobagaki": "廿三　卑下ナル自脩ノ說",
    "author": "",
@@ -25033,7 +25011,7 @@
    "pages": [
     252
    ],
-   "no": 438,
+   "no": 434,
    "vol": "第十一編　自ラ修ノ事ヲ論ズ、並ニ難易ヲ論ズ",
    "kotobagaki": "二十四　稗官小說ノ害",
    "author": "",
@@ -25151,7 +25129,7 @@
    "pages": [
     253
    ],
-   "no": 439,
+   "no": 435,
    "vol": "第十一編　自ラ修ノ事ヲ論ズ、並ニ難易ヲ論ズ",
    "kotobagaki": "二十五　少年ノ人歡樂ニ耽ベカラザル事",
    "author": "",
@@ -25255,7 +25233,7 @@
     253,
     254
    ],
-   "no": 440,
+   "no": 436,
    "vol": "第十一編　自ラ修ノ事ヲ論ズ、並ニ難易ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -25301,7 +25279,7 @@
    "pages": [
     254
    ],
-   "no": 441,
+   "no": 437,
    "vol": "第十一編　自ラ修ノ事ヲ論ズ、並ニ難易ヲ論ズ",
    "kotobagaki": "二十六　公斯當的弱志薄行ノ事",
    "author": "",
@@ -25366,7 +25344,7 @@
     254,
     255
    ],
-   "no": 442,
+   "no": 438,
    "vol": "第十一編　自ラ修ノ事ヲ論ズ、並ニ難易ヲ論ズ",
    "kotobagaki": "二十七　鞮爾理目盲シ身病ト雖𪜈學ヲ勉ル事",
    "author": "",
@@ -25455,7 +25433,7 @@
     255,
     256
    ],
-   "no": 443,
+   "no": 439,
    "vol": "第十一編　自ラ修ノ事ヲ論ズ、並ニ難易ヲ論ズ",
    "kotobagaki": "二十八　尼格爾ノ事",
    "author": "",
@@ -25559,7 +25537,7 @@
    "pages": [
     256
    ],
-   "no": 444,
+   "no": 440,
    "vol": "第十一編　自ラ修ノ事ヲ論ズ、並ニ難易ヲ論ズ",
    "kotobagaki": "二十九　艱難ハ最善ノ敎師",
    "author": "",
@@ -25626,7 +25604,7 @@
     256,
     257
    ],
-   "no": 445,
+   "no": 441,
    "vol": "第十一編　自ラ修ノ事ヲ論ズ、並ニ難易ヲ論ズ",
    "kotobagaki": "三十　智識ハ失敗ヨリ學ブ",
    "author": "",
@@ -25739,7 +25717,7 @@
     257,
     258
    ],
-   "no": 446,
+   "no": 442,
    "vol": "第十一編　自ラ修ノ事ヲ論ズ、並ニ難易ヲ論ズ",
    "kotobagaki": "三十一　名將屢ゝ敗績スルニ由テ益兵法ニ進ム事",
    "author": "",
@@ -25823,7 +25801,7 @@
     258,
     259
    ],
-   "no": 447,
+   "no": 443,
    "vol": "第十一編　自ラ修ノ事ヲ論ズ、並ニ難易ヲ論ズ",
    "kotobagaki": "三十二　貧苦禍難ハ人ノ善師ナル事",
    "author": "",
@@ -25944,7 +25922,7 @@
     259,
     260
    ],
-   "no": 448,
+   "no": 444,
    "vol": "第十一編　自ラ修ノ事ヲ論ズ、並ニ難易ヲ論ズ",
    "kotobagaki": "三十三　艱難ノ學校",
    "author": "",
@@ -25986,7 +25964,7 @@
    "pages": [
     260
    ],
-   "no": 449,
+   "no": 445,
    "vol": "第十一編　自ラ修ノ事ヲ論ズ、並ニ難易ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -26012,7 +25990,7 @@
    "pages": [
     260
    ],
-   "no": 450,
+   "no": 446,
    "vol": "第十一編　自ラ修ノ事ヲ論ズ、並ニ難易ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -26047,7 +26025,7 @@
    "pages": [
     261
    ],
-   "no": 451,
+   "no": 447,
    "vol": "第十一編　自ラ修ノ事ヲ論ズ、並ニ難易ヲ論ズ",
    "kotobagaki": "三十四　辯論家格禮及ビ加蘭ノ事",
    "author": "",
@@ -26112,7 +26090,7 @@
    "pages": [
     262
    ],
-   "no": 452,
+   "no": 448,
    "vol": "第十一編　自ラ修ノ事ヲ論ズ、並ニ難易ヲ論ズ",
    "kotobagaki": "三十五　貧苦ニ耐テ學習ヲ勉シ人、馬來、模爾、章罷士",
    "author": "",
@@ -26187,7 +26165,7 @@
     262,
     263
    ],
-   "no": 453,
+   "no": 449,
    "vol": "第十一編　自ラ修ノ事ヲ論ズ、並ニ難易ヲ論ズ",
    "kotobagaki": "三十六　維廉〇格白的ノ事",
    "author": "",
@@ -26250,7 +26228,7 @@
     263,
     264
    ],
-   "no": 454,
+   "no": 450,
    "vol": "第十一編　自ラ修ノ事ヲ論ズ、並ニ難易ヲ論ズ",
    "kotobagaki": "三十七　法人ノ英國ニ住スルモノ石匠ヨリ學師トナリシ事",
    "author": "",
@@ -26299,7 +26277,7 @@
     264,
     265
    ],
-   "no": 455,
+   "no": 451,
    "vol": "第十一編　自ラ修ノ事ヲ論ズ、並ニ難易ヲ論ズ",
    "kotobagaki": "三十八　學師李ノ事",
    "author": "",
@@ -26368,7 +26346,7 @@
    "pages": [
     265
    ],
-   "no": 456,
+   "no": 452,
    "vol": "第十一編　自ラ修ノ事ヲ論ズ、並ニ難易ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -26415,7 +26393,7 @@
     265,
     266
    ],
-   "no": 457,
+   "no": 453,
    "vol": "第十一編　自ラ修ノ事ヲ論ズ、並ニ難易ヲ論ズ",
    "kotobagaki": "三十九　有名ノ人晩年ヨリ學問セシ例ヲ擧グ",
    "author": "",
@@ -26510,7 +26488,7 @@
    "pages": [
     266
    ],
-   "no": 458,
+   "no": 454,
    "vol": "第十一編　自ラ修ノ事ヲ論ズ、並ニ難易ヲ論ズ",
    "kotobagaki": "四十　少時ノ敏鈍ヲ以テ將來ヲトシ難シ",
    "author": "",
@@ -26555,7 +26533,7 @@
     267,
     268
    ],
-   "no": 459,
+   "no": 455,
    "vol": "第十一編　自ラ修ノ事ヲ論ズ、並ニ難易ヲ論ズ",
    "kotobagaki": "四十一　大人豪傑幼時愚鈍ナリシ例ヲ擧グ",
    "author": "",
@@ -26702,7 +26680,7 @@
    "pages": [
     268
    ],
-   "no": 460,
+   "no": 456,
    "vol": "第十一編　自ラ修ノ事ヲ論ズ、並ニ難易ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -26750,7 +26728,7 @@
     268,
     269
    ],
-   "no": 461,
+   "no": 457,
    "vol": "第十一編　自ラ修ノ事ヲ論ズ、並ニ難易ヲ論ズ",
    "kotobagaki": "四十二　亞瑙爾德童子ノ優劣アル所以ヲ論ズ",
    "author": "",
@@ -26786,7 +26764,7 @@
    "pages": [
     269
    ],
-   "no": 462,
+   "no": 458,
    "vol": "第十一編　自ラ修ノ事ヲ論ズ、並ニ難易ヲ論ズ",
    "kotobagaki": "四十三　父母ソノ兒子ノ夙達ヲ望ベカラザル事",
    "author": "",
@@ -26823,7 +26801,7 @@
    "pages": [
     270
    ],
-   "no": 463,
+   "no": 459,
    "vol": "第十二編　儀範又曰典型ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -26860,7 +26838,7 @@
    "pages": [
     270
    ],
-   "no": 464,
+   "no": 460,
    "vol": "第十二編　儀範又曰典型ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -26908,7 +26886,7 @@
     270,
     271
    ],
-   "no": 465,
+   "no": 461,
    "vol": "第十二編　儀範又曰典型ヲ論ズ",
    "kotobagaki": "一　家裡ノ敎化最モ緊要ナル事、并ニ家國同一ナル事",
    "author": "",
@@ -26946,7 +26924,7 @@
    "pages": [
     271
    ],
-   "no": 466,
+   "no": 462,
    "vol": "第十二編　儀範又曰典型ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -26962,7 +26940,7 @@
    "pages": [
     271
    ],
-   "no": 467,
+   "no": 463,
    "vol": "第十二編　儀範又曰典型ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -27044,7 +27022,7 @@
     272,
     273
    ],
-   "no": 468,
+   "no": 464,
    "vol": "第十二編　儀範又曰典型ヲ論ズ",
    "kotobagaki": "二　父母ノ儀範",
    "author": "",
@@ -27128,7 +27106,7 @@
     273,
     274
    ],
-   "no": 469,
+   "no": 465,
    "vol": "第十二編　儀範又曰典型ヲ論ズ",
    "kotobagaki": "三　物斯的、勃古斯敦等、ソノ母ニ感化セラレシ事",
    "author": "",
@@ -27196,7 +27174,7 @@
    "pages": [
     274
    ],
-   "no": 470,
+   "no": 466,
    "vol": "第十二編　儀範又曰典型ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -27214,7 +27192,7 @@
    "pages": [
     274
    ],
-   "no": 471,
+   "no": 467,
    "vol": "第十二編　儀範又曰典型ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -27251,7 +27229,7 @@
     274,
     275
    ],
-   "no": 472,
+   "no": 468,
    "vol": "第十二編　儀範又曰典型ヲ論ズ",
    "kotobagaki": "四　人ノ言行將來ト必ズ相關ル事",
    "author": "",
@@ -27313,7 +27291,7 @@
    "pages": [
     275
    ],
-   "no": 473,
+   "no": 469,
    "vol": "第十二編　儀範又曰典型ヲ論ズ",
    "kotobagaki": "五　人ノ言行永ク死セザル事",
    "author": "",
@@ -27372,7 +27350,7 @@
     275,
     276
    ],
-   "no": 474,
+   "no": 470,
    "vol": "第十二編　儀範又曰典型ヲ論ズ",
    "kotobagaki": "六　拔倍籍言行不死ノ論文",
    "author": "",
@@ -27441,7 +27419,7 @@
     276,
     277
    ],
-   "no": 475,
+   "no": 471,
    "vol": "第十二編　儀範又曰典型ヲ論ズ",
    "kotobagaki": "七　極テ卑賤ナル人ノ言行亦風俗ニ關係ス",
    "author": "",
@@ -27515,7 +27493,7 @@
    "pages": [
     277
    ],
-   "no": 476,
+   "no": 472,
    "vol": "第十二編　儀範又曰典型ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -27561,7 +27539,7 @@
     277,
     278
    ],
-   "no": 477,
+   "no": 473,
    "vol": "第十二編　儀範又曰典型ヲ論ズ",
    "kotobagaki": "八　實行ノ人ヲ化スルヿ、空言ノ比スベキニ非ズ",
    "author": "",
@@ -27644,7 +27622,7 @@
     278,
     279
    ],
-   "no": 478,
+   "no": 474,
    "vol": "第十二編　儀範又曰典型ヲ論ズ",
    "kotobagaki": "九　邦治鞋ヲ補ナガラニ修金ナキ貧兒ヲ敎シ事",
    "author": "",
@@ -27776,7 +27754,7 @@
    "pages": [
     279
    ],
-   "no": 479,
+   "no": 475,
    "vol": "第十二編　儀範又曰典型ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -27822,7 +27800,7 @@
    "pages": [
     279
    ],
-   "no": 480,
+   "no": 476,
    "vol": "第十二編　儀範又曰典型ヲ論ズ",
    "kotobagaki": "十　朋友ノ擇ベキ事",
    "author": "",
@@ -27869,7 +27847,7 @@
     279,
     280
    ],
-   "no": 481,
+   "no": 477,
    "vol": "第十二編　儀範又曰典型ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -27925,7 +27903,7 @@
    "pages": [
     280
    ],
-   "no": 482,
+   "no": 478,
    "vol": "第十二編　儀範又曰典型ヲ論ズ",
    "kotobagaki": "十一　觀感ノ益",
    "author": "",
@@ -28028,7 +28006,7 @@
    "pages": [
     281
    ],
-   "no": 483,
+   "no": 479,
    "vol": "第十二編　儀範又曰典型ヲ論ズ",
    "kotobagaki": "十二　畫家、樂工、己ニ優ルモノヲ慕フ事",
    "author": "",
@@ -28104,7 +28082,7 @@
    "pages": [
     281
    ],
-   "no": 484,
+   "no": 480,
    "vol": "第十二編　儀範又曰典型ヲ論ズ",
    "kotobagaki": "十三　勇將ノ表樣",
    "author": "",
@@ -28188,7 +28166,7 @@
    "pages": [
     282
    ],
-   "no": 485,
+   "no": 481,
    "vol": "第十二編　儀範又曰典型ヲ論ズ",
    "kotobagaki": "十四　言行錄ヲ讀ヨリシテ感發奮興セシ人ノ例ヲ擧グ",
    "author": "",
@@ -28244,7 +28222,7 @@
    "pages": [
     282
    ],
-   "no": 486,
+   "no": 482,
    "vol": "第十二編　儀範又曰典型ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -28275,7 +28253,7 @@
    "pages": [
     282
    ],
-   "no": 487,
+   "no": 483,
    "vol": "第十二編　儀範又曰典型ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -28348,7 +28326,7 @@
     282,
     283
    ],
-   "no": 488,
+   "no": 484,
    "vol": "第十二編　儀範又曰典型ヲ論ズ",
    "kotobagaki": "十五　富蘭克林、德留、達德禮",
    "author": "",
@@ -28412,7 +28390,7 @@
    "pages": [
     283
    ],
-   "no": 489,
+   "no": 485,
    "vol": "第十二編　儀範又曰典型ヲ論ズ",
    "kotobagaki": "十六　亞爾費立、雷閥拉、路楊、烏爾弗、加禮",
    "author": "",
@@ -28511,7 +28489,7 @@
     283,
     284
    ],
-   "no": 490,
+   "no": 486,
    "vol": "第十二編　儀範又曰典型ヲ論ズ",
    "kotobagaki": "十七　花納爾進脩ノ益ヲ得タリシ書ヲ評論ス",
    "author": "",
@@ -28545,7 +28523,7 @@
    "pages": [
     284
    ],
-   "no": 491,
+   "no": 487,
    "vol": "第十二編　儀範又曰典型ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -28619,7 +28597,7 @@
    "pages": [
     284
    ],
-   "no": 492,
+   "no": 488,
    "vol": "第十二編　儀範又曰典型ヲ論ズ",
    "kotobagaki": "十八　樂只君子ノ儀表",
    "author": "",
@@ -28707,7 +28685,7 @@
    "pages": [
     285
    ],
-   "no": 493,
+   "no": 489,
    "vol": "第十二編　儀範又曰典型ヲ論ズ",
    "kotobagaki": "十九　學士亞瑙爾德ノ德行他人ヲ感化セシ事",
    "author": "",
@@ -28784,7 +28762,7 @@
     285,
     286
    ],
-   "no": 494,
+   "no": 490,
    "vol": "第十二編　儀範又曰典型ヲ論ズ",
    "kotobagaki": "二十　潤。辛克禮ノ事",
    "author": "",
@@ -28892,7 +28870,7 @@
    "pages": [
     286
    ],
-   "no": 495,
+   "no": 491,
    "vol": "第十二編　儀範又曰典型ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -28939,7 +28917,7 @@
     286,
     287
    ],
-   "no": 496,
+   "no": 492,
    "vol": "第十二編　儀範又曰典型ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -28973,7 +28951,7 @@
    "pages": [
     287
    ],
-   "no": 497,
+   "no": 493,
    "vol": "第十二編　儀範又曰典型ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -29067,7 +29045,7 @@
    "pages": [
     288
    ],
-   "no": 498,
+   "no": 494,
    "vol": "第十二編　儀範又曰典型ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -29141,7 +29119,7 @@
    "pages": [
     289
    ],
-   "no": 499,
+   "no": 495,
    "vol": "第十三編　品行ヲ論ズ即眞正ノ君子ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -29170,7 +29148,7 @@
     289,
     290
    ],
-   "no": 500,
+   "no": 496,
    "vol": "第十三編　品行ヲ論ズ即眞正ノ君子ヲ論ズ",
    "kotobagaki": "一　品行ハ人ノ有ル最貴ナル物",
    "author": "",
@@ -29218,7 +29196,7 @@
    "pages": [
     290
    ],
-   "no": 501,
+   "no": 497,
    "vol": "第十三編　品行ヲ論ズ即眞正ノ君子ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -29264,7 +29242,7 @@
    "pages": [
     290
    ],
-   "no": 502,
+   "no": 498,
    "vol": "第十三編　品行ヲ論ズ即眞正ノ君子ヲ論ズ",
    "kotobagaki": "二　加寧、拉設爾ノ嘉言、花納爾ノ善行、",
    "author": "",
@@ -29340,7 +29318,7 @@
    "pages": [
     291
    ],
-   "no": 503,
+   "no": 499,
    "vol": "第十三編　品行ヲ論ズ即眞正ノ君子ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -29424,7 +29402,7 @@
    "pages": [
     292
    ],
-   "no": 504,
+   "no": 500,
    "vol": "第十三編　品行ヲ論ズ即眞正ノ君子ヲ論ズ",
    "kotobagaki": "三　富蘭克林、孟典ノ事",
    "author": "",
@@ -29492,7 +29470,7 @@
    "pages": [
     292
    ],
-   "no": 505,
+   "no": 501,
    "vol": "第十三編　品行ヲ論ズ即眞正ノ君子ヲ論ズ",
    "kotobagaki": "四　品行ハ勢力ナリ",
    "author": "",
@@ -29530,7 +29508,7 @@
    "pages": [
     292
    ],
-   "no": 506,
+   "no": 502,
    "vol": "第十三編　品行ヲ論ズ即眞正ノ君子ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -29556,7 +29534,7 @@
    "pages": [
     292
    ],
-   "no": 507,
+   "no": 503,
    "vol": "第十三編　品行ヲ論ズ即眞正ノ君子ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -29588,7 +29566,7 @@
    "pages": [
     293
    ],
-   "no": 508,
+   "no": 504,
    "vol": "第十三編　品行ヲ論ズ即眞正ノ君子ヲ論ズ",
    "kotobagaki": "五　勞爾德亞斯金ノ行規",
    "author": "",
@@ -29644,7 +29622,7 @@
    "pages": [
     293
    ],
-   "no": 509,
+   "no": 505,
    "vol": "第十三編　品行ヲ論ズ即眞正ノ君子ヲ論ズ",
    "kotobagaki": "六　人皆品行ヲ修善スルヿヲ以テ目的ト爲ベシ",
    "author": "",
@@ -29729,7 +29707,7 @@
     293,
     294
    ],
-   "no": 510,
+   "no": 506,
    "vol": "第十三編　品行ヲ論ズ即眞正ノ君子ヲ論ズ",
    "kotobagaki": "七　美名ノ價",
    "author": "",
@@ -29781,7 +29759,7 @@
    "pages": [
     294
    ],
-   "no": 511,
+   "no": 507,
    "vol": "第十三編　品行ヲ論ズ即眞正ノ君子ヲ論ズ",
    "kotobagaki": "八　信實ハ品行ノ骨子",
    "author": "",
@@ -29840,7 +29818,7 @@
     294,
     295
    ],
-   "no": 512,
+   "no": 508,
    "vol": "第十三編　品行ヲ論ズ即眞正ノ君子ヲ論ズ",
    "kotobagaki": "九　言行一致、內外間ナカルベキヿ、并ニ沙伯ノ好メル格言",
    "author": "",
@@ -29940,7 +29918,7 @@
    "pages": [
     295
    ],
-   "no": 513,
+   "no": 509,
    "vol": "第十三編　品行ヲ論ズ即眞正ノ君子ヲ論ズ",
    "kotobagaki": "十　眞實ノ品行",
    "author": "",
@@ -30014,7 +29992,7 @@
    "pages": [
     296
    ],
-   "no": 514,
+   "no": 510,
    "vol": "第十三編　品行ヲ論ズ即眞正ノ君子ヲ論ズ",
    "kotobagaki": "十一　習慣ハ第二ノ天性",
    "author": "",
@@ -30079,7 +30057,7 @@
     296,
     297
    ],
-   "no": 515,
+   "no": 511,
    "vol": "第十三編　品行ヲ論ズ即眞正ノ君子ヲ論ズ",
    "kotobagaki": "十二　習慣ハ始ヲ愼シムベシ",
    "author": "",
@@ -30200,7 +30178,7 @@
     297,
     298
    ],
-   "no": 516,
+   "no": 512,
    "vol": "第十三編　品行ヲ論ズ即眞正ノ君子ヲ論ズ",
    "kotobagaki": "十三　人ハ幼年ヨリ善習慣ニ長ゼシムベキ事",
    "author": "",
@@ -30279,7 +30257,7 @@
    "pages": [
     298
    ],
-   "no": 517,
+   "no": 513,
    "vol": "第十三編　品行ヲ論ズ即眞正ノ君子ヲ論ズ",
    "kotobagaki": "十四　福祥マタ習慣ニ由テ得ラルベシ",
    "author": "",
@@ -30332,7 +30310,7 @@
     298,
     299
    ],
-   "no": 518,
+   "no": 514,
    "vol": "第十三編　品行ヲ論ズ即眞正ノ君子ヲ論ズ",
    "kotobagaki": "十五　他人ヲ待スルニ溫和ニシテ禮アルベキ事",
    "author": "",
@@ -30426,7 +30404,7 @@
    "pages": [
     299
    ],
-   "no": 519,
+   "no": 515,
    "vol": "第十三編　品行ヲ論ズ即眞正ノ君子ヲ論ズ",
    "kotobagaki": "十六　羅伯遜ノ書牘",
    "author": "",
@@ -30479,7 +30457,7 @@
     299,
     300
    ],
-   "no": 520,
+   "no": 516,
    "vol": "第十三編　品行ヲ論ズ即眞正ノ君子ヲ論ズ",
    "kotobagaki": "十七　中心ノ忠愛外貌ノ禮儀",
    "author": "",
@@ -30572,7 +30550,7 @@
     300,
     301
    ],
-   "no": 521,
+   "no": 517,
    "vol": "第十三編　品行ヲ論ズ即眞正ノ君子ヲ論ズ",
    "kotobagaki": "十八　容貌辭氣ノ修善スベキ事",
    "author": "",
@@ -30696,7 +30674,7 @@
     301,
     302
    ],
-   "no": 522,
+   "no": 518,
    "vol": "第十三編　品行ヲ論ズ即眞正ノ君子ヲ論ズ",
    "kotobagaki": "十九　他人ノ異論ヲ斟酌スベキ事○魑魅ノ喩",
    "author": "",
@@ -30772,7 +30750,7 @@
    "pages": [
     302
    ],
-   "no": 523,
+   "no": 519,
    "vol": "第十三編　品行ヲ論ズ即眞正ノ君子ヲ論ズ",
    "kotobagaki": "二十　眞實ノ心腸",
    "author": "",
@@ -30822,7 +30800,7 @@
     302,
     303
    ],
-   "no": 524,
+   "no": 520,
    "vol": "第十三編　品行ヲ論ズ即眞正ノ君子ヲ論ズ",
    "kotobagaki": "二十一　哥蘭的兄弟家ヲ興セシ事",
    "author": "",
@@ -30903,7 +30881,7 @@
     303,
     304
    ],
-   "no": 525,
+   "no": 521,
    "vol": "第十三編　品行ヲ論ズ即眞正ノ君子ヲ論ズ",
    "kotobagaki": "二十二　哥蘭的兄弟舊怨ヲ念ズシテ恩惠ヲ施セシ事",
    "author": "",
@@ -30980,7 +30958,7 @@
     304,
     305
    ],
-   "no": 526,
+   "no": 522,
    "vol": "第十三編　品行ヲ論ズ即眞正ノ君子ヲ論ズ",
    "kotobagaki": "二十三　ジエントルメン〔君子〕ノ義",
    "author": "",
@@ -31014,7 +30992,7 @@
    "pages": [
     305
    ],
-   "no": 527,
+   "no": 523,
    "vol": "第十三編　品行ヲ論ズ即眞正ノ君子ヲ論ズ",
    "kotobagaki": "二十四　ジエントルメン〔君子〕ハ自ラ尊敬シ他人ヲ尊敬ス",
    "author": "",
@@ -31090,7 +31068,7 @@
     305,
     306
    ],
-   "no": 528,
+   "no": 524,
    "vol": "第十三編　品行ヲ論ズ即眞正ノ君子ヲ論ズ",
    "kotobagaki": "二十五　眞正ノジエントルメン〔君子〕ハ賄賂ヲ受ザル事、空林登十萬金我邦ノ三十萬兩餘ノ賄賂ヲ却ケシ事",
    "author": "",
@@ -31156,7 +31134,7 @@
    "pages": [
     306
    ],
-   "no": 529,
+   "no": 525,
    "vol": "第十三編　品行ヲ論ズ即眞正ノ君子ヲ論ズ",
    "kotobagaki": "二十六　馬貴斯爵名空勒斯力十萬金ノ贈遺ヲ受ザリシ事",
    "author": "",
@@ -31224,7 +31202,7 @@
    "pages": [
     307
    ],
-   "no": 530,
+   "no": 526,
    "vol": "第十三編　品行ヲ論ズ即眞正ノ君子ヲ論ズ",
    "kotobagaki": "二十七　查爾斯。那比爾、印度ニアリテソノ君長ヨリ一切贈遺ヲ受ザリシ事",
    "author": "",
@@ -31284,7 +31262,7 @@
    "pages": [
     307
    ],
-   "no": 531,
+   "no": 527,
    "vol": "第十三編　品行ヲ論ズ即眞正ノ君子ヲ論ズ",
    "kotobagaki": "二十八　身外ノ富貴ハ眞正君子ノ德ト相關カラズ",
    "author": "",
@@ -31320,7 +31298,7 @@
    "pages": [
     308
    ],
-   "no": 532,
+   "no": 528,
    "vol": "第十三編　品行ヲ論ズ即眞正ノ君子ヲ論ズ",
    "kotobagaki": "二十九　至賤ノ人往々眞正君子ノ精神アル事",
    "author": "",
@@ -31377,7 +31355,7 @@
     308,
     309
    ],
-   "no": 533,
+   "no": 529,
    "vol": "第十三編　品行ヲ論ズ即眞正ノ君子ヲ論ズ",
    "kotobagaki": "三十　舟子ノ性命ヲ輕ジ他人ヲ救シ事",
    "author": "",
@@ -31465,7 +31443,7 @@
    "pages": [
     309
    ],
-   "no": 534,
+   "no": 530,
    "vol": "第十三編　品行ヲ論ズ即眞正ノ君子ヲ論ズ",
    "kotobagaki": "三十一　澳士地利ノ帝貧民コレラ〔霍亂〕ニテ死セシ者ノ葬ヲ送ラレシ事",
    "author": "",
@@ -31512,7 +31490,7 @@
     309,
     310
    ],
-   "no": 535,
+   "no": 531,
    "vol": "第十三編　品行ヲ論ズ即眞正ノ君子ヲ論ズ",
    "kotobagaki": "三十二　英國ノ工人巴理ニ在テ貧人ノ棺車ヲ送リシ事",
    "author": "",
@@ -31548,7 +31526,7 @@
    "pages": [
     310
    ],
-   "no": 536,
+   "no": 532,
    "vol": "第十三編　品行ヲ論ズ即眞正ノ君子ヲ論ズ",
    "kotobagaki": "三十三　君子ハ信實ヲ以テ第一ト爲ベキ事",
    "author": "",
@@ -31587,7 +31565,7 @@
     310,
     311
    ],
-   "no": 537,
+   "no": 533,
    "vol": "第十三編　品行ヲ論ズ即眞正ノ君子ヲ論ズ",
    "kotobagaki": "三十四　剛勇ノ人ハ柔軟ノ心寛恕ノ行アル事",
    "author": "",
@@ -31649,7 +31627,7 @@
    "pages": [
     311
    ],
-   "no": 538,
+   "no": 534,
    "vol": "第十三編　品行ヲ論ズ即眞正ノ君子ヲ論ズ",
    "kotobagaki": "三十五　英雄俠烈ノ行今世ニ至リ益ヽ盛ナル事",
    "author": "",
@@ -31714,7 +31692,7 @@
     311,
     312
    ],
-   "no": 539,
+   "no": 535,
    "vol": "第十三編　品行ヲ論ズ即眞正ノ君子ヲ論ズ",
    "kotobagaki": "三十六　兵卒ノ溫柔ナル事",
    "author": "",
@@ -31756,7 +31734,7 @@
     312,
     313
    ],
-   "no": 540,
+   "no": 536,
    "vol": "第十三編　品行ヲ論ズ即眞正ノ君子ヲ論ズ",
    "kotobagaki": "三十七　英國ノ船亞弗利加ノ海岸ニテ沈ミシ時船中ノ人從容和靜ナリシ事",
    "author": "",
@@ -31807,7 +31785,7 @@
    "pages": [
     313
    ],
-   "no": 541,
+   "no": 537,
    "vol": "第十三編　品行ヲ論ズ即眞正ノ君子ヲ論ズ",
    "kotobagaki": "三十八　君子ハ己ヨリ弱キモノヲ凌虐セズ",
    "author": "",
@@ -31858,7 +31836,7 @@
     313,
     314
    ],
-   "no": 542,
+   "no": 538,
    "vol": "第十三編　品行ヲ論ズ即眞正ノ君子ヲ論ズ",
    "kotobagaki": "三十九　君子ハ人ニ恩惠ヲ施ドモ德色ナシ",
    "author": "",
@@ -31896,7 +31874,7 @@
    "pages": [
     314
    ],
-   "no": 543,
+   "no": 539,
    "vol": "第十三編　品行ヲ論ズ即眞正ノ君子ヲ論ズ",
    "kotobagaki": "四十　君子ハ己ヲ棄テ人ニ讓ル事",
    "author": "",
@@ -31946,7 +31924,7 @@
    "pages": [
     315
    ],
-   "no": 544,
+   "no": 540,
    "vol": "第十三編　品行ヲ論ズ即眞正ノ君子ヲ論ズ",
    "kotobagaki": "四十一　德勒克ノ品行",
    "author": "",
@@ -31988,7 +31966,7 @@
    "pages": [
     315
    ],
-   "no": 545,
+   "no": 541,
    "vol": "第十三編　品行ヲ論ズ即眞正ノ君子ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -32005,7 +31983,7 @@
    "pages": [
     315
    ],
-   "no": 546,
+   "no": 542,
    "vol": "第十三編　品行ヲ論ズ即眞正ノ君子ヲ論ズ",
    "kotobagaki": "",
    "author": "",
@@ -32029,7 +32007,7 @@
  ],
  "poems": [],
  "translation": {
-  "count": 0,
+  "count": 43,
   "note": "AI による現代語訳と書き下し"
  },
  "original": "Self-Help (1859)",
