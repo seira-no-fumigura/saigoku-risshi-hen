@@ -10,7 +10,7 @@
   "kind": "漢文訓読体（漢字片仮名交じり）。序は漢文",
   "era": "",
   "author": "サミュエル・スマイルズ 著、中村正直 訳",
-  "desc": "全文。明治 27 年の活字版の全コマを画像と照らして起こした。第一編から第五編には原書の原文と、原文からの現代語訳を付けた。迷った字の見直しと、第六編からあとの原文・現代語訳、中村自身の序の訳はこれから"
+  "desc": "全文。明治 27 年の活字版の全コマを画像と照らして起こした。第一編から第六編には原書の原文と、原文からの現代語訳を付けた（第六編は、文語訳に対応のない原書の段落を注に書いた）。迷った字の見直しと、第七編からあとの原文・現代語訳、中村自身の序の訳はこれから"
  },
  "editions": [
   {
@@ -15195,7 +15195,8 @@
      "a": "兼",
      "r": "ケ"
     }
-   ]
+   ],
+   "genbun": "Another striking exemplification of perseverance and industry in the cultivation of art in humble life is presented in the career of James Sharples, a working blacksmith at Blackburn. He was born at Wakefield in Yorkshire, in 1825, one of a family of thirteen children. His father was a working ironfounder, and removed to Bury to follow his business. The boys received no school education, but were all sent to work as soon as they were able; and at about ten James was placed in a foundry, where he was employed for about two years as smithy-boy. After that he was sent into the engine-shop where his father worked as engine-smith. The boy’s employment was to heat and carry rivets for the boiler-makers. Though his hours of labour were very long—often from six in the morning until eight at night—his father contrived to give him some little teaching after working hours; and it was thus that he partially learned his letters. An incident occurred in the course of his employment among the boiler-makers, which first awakened in him the desire to learn drawing. He had occasionally been employed by the foreman to hold the chalked line with which he made the designs of boilers upon the floor of the workshop; and on such occasions the foreman was accustomed to hold the line, and direct the boy to make the necessary dimensions. James soon became so expert at this as to be of considerable service to the foreman; and at his leisure hours at home his great delight was to practise drawing designs of boilers upon his mother’s floor. On one occasion, when a female relative was expected from Manchester to pay the family a visit, and the house had been made as decent as possible for her reception, the boy, on coming in from the foundry in the evening, began his usual operations upon the floor. He had proceeded some way with his design of a large boiler in chalk, when his mother arrived with the visitor, and to her dismay found the boy unwashed and the floor chalked all over. The relative, however, professed to be pleased with the boy’s industry, praised his design, and recommended his mother to provide “the little sweep,” as she called him, with paper and pencils."
   },
   {
    "id": "saigoku-risshi-hen-000252",
@@ -15248,7 +15249,8 @@
      "a": "過",
      "r": "スゴ"
     }
-   ]
+   ],
+   "genbun": "Encouraged by his elder brother, he began to practise figure and landscape drawing, making copies of lithographs, but as yet without any knowledge of the rules of perspective and the principles of light and shade. He worked on, however, and gradually acquired expertness in copying. At sixteen, he entered the Bury Mechanic’s Institution in order to attend the drawing class, taught by an amateur who followed the trade of a barber. There he had a lesson a week during three months. The teacher recommended him to obtain from the library Burnet’s ‘Practical Treatise on Painting;’ but as he could not yet read with ease, he was under the necessity of getting his mother, and sometimes his elder brother, to read passages from the book for him while he sat by and listened. Feeling hampered by his ignorance of the art of reading, and eager to master the contents of Burnet’s book, he ceased attending the drawing class at the Institute after the first quarter, and devoted himself to learning reading and writing at home. In this he soon succeeded; and when he again entered the Institute and took out ‘Burnet’ a second time, he was not only able to read it, but to make written extracts for further use. So ardently did he study the volume, that he used to rise at four o’clock in the morning to read it and copy out passages; after which he went to the foundry at six, worked until six and sometimes eight in the evening; and returned home to enter with fresh zest upon the study of Burnet, which he continued often until a late hour. Parts of his nights were also occupied in drawing and making copies of drawings. On one of these—a copy of Leonardo da Vinci’s “Last Supper”—he spent an entire night. He went to bed indeed, but his mind was so engrossed with the subject that he could not sleep, and rose again to resume his pencil."
   },
   {
    "id": "saigoku-risshi-hen-000253",
@@ -15329,6 +15331,13 @@
      "a": "等候",
      "r": "マツ"
     }
+   ],
+   "genbun": "He next proceeded to try his hand at painting in oil, for which purpose he procured some canvas from a draper, stretched it on a frame, coated it over with white lead, and began painting on it with colours bought from a house-painter. But his work proved a total failure; for the canvas was rough and knotty, and the paint would not dry. In his extremity he applied to his old teacher, the barber, from whom he first learnt that prepared canvas was to be had, and that there were colours and varnishes made for the special purpose of oil-painting. As soon therefore, as his means would allow, he bought a small stock of the necessary articles and began afresh,—his amateur master showing him how to paint; and the pupil succeeded so well that he excelled the master’s copy. His first picture was a copy from an engraving called “Sheep-shearing,” and was afterwards sold by him for half-a-crown. Aided by a shilling Guide to Oil-painting, he went on working at his leisure hours, and gradually acquired a better knowledge of his materials. He made his own easel and palette, palette-knife, and paint-chest; he bought his paint, brushes, and canvas, as he could raise the money by working over-time. This was the slender fund which his parents consented to allow him for the purpose; the burden of supporting a very large family precluding them from doing more. Often he would walk to Manchester and back in the evenings to buy two or three shillings’ worth of paint and canvas, returning almost at midnight, after his eighteen miles’ walk, sometimes wet through and completely exhausted, but borne up throughout by his inexhaustible hope and invincible determination. The further progress of the self-taught artist is best narrated in his own words, as communicated by him in a letter to the author:—\n“The next pictures I painted,” he says, “were a Landscape by Moonlight, a Fruitpiece, and one or two others; after which I conceived the idea of painting ‘The Forge.’ I had for some time thought about it, but had not attempted to embody the conception in a drawing. I now, however, made a sketch of the subject upon paper, and then proceeded to paint it on canvas. The picture simply represents the interior of a large workshop such as I have been accustomed to work in, although not of any particular shop. It is, therefore, to this extent, an original conception. Having made an outline of the subject, I found that, before I could proceed with it successfully, a knowledge of anatomy was indispensable to enable me accurately to delineate the muscles of the figures. My brother Peter came to my assistance at this juncture, and kindly purchased for me Flaxman’s ‘Anatomical studies,’—a work altogether beyond my means at the time, for it cost twenty-four shillings. This book I looked upon as a great treasure, and I studied it laboriously, rising at three o’clock in the morning to draw after it, and occasionally getting my brother Peter to stand for me as a model at that untimely hour. Although I gradually improved myself by this practice, it was some time before I felt sufficient confidence to go on with my picture. I also felt hampered by my want of knowledge of perspective, which I endeavoured to remedy by carefully studying Brook Taylor’s ‘Principles;’ and shortly after I resumed my painting. While engaged in the study of perspective at home, I used to apply for and obtain leave to work at the heavier kinds of smith work at the foundry, and for this reason—the time required for heating the heaviest iron work is so much longer than that required for heating the lighter, that it enabled me to secure a number of spare minutes in the course of the day, which I carefully employed in making diagrams in perspective upon the sheet iron casing in front of the hearth at which I worked.”",
+   "chu": [
+    {
+     "a": "半クラウンノ價ニテ賣タリ",
+     "n": "原文には、一シリングの油絵の手引き書を頼りにしたこと、画架もパレットも絵の具箱も自分で作ったこと、絵の具を買う金は残業でかせいだことがあるが、中村の訳にはない。「往返十八里」は原文の 18 マイル"
+    }
    ]
   },
   {
@@ -15362,6 +15371,13 @@
     {
      "a": "沙氏自ラ",
      "r": "シヤープルスミヅカ"
+    }
+   ],
+   "genbun": "Thus assiduously working and studying, James Sharples steadily advanced in his knowledge of the principles of art, and acquired greater facility in its practice. Some eighteen months after the expiry of his apprenticeship he painted a portrait of his father, which attracted considerable notice in the town; as also did the picture of “The Forge,” which he finished soon after. His success in portrait-painting obtained for him a commission from the foreman of the shop to paint a family group, and Sharples executed it so well that the foreman not only paid him the agreed price of eighteen pounds, but thirty shillings to boot. While engaged on this group he ceased to work at the foundry, and he had thoughts of giving up his trade altogether and devoting himself exclusively to painting. He proceeded to paint several pictures, amongst others a head of Christ, an original conception, life-size, and a view of Bury; but not obtaining sufficient employment at portraits to occupy his time, or give him the prospect of a steady income, he had the good sense to resume his leather apron, and go on working at his honest trade of a blacksmith; employing his leisure hours in engraving his picture of “The Forge,” since published. He was induced to commence the engraving by the following circumstance. A Manchester picture-dealer, to whom he showed the painting, let drop the observation, that in the hands of a skilful engraver it would make a very good print. Sharples immediately conceived the idea of engraving it himself, though altogether ignorant of the art. The difficulties which he encountered and successfully overcame in carrying out his project are thus described by himself:—",
+   "chu": [
+    {
+     "a": "自ラ鎔鐵塲ノ圖ヲ、鋼板ニ雕刻シ",
+     "n": "原文には、等身大のキリストの頭部やベリーの眺めも描いたこと、マンチェスターの画商が「腕のある版画家の手にかかれば、よい版画になる」ともらしたのがきっかけで、版画の技を何も知らないまま自分で彫ろうと思い立ったことがあるが、中村の訳は短くまとめている"
     }
    ]
   },
@@ -15398,6 +15414,13 @@
      "a": "功勳",
      "r": "ハタラキ"
     }
+   ],
+   "genbun": "“I had seen an advertisement of a Sheffield steel-plate maker, giving a list of the prices at which he supplied plates of various sizes, and, fixing upon one of suitable dimensions, I remitted the amount, together with a small additional sum for which I requested him to send me a few engraving tools. I could not specify the articles wanted, for I did not then know anything about the process of engraving. However, there duly arrived with the plate three or four gravers and an etching needle; the latter I spoiled before I knew its use. While working at the plate, the Amalgamated Society of Engineers offered a premium for the best design for an emblematical picture, for which I determined to compete, and I was so fortunate as to win the prize. Shortly after this I removed to Blackburn, where I obtained employment at Messrs. Yates’, engineers, as an engine-smith; and continued to employ my leisure time in drawing, painting, and engraving, as before. With the engraving I made but very slow progress, owing to the difficulties I experienced from not possessing proper tools. I then determined to try to make some that would suit my purpose, and after several failures I succeeded in making many that I have used in the course of my engraving. I was also greatly at a loss for want of a proper magnifying glass, and part of the plate was executed with no other assistance of this sort than what my father’s spectacles afforded, though I afterwards succeeded in obtaining a proper magnifier, which was of the utmost use to me. An incident occurred while I was engraving the plate, which had almost caused me to abandon it altogether. It sometimes happened that I was obliged to lay it aside for a considerable time, when other work pressed; and in order to guard it against rust, I was accustomed to rub over the graven parts with oil. But on examining the plate after one of such intervals, I found that the oil had become a dark sticky substance extremely difficult to get out. I tried to pick it out with a needle, but found that it would almost take as much time as to engrave the parts afresh. I was in great despair at this, but at length hit upon the expedient of boiling it in water containing soda, and afterwards rubbing the engraved parts with a tooth-brush; and to my delight found the plan succeeded perfectly. My greatest difficulties now over, patience and perseverance were all that were needed to bring my labours to a successful issue. I had neither advice nor assistance from any one in finishing the plate. If, therefore, the work possess any merit, I can claim it as my own; and if in its accomplishment I have contributed to show what can be done by persevering industry and determination, it is all the honour I wish to lay claim to.”",
+   "chu": [
+    {
+     "a": "既ニシテソノ鋼板",
+     "n": "原文には、合同機械工組合が懸けた象徴画の図案の賞を取ったこと、ブラックバーンに移ってイェーツ商会で機関の鍛冶として働いたこと、ふさわしい拡大鏡がなく、版の一部は父の眼鏡だけを頼りに彫ったことがあるが、中村の訳にはない"
+    }
    ]
   },
   {
@@ -15431,6 +15454,13 @@
     {
      "a": "聞",
      "r": "キヽ"
+    }
+   ],
+   "genbun": "It would be beside our purpose to enter upon any criticism of “The Forge” as an engraving; its merits having been already fully recognised by the art journals. The execution of the work occupied Sharples’s leisure evening hours during a period of five years; and it was only when he took the plate to the printer that he for the first time saw an engraved plate produced by any other man. To this unvarnished picture of industry and genius, we add one other trait, and it is a domestic one. “I have been married seven years,” says he, “and during that time my greatest pleasure, after I have finished my daily labour at the foundry, has been to resume my pencil or graver, frequently until a late hour of the evening, my wife meanwhile sitting by my side and reading to me from some interesting book,”—a simple but beautiful testimony to the thorough common sense as well as the genuine right-heartedness of this most interesting and deserving workman.",
+   "chu": [
+    {
+     "a": "沙氏自ラ家中ノ情景ヲ述タル語アリ",
+     "n": "原文はこの前に、版画としての『鍛冶場』の値打ちは美術雑誌がすでに認めていること、この仕事が五年のあいだ晩の暇な時間を占めたこと、印刷所に板を持っていって初めて他人の彫った版を見たことを述べるが、中村の訳にはない"
     }
    ]
   },
@@ -15478,7 +15508,8 @@
      "a": "倦",
      "r": "マ"
     }
-   ]
+   ],
+   "genbun": "The same industry and application which we have found to be necessary in order to acquire excellence in painting and sculpture, are equally required in the sister art of music—the one being the poetry of form and colour, the other of the sounds of nature. Handel was an indefatigable and constant worker; he was never cast down by defeat, but his energy seemed to increase the more that adversity struck him. When a prey to his mortifications as an insolvent debtor, he did not give way for a moment, but in one year produced his ‘Saul,’ ‘Israel,’ the music for Dryden’s ‘Ode,’ his ‘Twelve Grand Concertos,’ and the opera of ‘Jupiter in Argos,’ among the finest of his works. As his biographer says of him, “He braved everything, and, by his unaided self, accomplished the work of twelve men.”"
   },
   {
    "id": "saigoku-risshi-hen-000258",
@@ -15500,7 +15531,8 @@
      "a": "海同",
      "r": "ハイドン"
     }
-   ]
+   ],
+   "genbun": "Haydn, speaking of his art, said, “It consists in taking up a subject and pursuing it.”"
   },
   {
    "id": "saigoku-risshi-hen-000259",
@@ -15539,6 +15571,17 @@
     {
      "a": "拔克",
      "r": "バツハ"
+    }
+   ],
+   "genbun": "“Work,” said Mozart, “is my chief pleasure.” Beethoven’s favourite maxim was, “The barriers are not erected which can say to aspiring talents and industry, ‘Thus far and no farther.’” When Moscheles submitted his score of ‘Fidelio’ for the pianoforte to Beethoven, the latter found written at the bottom of the last page, “Finis, with God’s help.” Beethoven immediately wrote underneath, “O man! help thyself!” This was the motto of his artistic life. John Sebastian Bach said of himself, “I was industrious; whoever is equally sedulous, will be equally successful.” But there is no doubt that Bach was born with a passion for music, which formed the mainspring of his industry, and was the true secret of his success. When a mere youth, his elder brother, wishing to turn his abilities in another direction, destroyed a collection of studies which the young Sebastian, being denied candles, had copied by moonlight; proving the strong natural bent of the boy’s genius. Of Meyerbeer, Bayle thus wrote from Milan in 1820:—“He is a man of some talent, but no genius; he lives solitary, working fifteen hours a day at music.” Years passed, and Meyerbeer’s hard work fully brought out his genius, as displayed in his ‘Roberto,’ ‘Huguenots,’ ‘Prophète,’ and other works, confessedly amongst the greatest operas which have been produced in modern times.",
+   "chu": [
+    {
+     "a": "日耳曼ノ樂師莫備托反",
+     "n": "原文はここに、モーツァルトの言葉（「仕事が、私のいちばんの楽しみである」）と、ベートーヴェンの好んだ格言とを続けて置く。中村の訳文の「莫備托反」は、モーツァルトとベートーヴェンの名が一つになっているように見える。起こしの誤りか、本文の見直しのときに画像で確かめる"
+    },
+    {
+     "a": "ミヱルベイルハ每日十五時ノ間",
+     "n": "中村の訳はここで第六編を終える。原文は、マイアベーアの懸命な働きがのちに『悪魔のロベール』『ユグノー教徒』『預言者』に天分を現した、と続ける。原書はさらに五つの段落を置く（段落 72〜76）。法律家にされかけて音楽家になったアーンの話と、粉屋の息子で独学のオルガン奏者・作曲家ウィリアム・ジャクソンの話で、中村の訳にはない"
     }
    ]
   },
@@ -32626,7 +32669,7 @@
  ],
  "poems": [],
  "translation": {
-  "count": 204,
+  "count": 213,
   "note": "AI による現代語訳と書き下し"
  },
  "original": "Self-Help (1859)",
