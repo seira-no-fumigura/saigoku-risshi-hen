@@ -1,4 +1,4 @@
-name: 現代語訳の誤り
+name: 訳の誤り
 description: 現代語訳の誤りや、よりよい現代語訳を知らせる
 title: "[訳] 西国立志編 "
 labels: ["訳"]
@@ -7,7 +7,7 @@ body:
     id: block
     attributes:
       label: 段落ID
-      description: "行頭にある ID（例: saigoku-risshi-hen-000001）"
+      description: "yaku/ の行頭にある ID（例: saigoku-risshi-hen-000001）"
     validations:
       required: true
   - type: textarea
